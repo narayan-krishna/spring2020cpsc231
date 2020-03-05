@@ -2,6 +2,7 @@
 //java for jupyter notebook 2020
 
 import java.util.Random;
+import java.lang.Math;
 
 public class SyntaxTests{
 
@@ -38,9 +39,17 @@ public class SyntaxTests{
     }
   }
 
+  //a=pi*r^2
+  public static double areaCircle (double radius){
+    return Math.PI*(Math.pow(radius, 2));
+  }
+
+  //v=pi*r*2^h
+  public static double volCylinder (double radius, double height){
+    return areaCircle(radius)*height;
+  }
+
   public static void main(String[] args){
-    //helloWorld();
-    //array();
-    array2dTest();
+    System.out.println(volCylinder(3,10));
   }
 }
