@@ -49,7 +49,47 @@ public class SyntaxTests{
     return areaCircle(radius)*height;
   }
 
+  public static int increment(int n){
+    return ++n;
+  }
+
+  //method 1
+  public static int sumToLimit(int limit){
+    int sum = 0;
+    for(int i = 1; i <= limit; ++i){
+      sum += i;
+    }
+    return sum;
+  }
+
+  public static int max(int num1, int num2){
+    int max = num1;
+    if (num2 > num1){
+      max = num2;
+    }
+    return max;
+  }
+
+  public static double max(double num1, double num2){
+    double max = num1;
+    if (num2 > num1){
+      max = num2;
+    }
+    return max;
+  }
+
+  public static char max(char char1, char char2){
+    char max = char1;
+    if (char2 > char1){
+      max = char2;
+    }
+    return max;
+  }
+
+
   public static void main(String[] args){
-    System.out.println(volCylinder(3,10));
+    System.out.println(max(3,7));
+    System.out.println(max(73.2,37.9));
+    System.out.println(max('a', 'z'));
   }
 }
