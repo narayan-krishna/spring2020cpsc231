@@ -1,6 +1,6 @@
 public class StudentRecord{
 
-  //private variable members
+  //private member instance variables
 
   private int quizOne;
   private int quizTwo;
