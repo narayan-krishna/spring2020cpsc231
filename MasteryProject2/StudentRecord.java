@@ -1,3 +1,17 @@
+// Krishna Narayan
+// 2327305
+// narayan@chapman.edu
+// CPSC298: Introduction to C++
+// Mastery Project 2, Part 2: Student Record
+
+//the following is a class called student record. it is used to
+//construct a student record, which holds a students point scores
+//on 3 quizzes, a midterm, and a final, as well as a numeric score
+//and a letter grade. along with getters and setters, the object
+//has methods which can be used for calculating the numeric score,
+//finding the approriate letter grade, or deciding if the record
+//is equal to the record of another student
+
 public class StudentRecord{
 
   //private member instance variables
