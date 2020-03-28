@@ -164,7 +164,9 @@ public class StudentRecord{
     System.out.println(stuart.computeLetterGrade());
     System.out.println(stuart.toString());
 
-    StudentRecord bob = new StudentRecord(20, 30, 30, 50, 50, 70.0, 'C');
-    // System.out.println(bob.equals(stuart));
+    StudentRecord bob = new StudentRecord(8, 8, 8, 50, 50, 70.0, 'C');
+    System.out.println(bob.computeNumericScore());
+    System.out.println(bob.computeLetterGrade());
+    System.out.println(bob.toString());
   }
 }
