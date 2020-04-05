@@ -11,9 +11,13 @@
 
 public class Pizza{
 
+  /**Size of the pizza*/
   private char size;
+  /**Number of cheese toppings*/
   private int cheeseToppings;
+  /**Number of pepperoni toppings*/
   private int pepperoniToppings;
+  /**Number of veggie toppings*/
   private int veggieToppings;
 
   /**The default constructor - sets the size to 'X', cheese toppings, pepperoni
@@ -133,21 +137,21 @@ public class Pizza{
     + veggieToppings + "\nCost: " + calcCost();
   }
 
-  /** The main method. Exercises the Pizza class functionality.
-  * @param args The command line arguments (not used)
-  */
-  public static void main(String[]args){
-    Pizza pie = new Pizza();
-    pie.setSize('l');
-    pie.setCheeseToppings(1);
-    pie.setPepperoniToppings(1);
-    pie.setVeggieToppings(2);
-    System.out.println(pie.getSize());
-    System.out.println(pie.getCheeseToppings());
-    System.out.println(pie.getPepperoniToppings());
-    System.out.println(pie.getVeggieToppings());
-    System.out.println(pie.calcCost());
-    System.out.println(pie.toString());
-  }
+  // /** The main method. Exercises the Pizza class functionality.
+  // * @param args The command line arguments (not used)
+  // */
+  // public static void main(String[]args){
+  //   Pizza pie = new Pizza();
+  //   pie.setSize('l');
+  //   pie.setCheeseToppings(1);
+  //   pie.setPepperoniToppings(1);
+  //   pie.setVeggieToppings(2);
+  //   System.out.println(pie.getSize());
+  //   System.out.println(pie.getCheeseToppings());
+  //   System.out.println(pie.getPepperoniToppings());
+  //   System.out.println(pie.getVeggieToppings());
+  //   System.out.println(pie.calcCost());
+  //   System.out.println(pie.toString());
+  // }
 
 }
