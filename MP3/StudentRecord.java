@@ -1,32 +1,44 @@
-// Krishna Narayan
-// 2327305
-// narayan@chapman.edu
-// CPSC298: Introduction to C++
-// Mastery Project 2, Part 2: Student Record
+/** StudentRecord.java
+*
+* This is a StudentRecord class
+* @author Krishna Narayan
+* @author Student ID: 2327205
+* @author narayan@chapman.edu
+* CPSC 231-02 - Dr. Stevens
+* Mastery Project 3: Javadoc
+* @version 1.0
+*/
 
-//the following is a class called student record. it is used to
-//construct a student record, which holds a students point scores
-//on 3 quizzes, a midterm, and a final, as well as a numeric score
-//and a letter grade. along with getters and setters, the object
-//has methods which can be used for calculating the numeric score,
-//finding the approriate letter grade, or deciding if the record
-//is equal to the record of another student
+/** This StudentRecord class is used to represent the grade records of a
+* student given three quizzes, a midterm, and a final exam.
+* The class consists of basic methods for getting and changing various
+* assessment grades within the record, as well as calculating a numeric
+* score based off these assessment grades. A letter grade method can also be
+* used to find a letter grade given numeric score.
+*/
 
 public class StudentRecord{
 
-  //private member instance variables
-
+  /**Points acquired on quiz one (out of 10).*/
   private int quizOne;
+  /**Points acquired on quiz two (out of 10).*/
   private int quizTwo;
+  /**Points acquired on quiz three (out of 10).*/
   private int quizThree;
 
+  /**Points acquired on midterm (out of 100).*/
   private int midterm;
+  /**Points acquired on final (out of 100).*/
   private int finalExam;
 
+  /**Student's numeric score.*/
   private double numericScore;
+  /**Student's letter grade.*/
   private char letterGrade;
 
-  //default constructor
+  /**The default constructor - sets the points of quiz one, quiz two, quiz three,
+   * midterm, and final to -1, numeric score to -1.0, and letter grade to 'X'.
+	 */
   public StudentRecord(){
     quizOne = -1;
     quizTwo = -1;
@@ -37,8 +49,19 @@ public class StudentRecord{
     letterGrade = 'X';
   }
 
-  //overloaded constructor
-  public StudentRecord(int usrQuizOne, int usrQuizTwo, int usrQuizThree, int usrMidterm, int usrFinalExam, double usrNumericScore, char usrLetterGrade){
+  /**The overloaded constructor - creates a student record given a point score for
+   * quiz one, quiz two, quiz three, midterm, and final exam, as well as a
+   * numeric score and a letter grade.
+   * @param usrQuizOne int representing quiz one score
+   * @param usrQuizTwo int representing quiz two score
+   * @param usrQuizThree int representing quiz three score
+   * @param usrMidterm int representing midterm totalScore
+   * @param usrFinalExam int representing final exam score
+   * @param usrNumericScore double representing numeric score
+   * @param usrLetterGrade char representing letter grade
+   */
+  public StudentRecord(int usrQuizOne, int usrQuizTwo, int usrQuizThree,
+  int usrMidterm, int usrFinalExam, double usrNumericScore, char usrLetterGrade){
     quizOne = usrQuizOne;
     quizTwo = usrQuizTwo;
     quizThree = usrQuizThree;
@@ -48,75 +71,110 @@ public class StudentRecord{
     letterGrade = usrLetterGrade;
   }
 
-  //SETTERS
-
+  /** Sets quiz one score.
+  * @param usrQuizOne Point score on quiz one
+  */
   public void setQuizOne(int usrQuizOne){
     quizOne = usrQuizOne;
   }
 
+  /** Sets quiz two score.
+  * @param usrQuizTwo Point score on quiz two
+  */
   public void setQuizTwo(int usrQuizTwo){
     quizTwo = usrQuizTwo;
   }
 
+  /** Sets quiz three score.
+  * @param usrQuizThree Point score on quiz three
+  */
   public void setQuizThree(int usrQuizThree){
     quizThree = usrQuizThree;
   }
 
+  /** Sets midterm score.
+  * @param usrMidterm Point score on midterm
+  */
   public void setMidterm(int usrMidterm){
     midterm = usrMidterm;
   }
 
+  /** Sets final score.
+  * @param usrFinalExam Point score on final
+  */
   public void setFinalExam(int usrFinalExam){
     finalExam = usrFinalExam;
   }
 
-  //GETTERS
-
+  /** Returns quiz one score.
+  * @return an int representing quiz one score
+  */
   public int getQuizOne(){
     return quizOne;
   }
 
+  /** Returns quiz two score.
+  * @return an int representing quiz two score
+  */
   public int getQuizTwo(){
     return quizTwo;
   }
 
+  /** Returns quiz three score.
+  * @return an int representing quiz three score
+  */
   public int getQuizThree(){
     return quizThree;
   }
 
+  /** Returns midterm score.
+  * @return an int representing midterm score
+  */
   public int getMidterm(){
     return midterm;
   }
 
+  /** Returns final exam score.
+  * @return an int representing final exam score
+  */
   public int getFinalExam(){
     return finalExam;
   }
 
+  /** Returns numeric score.
+  * @return a double representing numeric score
+  */
   public double getNumericScore(){
     return numericScore;
   }
 
+  /** Returns letter grade.
+  * @return a char representing letter grade
+  */
   public char getLetterGrade(){
     return letterGrade;
   }
 
-  //compute final numeric score based on points accumulated through assessment
+  /** Sets and returns numeric score by calculating given point scores of
+  * quiz one, quiz two, quiz three, midterm, and final, and their respective
+  * grade weights.
+  * @return a double representing numeric score
+  */
   public double computeNumericScore(){
     double totalScore = 0;
 
-    //first solver for grade percentages
     double quizPercentage = ((quizOne+quizTwo+quizThree)/30.0)*100;
     double midtermPercentage = (midterm/100.0)*100;
     double finalPercentage = (finalExam/100.0)*100;
 
-    //add percentages while taking into account the weight of each grade
     totalScore = quizPercentage*.25 + midtermPercentage*.35 + finalPercentage*.4;
-    numericScore = totalScore; //set numeric score to this value
-    return totalScore; //return this total score as well
+    numericScore = totalScore;
+    return totalScore;
   }
 
-  //find the letter grade based on numeric score. series of if else statements.
-  //if you are within a certain range, you get this letter grade. etc.
+  /** Sets and returns letter grade based on numeric score
+  * @return a char representing letter grade
+  */
   public char computeLetterGrade(){
     if(numericScore >= 90){
       letterGrade = 'A';
@@ -136,18 +194,21 @@ public class StudentRecord{
     }
   }
 
-  //returns all the data of student record into a nicely formatted string
+  /** Returns a pretty-printed string representation of the student record.
+  * @return A string representation of the StudentRecord object.
+  */
   public String toString(){
-    return "Quiz 1 points: " + quizOne + " | Quiz 2 points: " + quizTwo
-    + " | Quiz 3 points: " + quizThree + " | Midterm points: " + midterm +
-    " | Final exam points: " + finalExam + " | Numeric score: " + numericScore
-    + " | Letter grade: " + letterGrade;
+    return "Quiz 1 points: " + quizOne + "\nQuiz 2 points: " + quizTwo
+    + "\nQuiz 3 points: " + quizThree + "\nMidterm points: " + midterm +
+    "\nFinal exam points: " + finalExam + "\nNumeric score: " + numericScore
+    + "\nLetter grade: " + letterGrade;
   }
 
-  //tests if one student record is equal to another given record
+  /** Returns a boolean depending on whether the point scores of one
+  * student record are all equal to the point scores of another student record
+  * @return A boolean representating whether two records are equal
+  */
   public boolean equals(StudentRecord studentRecord){
-    //if all of the scores are equal, then the records are equal. therefore,
-    //to return true, the following conditionals must all be true.
     if(studentRecord.getQuizOne() == quizOne && studentRecord.getQuizTwo() == quizTwo &&
     studentRecord.getQuizThree() == quizThree && studentRecord.getMidterm() == midterm &&
     studentRecord.getFinalExam() == finalExam){
@@ -157,12 +218,16 @@ public class StudentRecord{
     }
   }
 
-  //main. create records and run accessors, mutators, and other methods here
+  /** The main method. Exercises the StudentRecord class functionality.
+  * @param args The command line arguments (not used)
+  */
   public static void main(String[]args){
     StudentRecord stuart = new StudentRecord(9, 7, 10, 85, 93, 50, 'C');
     System.out.println(stuart.computeNumericScore());
     System.out.println(stuart.computeLetterGrade());
     System.out.println(stuart.toString());
+
+    System.out.println();
 
     StudentRecord bob = new StudentRecord(8, 8, 8, 50, 50, 70.0, 'C');
     System.out.println(bob.computeNumericScore());
