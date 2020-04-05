@@ -13,5 +13,6 @@ Compile/runtime errors, code limitations/deviations:
 
 References:
 zyBooks - Computer Science II
+https://way2java.com/java-lang/class-character/java-character-touppercase-method-example/
 
 Running the Assignment:
