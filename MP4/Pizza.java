@@ -134,7 +134,7 @@ public class Pizza{
   public String toString(){
     return "Size: " + size + "\nCheese Toppings: " + cheeseToppings
     + "\nPepperoni Toppings: " + pepperoniToppings + "\nVeggie Points: "
-    + veggieToppings + "\nCost: " + calcCost();
+    + veggieToppings + "\nCost: " + calcCost() + "\n";
   }
 
   // /** The main method. Exercises the Pizza class functionality.
