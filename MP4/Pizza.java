@@ -21,8 +21,8 @@ public class Pizza{
   private int veggieToppings;
 
   /**The default constructor - sets the size to 'X', cheese toppings, pepperoni
-   *toppings, veggie toppings to -1.
-	 */
+  * toppings, veggie toppings to -1.
+	*/
   public Pizza(){
     size = 'X';
     cheeseToppings = -1;
@@ -128,7 +128,7 @@ public class Pizza{
     }
   }
 
-  /** Returns a pretty-printed string representation of the student record.
+  /** Returns a pretty-printed string representation of the pizza.
   * @return A string representation of the Pizza object.
   */
   public String toString(){
@@ -136,22 +136,4 @@ public class Pizza{
     + "\nPepperoni Toppings: " + pepperoniToppings + "\nVeggie Points: "
     + veggieToppings + "\nCost: " + calcCost() + "\n";
   }
-
-  // /** The main method. Exercises the Pizza class functionality.
-  // * @param args The command line arguments (not used)
-  // */
-  // public static void main(String[]args){
-  //   Pizza pie = new Pizza();
-  //   pie.setSize('l');
-  //   pie.setCheeseToppings(1);
-  //   pie.setPepperoniToppings(1);
-  //   pie.setVeggieToppings(2);
-  //   System.out.println(pie.getSize());
-  //   System.out.println(pie.getCheeseToppings());
-  //   System.out.println(pie.getPepperoniToppings());
-  //   System.out.println(pie.getVeggieToppings());
-  //   System.out.println(pie.calcCost());
-  //   System.out.println(pie.toString());
-  // }
-
 }
