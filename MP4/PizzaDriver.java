@@ -16,7 +16,7 @@ public class PizzaDriver{
   // */
   public static void main(String[]args){
     //make three pizzas, create an order for 2 pizzas, add the three pizzas to
-    //the order, print out the order. 
+    //the order, print out the order.
     Pizza pizza1 = new Pizza('s', 1, 0, 1);
     Pizza pizza2 = new Pizza('m', 2, 2, 0);
     Pizza pizza3 = new Pizza('l', 2, 0, 0);

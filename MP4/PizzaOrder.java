@@ -64,12 +64,9 @@ public class PizzaOrder{
   */
   public double calcTotal(){
     double totalCost = 0;
-    //if the pizza spot in the order is empty, continue to loop
     for(int i = 0; i < numPizzas; ++i){
-      if(order[i] == null){
-        continue;
+      if(order[i] != null){
       //add the calculated cost of the current pizza to the total cost
-      }else{
         totalCost += order[i].calcCost();
       }
     }
@@ -82,9 +79,7 @@ public class PizzaOrder{
   public String toString(){
     String orderString = "Total cost: " + calcTotal() + "\n";
     for(int i = 0; i < numPizzas; ++i){
-      if(order[i] == null){
-        continue;
-      }else{
+      if(order[i] != null){
         orderString += "\nPIZZA " + (i+ 1) + ":\n" + order[i];
       }
     }
