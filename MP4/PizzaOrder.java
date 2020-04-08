@@ -43,9 +43,11 @@ public class PizzaOrder{
   * successful.
   */
   public int addPizza (Pizza pizza){
+    //if the pizza order is full (last pizza isn't null), return -1
     if(order[numPizzas-1] != null){
       return -1;
     }else{
+      //add pizza to the earliest empty spot in the array.
       for(int i = 0; i < numPizzas; ++i){
         if(order[i] == null){
           order[i] = pizza;
@@ -62,9 +64,11 @@ public class PizzaOrder{
   */
   public double calcTotal(){
     double totalCost = 0;
+    //if the pizza spot in the order is empty, continue to loop
     for(int i = 0; i < numPizzas; ++i){
       if(order[i] == null){
         continue;
+      //add the calculated cost of the current pizza to the total cost
       }else{
         totalCost += order[i].calcCost();
       }

@@ -115,6 +115,7 @@ public class Pizza{
   * @return A double representing the cost of the pizza
   */
   public double calcCost(){
+    //calculate toppins cost before adding sized-based pricing.
     double toppingsCost = 2.0*(cheeseToppings+pepperoniToppings+veggieToppings);
     if(size == 'S'){
       return 10 + toppingsCost;
@@ -123,6 +124,7 @@ public class Pizza{
     }else if(size == 'L'){
       return 14 + toppingsCost;
     }else{
+      //return -1 if the size is invalid.
       System.out.println("invalid pizza size, cost cannot be calculated");
       return -1;
     }
