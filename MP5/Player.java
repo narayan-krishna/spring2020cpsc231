@@ -6,9 +6,9 @@ import java.util.Random;
 public class Player{
 
   private LinkedList<Card> ownedCards;
-  private int tag;
+  private String tag;
 
-  public Player(int tag, Deck d){
+  public Player(String tag, Deck d){
     this.tag = tag;
     ownedCards = new LinkedList<Card>();
     for(int i = 0; i < 26; ++i){
@@ -20,12 +20,20 @@ public class Player{
       return ownedCards.size();
   }
 
-  public int getTag(){
+  public String getTag(){
     return tag;
   }
 
   public Card getCard(int index){
     return ownedCards.get(index);
+  }
+
+  public Card[] getHandArray(){
+    Card [] hand = new Card[ownedCards.size()];
+    for(int i = 0; i < ownedCards.size(); ++i){
+      hand[i] = ownedCards.get(i);
+    }
+    return hand;
   }
 
   public Card[] flip(){
@@ -92,49 +100,51 @@ public class Player{
     System.out.println();
   }
 
-  public static void main(String[]args){
-    // Deck d1 = new Deck();
-    // Player p1 = new Player(1, d1);
-    // for(int i = 0; i < p1.getSize(); ++i){
-    //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
-    // }
-    //
-    // System.out.println();
-    // System.out.println(p1.getSize());
-    // System.out.println();
-    //
-    // Card[] flipped = p1.flip();
-    // for (Card card : flipped){
-    //   System.out.println(card.getSuit() + " " + card.getValue());
-    // }
-    // System.out.println();
-    // for(int i = 0; i < p1.getSize(); ++i){
-    //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
-    // }
-    //
-    // System.out.println();
-    // System.out.println(p1.getSize());
-    // System.out.println();
-    //
-    // Card [] collection = {d1.deal(), d1.deal(), d1.deal()};
-    // p1.collect(collection);
-    //
-    // for(int i = 0; i < p1.getSize(); ++i){
-    //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
-    // }
-    //
-    // System.out.println();
-    // System.out.println(p1.getSize());
-    // System.out.println(p1.hasWon());
-    // System.out.println();
-
-    Deck d1 = new Deck();
-    Player p1 = new Player(1, d1);
-    p1.printCards();
-    Card [] flipped = p1.flip();
-    p1.printCards();
-    p1.collect(flipped);
-    p1.printCards();
+  // public static void main(String[]args){
+  //   // Deck d1 = new Deck();
+  //   // Player p1 = new Player(1, d1);
+  //   // for(int i = 0; i < p1.getSize(); ++i){
+  //   //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
+  //   // }
+  //   //
+  //   // System.out.println();
+  //   // System.out.println(p1.getSize());
+  //   // System.out.println();
+  //   //
+  //   // Card[] flipped = p1.flip();
+  //   // for (Card card : flipped){
+  //   //   System.out.println(card.getSuit() + " " + card.getValue());
+  //   // }
+  //   // System.out.println();
+  //   // for(int i = 0; i < p1.getSize(); ++i){
+  //   //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
+  //   // }
+  //   //
+  //   // System.out.println();
+  //   // System.out.println(p1.getSize());
+  //   // System.out.println();
+  //   //
+  //   // Card [] collection = {d1.deal(), d1.deal(), d1.deal()};
+  //   // p1.collect(collection);
+  //   //
+  //   // for(int i = 0; i < p1.getSize(); ++i){
+  //   //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
+  //   // }
+  //   //
+  //   // System.out.println();
+  //   // System.out.println(p1.getSize());
+  //   // System.out.println(p1.hasWon());
+  //   // System.out.println();
+  //
+  //   Deck d1 = new Deck();
+  //   Player p1 = new Player("1", d1);
+  //   p1.printCards();
+  //   Card [] flipped = p1.flip();
+  //   p1.printCards();
+  //   p1.collect(flipped);
+  //   for(Card card : p1.getHandArray()){
+  //     System.out.print(card);
+  //   }
   }
 
 }
