@@ -58,20 +58,12 @@ public class Player{
   }
 
   public void collect(Card[] collection){
-    // Random rand = new Random();
-    // int randIndex = rand.nextInt(collection.length + 1);
     for(Card card : collection){
-      // randIndex = rand.nextInt(collection.length - 1);
       ownedCards.add(card);
     }
   }
 
   public void collect(ArrayList<Card> collection){
-    // Random rand = new Random();
-    // int randIndex = rand.nextInt(collection.size());
-    // for(int i = 0; i < collection.size(); ++i){
-    //   ownedCards.add(ownedCards.size(), collection.get(randIndex));
-    // }
     for(Card card : collection){
       ownedCards.add(card);
     }
@@ -99,52 +91,4 @@ public class Player{
     }
     System.out.println();
   }
-
-  // public static void main(String[]args){
-  //   // Deck d1 = new Deck();
-  //   // Player p1 = new Player(1, d1);
-  //   // for(int i = 0; i < p1.getSize(); ++i){
-  //   //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
-  //   // }
-  //   //
-  //   // System.out.println();
-  //   // System.out.println(p1.getSize());
-  //   // System.out.println();
-  //   //
-  //   // Card[] flipped = p1.flip();
-  //   // for (Card card : flipped){
-  //   //   System.out.println(card.getSuit() + " " + card.getValue());
-  //   // }
-  //   // System.out.println();
-  //   // for(int i = 0; i < p1.getSize(); ++i){
-  //   //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
-  //   // }
-  //   //
-  //   // System.out.println();
-  //   // System.out.println(p1.getSize());
-  //   // System.out.println();
-  //   //
-  //   // Card [] collection = {d1.deal(), d1.deal(), d1.deal()};
-  //   // p1.collect(collection);
-  //   //
-  //   // for(int i = 0; i < p1.getSize(); ++i){
-  //   //   System.out.println((p1.getCard(i)).getSuit() + " " + (p1.getCard(i)).getValue());
-  //   // }
-  //   //
-  //   // System.out.println();
-  //   // System.out.println(p1.getSize());
-  //   // System.out.println(p1.hasWon());
-  //   // System.out.println();
-  //
-  //   Deck d1 = new Deck();
-  //   Player p1 = new Player("1", d1);
-  //   p1.printCards();
-  //   Card [] flipped = p1.flip();
-  //   p1.printCards();
-  //   p1.collect(flipped);
-  //   for(Card card : p1.getHandArray()){
-  //     System.out.print(card);
-  //   }
-  // }
-
 }
