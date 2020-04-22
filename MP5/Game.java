@@ -34,6 +34,10 @@ public class Game{
     return doubleWarCount;
   }
 
+  public int getGameNum(){
+    return gameNum;
+  }
+
   public Card getCompareCard(Card[] draw){
     if(draw.length == 3){
       return draw[1];
@@ -123,48 +127,46 @@ public class Game{
         // System.out.println(getCompareCard(p1Draw) + " vs " + getCompareCard(p2Draw) + " play function");
         war(p1Draw, p2Draw);
       }
-      // System.out.println(p1.hasWon());
-      // System.out.println(p2.hasWon());
     }
     if(p1.hasWon()){
-      WarLogger.getInstance().logBattleOutcome(gameNum, "p1");
+      WarLogger.getInstance().logGameOutcome(gameNum, "p1");
     }else{
-      WarLogger.getInstance().logBattleOutcome(gameNum, "p2");
+      WarLogger.getInstance().logGameOutcome(gameNum, "p2");
     }
     // System.out.println(p1 + " vs " + p2);
     // System.out.println(p1.hasWon());
     // System.out.println(p2.hasWon());
   }
 
-  public static void main(String[]args){
-    for(int i = 0; i < 11; ++i){
-      Game g = new Game(i);
-      System.out.println();
-      g.play();
-      System.out.println(g.getBattleCount());
-      System.out.println(g.getWarCount());
-      System.out.println(g.getDoubleWarCount());
-      System.out.println();
-    }
-
-    // Game g = new Game();
-    // g.play();
-    // System.out.println(g.getBattleCount());
-    // System.out.println(g.getWarCount());
-    // System.out.println(g.getDoubleWarCount());
-    // System.out.println();
-    // Card []p1Original = g.getPlayer1().flip();
-    // for(Card card : p1Original){
-    //   System.out.println(card.getSuit() + " " + card.getValue());
-    // }
-    // System.out.println();
-    // Card []p1Draw = {p1Original[1]};
-    // for(Card card : p1Draw){
-    //   System.out.println(card.getSuit() + " " + card.getValue());
-    // }
-    // System.out.println();
-    // System.out.println((getCompareCard(p1Draw).getSuit()) + " " + (getCompareCard(p1Draw).getValue()));
-
-  }
+  // public static void main(String[]args){
+  //   for(int i = 0; i < 11; ++i){
+  //     Game g = new Game(i);
+  //     System.out.println();
+  //     g.play();
+  //     System.out.println(g.getBattleCount());
+  //     System.out.println(g.getWarCount());
+  //     System.out.println(g.getDoubleWarCount());
+  //     System.out.println();
+  //   }
+  //
+  //   // Game g = new Game();
+  //   // g.play();
+  //   // System.out.println(g.getBattleCount());
+  //   // System.out.println(g.getWarCount());
+  //   // System.out.println(g.getDoubleWarCount());
+  //   // System.out.println();
+  //   // Card []p1Original = g.getPlayer1().flip();
+  //   // for(Card card : p1Original){
+  //   //   System.out.println(card.getSuit() + " " + card.getValue());
+  //   // }
+  //   // System.out.println();
+  //   // Card []p1Draw = {p1Original[1]};
+  //   // for(Card card : p1Draw){
+  //   //   System.out.println(card.getSuit() + " " + card.getValue());
+  //   // }
+  //   // System.out.println();
+  //   // System.out.println((getCompareCard(p1Draw).getSuit()) + " " + (getCompareCard(p1Draw).getValue()));
+  //
+  // }
 
 }

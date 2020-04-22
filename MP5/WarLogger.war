@@ -1,2293 +1,1522 @@
 Battle Number: 1
-Player Number: 1
-Player Hand: 3H AD 6D JH 6S 5D 4S 10C 3D 5H 2H KD 6H 8S 9C 4D 10D 5C 3S KH AC 2D KC QS 7H 4C 
-Battle Number: 2
-Player Number: 1
-Player Hand: JH 6S 5D 4S 10C 3D 5H 2H KD 6H 8S 9C 4D 10D 5C 3S KH AC 2D KC QS 7H 4C 3H AD 6D 4H QD 6C 
-Battle Number: 3
-Player Number: 1
-Player Hand: 4S 10C 3D 5H 2H KD 6H 8S 9C 4D 10D 5C 3S KH AC 2D KC QS 7H 4C 3H AD 6D 4H QD 6C JH 6S 5D 10H 2S JD 
-Battle Number: 4
-Player Number: 1
-Player Hand: 5H 2H KD 6H 8S 9C 4D 10D 5C 3S KH AC 2D KC QS 7H 4C 3H AD 6D 4H QD 6C JH 6S 5D 10H 2S JD 
-Battle Number: 5
-Player Number: 1
-Player Hand: 6H 8S 9C 4D 10D 5C 3S KH AC 2D KC QS 7H 4C 3H AD 6D 4H QD 6C JH 6S 5D 10H 2S JD 
-Battle Number: 6
-Player Number: 1
-Player Hand: 4D 10D 5C 3S KH AC 2D KC QS 7H 4C 3H AD 6D 4H QD 6C JH 6S 5D 10H 2S JD 
-Battle Number: 7
-Player Number: 1
-Player Hand: 3S KH AC 2D KC QS 7H 4C 3H AD 6D 4H QD 6C JH 6S 5D 10H 2S JD 4D 10D 5C KS 8C QH 
-Battle Number: 8
-Player Number: 1
-Player Hand: 2D KC QS 7H 4C 3H AD 6D 4H QD 6C JH 6S 5D 10H 2S JD 4D 10D 5C KS 8C QH 3S KH AC JS 3C 7D 
-Battle Number: 9
-Player Number: 1
-Player Hand: 7H 4C 3H AD 6D 4H QD 6C JH 6S 5D 10H 2S JD 4D 10D 5C KS 8C QH 3S KH AC JS 3C 7D 2D KC QS 9D 9H 2C 
-Battle Number: 10
-Player Number: 1
-Player Hand: AD 6D 4H QD 6C JH 6S 5D 10H 2S JD 4D 10D 5C KS 8C QH 3S KH AC JS 3C 7D 2D KC QS 9D 9H 2C 
-Battle Number: 11
-Player Number: 1
-Player Hand: QD 6C JH 6S 5D 10H 2S JD 4D 10D 5C KS 8C QH 3S KH AC JS 3C 7D 2D KC QS 9D 9H 2C AD 6D 4H 10C 3D JC 
-Battle Number: 12
-Player Number: 1
-Player Hand: 6S 5D 10H 2S JD 4D 10D 5C KS 8C QH 3S KH AC JS 3C 7D 2D KC QS 9D 9H 2C AD 6D 4H 10C 3D JC QD 6C JH AH 5S 5H 
-Battle Number: 13
-Player Number: 1
-Player Hand: 2S JD 4D 10D 5C KS 8C QH 3S KH AC JS 3C 7D 2D KC QS 9D 9H 2C AD 6D 4H 10C 3D JC QD 6C JH AH 5S 5H 
-Battle Number: 14
-Player Number: 1
-Player Hand: 10D 5C KS 8C QH 3S KH AC JS 3C 7D 2D KC QS 9D 9H 2C AD 6D 4H 10C 3D JC QD 6C JH AH 5S 5H 2S JD 4D 7S 8H 6H 
-Battle Number: 15
-Player Number: 1
-Player Hand: 8C QH 3S KH AC JS 3C 7D 2D KC QS 9D 9H 2C AD 6D 4H 10C 3D JC QD 6C JH AH 5S 5H 2S JD 4D 7S 8H 6H 
-Battle Number: 16
-Player Number: 1
-Player Hand: AC JS 3C 7D 2D KC QS 9D 9H 2C AD 6D 4H 10C 3D JC QD 6C JH AH 5S 5H 2S JD 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H 
-Battle Number: 17
-Player Number: 1
-Player Hand: 7D 2D KC QS 9D 9H 2C AD 6D 4H 10C 3D JC QD 6C JH AH 5S 5H 2S JD 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S 
-Battle Number: 18
-Player Number: 1
-Player Hand: QS 9D 9H 2C AD 6D 4H 10C 3D JC QD 6C JH AH 5S 5H 2S JD 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S 
-Battle Number: 19
-Player Number: 1
-Player Hand: 2C AD 6D 4H 10C 3D JC QD 6C JH AH 5S 5H 2S JD 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S QS 9D 9H 10H 2H KD 
-Battle Number: 20
-Player Number: 1
-Player Hand: 4H 10C 3D JC QD 6C JH AH 5S 5H 2S JD 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S QS 9D 9H 10H 2H KD 2C AD 6D 9S 10D 5C 
-Battle Number: 21
-Player Number: 1
-Player Hand: JC QD 6C JH AH 5S 5H 2S JD 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S QS 9D 9H 10H 2H KD 2C AD 6D 9S 10D 5C 4H 10C 3D KS 8S 9C 
-Battle Number: 22
-Player Number: 1
-Player Hand: JH AH 5S 5H 2S JD 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S QS 9D 9H 10H 2H KD 2C AD 6D 9S 10D 5C 4H 10C 3D KS 8S 9C JC QD 6C 8D 7D 2D 
-Battle Number: 23
-Player Number: 1
-Player Hand: 5H 2S JD 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S QS 9D 9H 10H 2H KD 2C AD 6D 9S 10D 5C 4H 10C 3D KS 8S 9C JC QD 6C 8D 7D 2D JH AH 5S KC 4S 6S 
-Battle Number: 24
-Player Number: 1
-Player Hand: 4D 7S 8H 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S QS 9D 9H 10H 2H KD 2C AD 6D 9S 10D 5C 4H 10C 3D KS 8S 9C JC QD 6C 8D 7D 2D JH AH 5S KC 4S 6S 
-Battle Number: 25
-Player Number: 1
-Player Hand: 6H KH 4C 8C QH 3S AS QC 7H AC JS 3C 3H 7C 10S QS 9D 9H 10H 2H KD 2C AD 6D 9S 10D 5C 4H 10C 3D KS 8S 9C JC QD 6C 8D 7D 2D JH AH 5S KC 4S 6S 4D 7S 8H 5H 2S JD 
+Player Number: p1
+Player Hand: 4C 6D 3C QS QC 10D KC KS 8D 4H QD 8H 2S 7H AH JC KH 5D 9H 7D 3S 10S 4S 10C KD 9D 
 Battle Number: 1
-Player Number: 1
-Player Hand: 4D KH 4H 3C KD 4C 7S 8H 7H JH 2S QD 7C 10H 5H 8S 8D 6H 5C 3S 2H 7D JS 4S AS 10C 
+Player Number: p2
+Player Hand: 8S 6C 3D 6H 5S 4D 2H 5C 7C JD JH 6S 7S QH 2C 10H 9S JS 3H 9C 8C 5H AC 2D AS AD 
+The outcome of war 1 is p1
 Battle Number: 2
-Player Number: 1
-Player Hand: 3C KD 4C 7S 8H 7H JH 2S QD 7C 10H 5H 8S 8D 6H 5C 3S 2H 7D JS 4S AS 10C 4D KH 4H QH JC 2D 
+Player Number: p1
+Player Hand: QC 10D KC KS 8D 4H QD 8H 2S 7H AH JC KH 5D 9H 7D 3S 10S 4S 10C KD 9D QS 6H 4C 6D 3C 8S 6C 3D 
+Battle Number: 2
+Player Number: p2
+Player Hand: 5S 4D 2H 5C 7C JD JH 6S 7S QH 2C 10H 9S JS 3H 9C 8C 5H AC 2D AS AD 
+The outcome of battle 2 is p1
 Battle Number: 3
-Player Number: 1
-Player Hand: 7S 8H 7H JH 2S QD 7C 10H 5H 8S 8D 6H 5C 3S 2H 7D JS 4S AS 10C 4D KH 4H QH JC 2D 3C KD 4C QC 9C 6S 
+Player Number: p1
+Player Hand: KS 8D 4H QD 8H 2S 7H AH JC KH 5D 9H 7D 3S 10S 4S 10C KD 9D QS 6H 4C 6D 3C 8S 6C 3D QC 10D KC 5S 4D 2H 
+Battle Number: 3
+Player Number: p2
+Player Hand: 5C 7C JD JH 6S 7S QH 2C 10H 9S JS 3H 9C 8C 5H AC 2D AS AD 
+The outcome of battle 3 is p1
 Battle Number: 4
-Player Number: 1
-Player Hand: JH 2S QD 7C 10H 5H 8S 8D 6H 5C 3S 2H 7D JS 4S AS 10C 4D KH 4H QH JC 2D 3C KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 
+Player Number: p1
+Player Hand: QD 8H 2S 7H AH JC KH 5D 9H 7D 3S 10S 4S 10C KD 9D QS 6H 4C 6D 3C 8S 6C 3D QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD 
+Battle Number: 4
+Player Number: p2
+Player Hand: JH 6S 7S QH 2C 10H 9S JS 3H 9C 8C 5H AC 2D AS AD 
+The outcome of battle 4 is p1
 Battle Number: 5
-Player Number: 1
-Player Hand: 7C 10H 5H 8S 8D 6H 5C 3S 2H 7D JS 4S AS 10C 4D KH 4H QH JC 2D 3C KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 
+Player Number: p1
+Player Hand: 7H AH JC KH 5D 9H 7D 3S 10S 4S 10C KD 9D QS 6H 4C 6D 3C 8S 6C 3D QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 
+Battle Number: 5
+Player Number: p2
+Player Hand: QH 2C 10H 9S JS 3H 9C 8C 5H AC 2D AS AD 
+The outcome of battle 5 is p1
 Battle Number: 6
-Player Number: 1
-Player Hand: 8S 8D 6H 5C 3S 2H 7D JS 4S AS 10C 4D KH 4H QH JC 2D 3C KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 
+Player Number: p1
+Player Hand: KH 5D 9H 7D 3S 10S 4S 10C KD 9D QS 6H 4C 6D 3C 8S 6C 3D QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 
+Battle Number: 6
+Player Number: p2
+Player Hand: 9S JS 3H 9C 8C 5H AC 2D AS AD 
+The outcome of battle 6 is p2
 Battle Number: 7
-Player Number: 1
-Player Hand: 5C 3S 2H 7D JS 4S AS 10C 4D KH 4H QH JC 2D 3C KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC 
+Player Number: p1
+Player Hand: 7D 3S 10S 4S 10C KD 9D QS 6H 4C 6D 3C 8S 6C 3D QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 
+Battle Number: 7
+Player Number: p2
+Player Hand: 9C 8C 5H AC 2D AS AD KH 5D 9H 9S JS 3H 
+The outcome of battle 7 is p2
 Battle Number: 8
-Player Number: 1
-Player Hand: 7D JS 4S AS 10C 4D KH 4H QH JC 2D 3C KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC 
+Player Number: p1
+Player Hand: 4S 10C KD 9D QS 6H 4C 6D 3C 8S 6C 3D QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 
+Battle Number: 8
+Player Number: p2
+Player Hand: AC 2D AS AD KH 5D 9H 9S JS 3H 7D 3S 10S 9C 8C 5H 
+The outcome of battle 8 is p1
 Battle Number: 9
-Player Number: 1
-Player Hand: AS 10C 4D KH 4H QH JC 2D 3C KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC 
+Player Number: p1
+Player Hand: 9D QS 6H 4C 6D 3C 8S 6C 3D QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS 
+Battle Number: 9
+Player Number: p2
+Player Hand: AD KH 5D 9H 9S JS 3H 7D 3S 10S 9C 8C 5H 
+The outcome of battle 9 is p2
 Battle Number: 10
-Player Number: 1
-Player Hand: KH 4H QH JC 2D 3C KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH 
+Player Number: p1
+Player Hand: 4C 6D 3C 8S 6C 3D QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS 
+Battle Number: 10
+Player Number: p2
+Player Hand: 9H 9S JS 3H 7D 3S 10S 9C 8C 5H 9D QS 6H AD KH 5D 
+The outcome of battle 10 is p2
 Battle Number: 11
-Player Number: 1
-Player Hand: JC 2D 3C KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH 
+Player Number: p1
+Player Hand: 8S 6C 3D QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS 
+Battle Number: 11
+Player Number: p2
+Player Hand: 3H 7D 3S 10S 9C 8C 5H 9D QS 6H AD KH 5D 4C 6D 3C 9H 9S JS 
+The outcome of battle 11 is p2
 Battle Number: 12
-Player Number: 1
-Player Hand: KD 4C QC 9C 6S 7S 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH 
+Player Number: p1
+Player Hand: QC 10D KC 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS 
+Battle Number: 12
+Player Number: p2
+Player Hand: 10S 9C 8C 5H 9D QS 6H AD KH 5D 4C 6D 3C 9H 9S JS 8S 6C 3D 3H 7D 3S 
+The outcome of battle 12 is p1
 Battle Number: 13
-Player Number: 1
-Player Hand: 9C 6S 7S 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH KD 4C QC 3S 2H 6C 
+Player Number: p1
+Player Hand: 5S 4D 2H KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS QC 10D KC 10S 9C 8C 
+Battle Number: 13
+Player Number: p2
+Player Hand: 5H 9D QS 6H AD KH 5D 4C 6D 3C 9H 9S JS 8S 6C 3D 3H 7D 3S 
+The outcome of battle 13 is p2
 Battle Number: 14
-Player Number: 1
-Player Hand: 8H 7H KC 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH KD 4C QC 3S 2H 6C 
+Player Number: p1
+Player Hand: KS 8D 4H 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS QC 10D KC 10S 9C 8C 
+Battle Number: 14
+Player Number: p2
+Player Hand: 6H AD KH 5D 4C 6D 3C 9H 9S JS 8S 6C 3D 3H 7D 3S 5S 4D 2H 5H 9D QS 
+The outcome of battle 14 is p2
 Battle Number: 15
-Player Number: 1
-Player Hand: 3D 5D 7C 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH KD 4C QC 3S 2H 6C 8H 7H KC JS 4S JD 
+Player Number: p1
+Player Hand: 5C 7C JD QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS QC 10D KC 10S 9C 8C 
+Battle Number: 15
+Player Number: p2
+Player Hand: 5D 4C 6D 3C 9H 9S JS 8S 6C 3D 3H 7D 3S 5S 4D 2H 5H 9D QS KS 8D 4H 6H AD KH 
+The outcome of battle 15 is p1
 Battle Number: 16
-Player Number: 1
-Player Hand: 10H 5H KS 9H QS 8S 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH KD 4C QC 3S 2H 6C 8H 7H KC JS 4S JD 
+Player Number: p1
+Player Hand: QD 8H 2S JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS QC 10D KC 10S 9C 8C 5C 7C JD 5D 4C 6D 
+Battle Number: 16
+Player Number: p2
+Player Hand: 3C 9H 9S JS 8S 6C 3D 3H 7D 3S 5S 4D 2H 5H 9D QS KS 8D 4H 6H AD KH 
+The outcome of battle 16 is p2
 Battle Number: 17
-Player Number: 1
-Player Hand: 9H QS 8S 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH KD 4C QC 3S 2H 6C 8H 7H KC JS 4S JD 
+Player Number: p1
+Player Hand: JH 6S 7S 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS QC 10D KC 10S 9C 8C 5C 7C JD 5D 4C 6D 
+Battle Number: 17
+Player Number: p2
+Player Hand: JS 8S 6C 3D 3H 7D 3S 5S 4D 2H 5H 9D QS KS 8D 4H 6H AD KH QD 8H 2S 3C 9H 9S 
+The outcome of battle 17 is p2
 Battle Number: 18
-Player Number: 1
-Player Hand: 8D 6H 3H 2C AC AS 10C 4D 6D 9D JH KD 4C QC 3S 2H 6C 8H 7H KC JS 4S JD 9H QS 8S QD 10S JC 
+Player Number: p1
+Player Hand: 7H AH JC QH 2C 10H 4S 10C KD AC 2D AS QC 10D KC 10S 9C 8C 5C 7C JD 5D 4C 6D 
+Battle Number: 18
+Player Number: p2
+Player Hand: 3D 3H 7D 3S 5S 4D 2H 5H 9D QS KS 8D 4H 6H AD KH QD 8H 2S 3C 9H 9S JH 6S 7S JS 8S 6C 
+The outcome of battle 18 is p1
 Battle Number: 19
-Player Number: 1
-Player Hand: 2C AC AS 10C 4D 6D 9D JH KD 4C QC 3S 2H 6C 8H 7H KC JS 4S JD 9H QS 8S QD 10S JC 8D 6H 3H 2D 3C 8C 
+Player Number: p1
+Player Hand: QH 2C 10H 4S 10C KD AC 2D AS QC 10D KC 10S 9C 8C 5C 7C JD 5D 4C 6D 7H AH JC 3D 3H 7D 
+Battle Number: 19
+Player Number: p2
+Player Hand: 3S 5S 4D 2H 5H 9D QS KS 8D 4H 6H AD KH QD 8H 2S 3C 9H 9S JH 6S 7S JS 8S 6C 
+The outcome of battle 19 is p2
 Battle Number: 20
-Player Number: 1
-Player Hand: 10C 4D 6D 9D JH KD 4C QC 3S 2H 6C 8H 7H KC JS 4S JD 9H QS 8S QD 10S JC 8D 6H 3H 2D 3C 8C 2C AC AS 10D 5C 9C 
+Player Number: p1
+Player Hand: 4S 10C KD AC 2D AS QC 10D KC 10S 9C 8C 5C 7C JD 5D 4C 6D 7H AH JC 3D 3H 7D 
+Battle Number: 20
+Player Number: p2
+Player Hand: 2H 5H 9D QS KS 8D 4H 6H AD KH QD 8H 2S 3C 9H 9S JH 6S 7S JS 8S 6C QH 2C 10H 3S 5S 4D 
+The outcome of battle 20 is p1
 Battle Number: 21
-Player Number: 1
-Player Hand: 9D JH KD 4C QC 3S 2H 6C 8H 7H KC JS 4S JD 9H QS 8S QD 10S JC 8D 6H 3H 2D 3C 8C 2C AC AS 10D 5C 9C 
+Player Number: p1
+Player Hand: AC 2D AS QC 10D KC 10S 9C 8C 5C 7C JD 5D 4C 6D 7H AH JC 3D 3H 7D 4S 10C KD 2H 5H 9D 
+Battle Number: 21
+Player Number: p2
+Player Hand: QS KS 8D 4H 6H AD KH QD 8H 2S 3C 9H 9S JH 6S 7S JS 8S 6C QH 2C 10H 3S 5S 4D 
+The outcome of battle 21 is p2
 Battle Number: 22
-Player Number: 1
-Player Hand: 4C QC 3S 2H 6C 8H 7H KC JS 4S JD 9H QS 8S QD 10S JC 8D 6H 3H 2D 3C 8C 2C AC AS 10D 5C 9C 9D JH KD 9S 7D 3D 
+Player Number: p1
+Player Hand: QC 10D KC 10S 9C 8C 5C 7C JD 5D 4C 6D 7H AH JC 3D 3H 7D 4S 10C KD 2H 5H 9D 
+Battle Number: 22
+Player Number: p2
+Player Hand: 4H 6H AD KH QD 8H 2S 3C 9H 9S JH 6S 7S JS 8S 6C QH 2C 10H 3S 5S 4D AC 2D AS QS KS 8D 
+The outcome of battle 22 is p1
 Battle Number: 23
-Player Number: 1
-Player Hand: 2H 6C 8H 7H KC JS 4S JD 9H QS 8S QD 10S JC 8D 6H 3H 2D 3C 8C 2C AC AS 10D 5C 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 
+Player Number: p1
+Player Hand: 10S 9C 8C 5C 7C JD 5D 4C 6D 7H AH JC 3D 3H 7D 4S 10C KD 2H 5H 9D QC 10D KC 4H 6H AD 
+Battle Number: 23
+Player Number: p2
+Player Hand: KH QD 8H 2S 3C 9H 9S JH 6S 7S JS 8S 6C QH 2C 10H 3S 5S 4D AC 2D AS QS KS 8D 
+The outcome of battle 23 is p2
 Battle Number: 24
-Player Number: 1
-Player Hand: 7H KC JS 4S JD 9H QS 8S QD 10S JC 8D 6H 3H 2D 3C 8C 2C AC AS 10D 5C 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 
+Player Number: p1
+Player Hand: 5C 7C JD 5D 4C 6D 7H AH JC 3D 3H 7D 4S 10C KD 2H 5H 9D QC 10D KC 4H 6H AD 
+Battle Number: 24
+Player Number: p2
+Player Hand: 2S 3C 9H 9S JH 6S 7S JS 8S 6C QH 2C 10H 3S 5S 4D AC 2D AS QS KS 8D 10S 9C 8C KH QD 8H 
+The outcome of battle 24 is p1
 Battle Number: 25
-Player Number: 1
-Player Hand: JD 9H QS 8S QD 10S JC 8D 6H 3H 2D 3C 8C 2C AC AS 10D 5C 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 
+Player Number: p1
+Player Hand: 5D 4C 6D 7H AH JC 3D 3H 7D 4S 10C KD 2H 5H 9D QC 10D KC 4H 6H AD 5C 7C JD 2S 3C 9H 
+Battle Number: 25
+Player Number: p2
+Player Hand: 9S JH 6S 7S JS 8S 6C QH 2C 10H 3S 5S 4D AC 2D AS QS KS 8D 10S 9C 8C KH QD 8H 
+The outcome of battle 25 is p2
 Battle Number: 26
-Player Number: 1
-Player Hand: 8S QD 10S JC 8D 6H 3H 2D 3C 8C 2C AC AS 10D 5C 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 
+Player Number: p1
+Player Hand: 7H AH JC 3D 3H 7D 4S 10C KD 2H 5H 9D QC 10D KC 4H 6H AD 5C 7C JD 2S 3C 9H 
+Battle Number: 26
+Player Number: p2
+Player Hand: 7S JS 8S 6C QH 2C 10H 3S 5S 4D AC 2D AS QS KS 8D 10S 9C 8C KH QD 8H 5D 4C 6D 9S JH 6S 
+The outcome of battle 26 is p1
 Battle Number: 27
-Player Number: 1
-Player Hand: JC 8D 6H 3H 2D 3C 8C 2C AC AS 10D 5C 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 8S QD 10S 6D 6S 7S 
+Player Number: p1
+Player Hand: 3D 3H 7D 4S 10C KD 2H 5H 9D QC 10D KC 4H 6H AD 5C 7C JD 2S 3C 9H 7H AH JC 7S JS 8S 
+Battle Number: 27
+Player Number: p2
+Player Hand: 6C QH 2C 10H 3S 5S 4D AC 2D AS QS KS 8D 10S 9C 8C KH QD 8H 5D 4C 6D 9S JH 6S 
+The outcome of battle 27 is p2
 Battle Number: 28
-Player Number: 1
-Player Hand: 3H 2D 3C 8C 2C AC AS 10D 5C 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 8S QD 10S 6D 6S 7S JC 8D 6H 5S 2H 6C 
+Player Number: p1
+Player Hand: 4S 10C KD 2H 5H 9D QC 10D KC 4H 6H AD 5C 7C JD 2S 3C 9H 7H AH JC 7S JS 8S 
+Battle Number: 28
+Player Number: p2
+Player Hand: 10H 3S 5S 4D AC 2D AS QS KS 8D 10S 9C 8C KH QD 8H 5D 4C 6D 9S JH 6S 3D 3H 7D 6C QH 2C 
+The outcome of battle 28 is p1
 Battle Number: 29
-Player Number: 1
-Player Hand: 8C 2C AC AS 10D 5C 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 8S QD 10S 6D 6S 7S JC 8D 6H 5S 2H 6C 
+Player Number: p1
+Player Hand: 2H 5H 9D QC 10D KC 4H 6H AD 5C 7C JD 2S 3C 9H 7H AH JC 7S JS 8S 4S 10C KD 10H 3S 5S 
+Battle Number: 29
+Player Number: p2
+Player Hand: 4D AC 2D AS QS KS 8D 10S 9C 8C KH QD 8H 5D 4C 6D 9S JH 6S 3D 3H 7D 6C QH 2C 
+The outcome of battle 29 is p2
 Battle Number: 30
-Player Number: 1
-Player Hand: AS 10D 5C 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 8S QD 10S 6D 6S 7S JC 8D 6H 5S 2H 6C 
+Player Number: p1
+Player Hand: QC 10D KC 4H 6H AD 5C 7C JD 2S 3C 9H 7H AH JC 7S JS 8S 4S 10C KD 10H 3S 5S 
+Battle Number: 30
+Player Number: p2
+Player Hand: AS QS KS 8D 10S 9C 8C KH QD 8H 5D 4C 6D 9S JH 6S 3D 3H 7D 6C QH 2C 2H 5H 9D 4D AC 2D 
+The outcome of battle 30 is p2
 Battle Number: 31
-Player Number: 1
-Player Hand: 9C 9D JH KD 9S 7D 3D 4C QC 3S 5D 7C AD 8S QD 10S 6D 6S 7S JC 8D 6H 5S 2H 6C 
+Player Number: p1
+Player Hand: 4H 6H AD 5C 7C JD 2S 3C 9H 7H AH JC 7S JS 8S 4S 10C KD 10H 3S 5S 
+Battle Number: 31
+Player Number: p2
+Player Hand: 8D 10S 9C 8C KH QD 8H 5D 4C 6D 9S JH 6S 3D 3H 7D 6C QH 2C 2H 5H 9D 4D AC 2D QC 10D KC AS QS KS 
+The outcome of battle 31 is p2
 Battle Number: 32
-Player Number: 1
-Player Hand: KD 9S 7D 3D 4C QC 3S 5D 7C AD 8S QD 10S 6D 6S 7S JC 8D 6H 5S 2H 6C 
+Player Number: p1
+Player Hand: 5C 7C JD 2S 3C 9H 7H AH JC 7S JS 8S 4S 10C KD 10H 3S 5S 
+Battle Number: 32
+Player Number: p2
+Player Hand: 8C KH QD 8H 5D 4C 6D 9S JH 6S 3D 3H 7D 6C QH 2C 2H 5H 9D 4D AC 2D QC 10D KC AS QS KS 4H 6H AD 8D 10S 9C 
+The outcome of battle 32 is p2
 Battle Number: 33
-Player Number: 1
-Player Hand: 4C QC 3S 5D 7C AD 8S QD 10S 6D 6S 7S JC 8D 6H 5S 2H 6C 3D 2S KD 9S 7D JD 9H QS 
+Player Number: p1
+Player Hand: 2S 3C 9H 7H AH JC 7S JS 8S 4S 10C KD 10H 3S 5S 
+Battle Number: 33
+Player Number: p2
+Player Hand: 8H 5D 4C 6D 9S JH 6S 3D 3H 7D 6C QH 2C 2H 5H 9D 4D AC 2D QC 10D KC AS QS KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 
+The outcome of battle 33 is p2
 Battle Number: 34
-Player Number: 1
-Player Hand: 5D 7C AD 8S QD 10S 6D 6S 7S JC 8D 6H 5S 2H 6C 3D 2S KD 9S 7D JD 9H QS 4C QC 3S 10C 4D 3H 
+Player Number: p1
+Player Hand: 7H AH JC 7S JS 8S 4S 10C KD 10H 3S 5S 
+Battle Number: 34
+Player Number: p2
+Player Hand: 6D 9S JH 6S 3D 3H 7D 6C QH 2C 2H 5H 9D 4D AC 2D QC 10D KC AS QS KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 
+The outcome of battle 34 is p1
 Battle Number: 35
-Player Number: 1
-Player Hand: 8S QD 10S 6D 6S 7S JC 8D 6H 5S 2H 6C 3D 2S KD 9S 7D JD 9H QS 4C QC 3S 10C 4D 3H 5D 7C AD 2D 3C 8H 
+Player Number: p1
+Player Hand: 7S JS 8S 4S 10C KD 10H 3S 5S 7H AH JC 6D 9S JH 
+Battle Number: 35
+Player Number: p2
+Player Hand: 6S 3D 3H 7D 6C QH 2C 2H 5H 9D 4D AC 2D QC 10D KC AS QS KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 
+The outcome of battle 35 is p1
 Battle Number: 36
-Player Number: 1
-Player Hand: 6D 6S 7S JC 8D 6H 5S 2H 6C 3D 2S KD 9S 7D JD 9H QS 4C QC 3S 10C 4D 3H 5D 7C AD 2D 3C 8H 
+Player Number: p1
+Player Hand: 4S 10C KD 10H 3S 5S 7H AH JC 6D 9S JH 7S JS 8S 6S 3D 3H 
+Battle Number: 36
+Player Number: p2
+Player Hand: 7D 6C QH 2C 2H 5H 9D 4D AC 2D QC 10D KC AS QS KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 
+The outcome of battle 36 is p1
 Battle Number: 37
-Player Number: 1
-Player Hand: JC 8D 6H 5S 2H 6C 3D 2S KD 9S 7D JD 9H QS 4C QC 3S 10C 4D 3H 5D 7C AD 2D 3C 8H 
+Player Number: p1
+Player Hand: 10H 3S 5S 7H AH JC 6D 9S JH 7S JS 8S 6S 3D 3H 4S 10C KD 7D 6C QH 
+Battle Number: 37
+Player Number: p2
+Player Hand: 2C 2H 5H 9D 4D AC 2D QC 10D KC AS QS KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 
+The outcome of battle 37 is p1
 Battle Number: 38
-Player Number: 1
-Player Hand: 5S 2H 6C 3D 2S KD 9S 7D JD 9H QS 4C QC 3S 10C 4D 3H 5D 7C AD 2D 3C 8H 
+Player Number: p1
+Player Hand: 7H AH JC 6D 9S JH 7S JS 8S 6S 3D 3H 4S 10C KD 7D 6C QH 10H 3S 5S 2C 2H 5H 
+Battle Number: 38
+Player Number: p2
+Player Hand: 9D 4D AC 2D QC 10D KC AS QS KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 
+The outcome of battle 38 is p1
 Battle Number: 39
-Player Number: 1
-Player Hand: 3D 2S KD 9S 7D JD 9H QS 4C QC 3S 10C 4D 3H 5D 7C AD 2D 3C 8H 
+Player Number: p1
+Player Hand: 6D 9S JH 7S JS 8S 6S 3D 3H 4S 10C KD 7D 6C QH 10H 3S 5S 2C 2H 5H 7H AH JC 9D 4D AC 
+Battle Number: 39
+Player Number: p2
+Player Hand: 2D QC 10D KC AS QS KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 
+The outcome of battle 39 is p2
 Battle Number: 40
-Player Number: 1
-Player Hand: 9S 7D JD 9H QS 4C QC 3S 10C 4D 3H 5D 7C AD 2D 3C 8H 
+Player Number: p1
+Player Hand: 7S JS 8S 6S 3D 3H 4S 10C KD 7D 6C QH 10H 3S 5S 2C 2H 5H 7H AH JC 9D 4D AC 
+Battle Number: 40
+Player Number: p2
+Player Hand: KC AS QS KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 6D 9S JH 2D QC 10D 
+The outcome of battle 40 is p2
 Battle Number: 41
-Player Number: 1
-Player Hand: 9H QS 4C QC 3S 10C 4D 3H 5D 7C AD 2D 3C 8H 
+Player Number: p1
+Player Hand: 6S 3D 3H 4S 10C KD 7D 6C QH 10H 3S 5S 2C 2H 5H 7H AH JC 9D 4D AC 
+Battle Number: 41
+Player Number: p2
+Player Hand: KS 4H 6H AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 6D 9S JH 2D QC 10D 7S JS 8S KC AS QS 
+The outcome of battle 41 is p2
 Battle Number: 42
-Player Number: 1
-Player Hand: QC 3S 10C 4D 3H 5D 7C AD 2D 3C 8H 9H QS 4C KS 4H 8S 
+Player Number: p1
+Player Hand: 4S 10C KD 7D 6C QH 10H 3S 5S 2C 2H 5H 7H AH JC 9D 4D AC 
+Battle Number: 42
+Player Number: p2
+Player Hand: AD 8D 10S 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 6D 9S JH 2D QC 10D 7S JS 8S KC AS QS 6S 3D 3H KS 4H 6H 
+The outcome of battle 42 is p1
 Battle Number: 43
-Player Number: 1
-Player Hand: 4D 3H 5D 7C AD 2D 3C 8H 9H QS 4C KS 4H 8S 
+Player Number: p1
+Player Hand: 7D 6C QH 10H 3S 5S 2C 2H 5H 7H AH JC 9D 4D AC 4S 10C KD AD 8D 10S 
+Battle Number: 43
+Player Number: p2
+Player Hand: 9C 5C 7C JD 8C KH QD 2S 3C 9H 8H 5D 4C 6D 9S JH 2D QC 10D 7S JS 8S KC AS QS 6S 3D 3H KS 4H 6H 
+The outcome of battle 43 is p1
 Battle Number: 44
-Player Number: 1
-Player Hand: 7C AD 2D 3C 8H 9H QS 4C KS 4H 8S 
+Player Number: p1
+Player Hand: 10H 3S 5S 2C 2H 5H 7H AH JC 9D 4D AC 4S 10C KD AD 8D 10S 7D 6C QH 9C 5C 7C 
+Battle Number: 44
+Player Number: p2
+Player Hand: JD 8C KH QD 2S 3C 9H 8H 5D 4C 6D 9S JH 2D QC 10D 7S JS 8S KC AS QS 6S 3D 3H KS 4H 6H 
+The outcome of battle 44 is p2
 Battle Number: 45
-Player Number: 1
-Player Hand: 3C 8H 9H QS 4C KS 4H 8S 7C AD 2D 6S 7S 2C 
+Player Number: p1
+Player Hand: 2C 2H 5H 7H AH JC 9D 4D AC 4S 10C KD AD 8D 10S 7D 6C QH 9C 5C 7C 
+Battle Number: 45
+Player Number: p2
+Player Hand: QD 2S 3C 9H 8H 5D 4C 6D 9S JH 2D QC 10D 7S JS 8S KC AS QS 6S 3D 3H KS 4H 6H 10H 3S 5S JD 8C KH 
+The outcome of war 2 is p2
 Battle Number: 46
-Player Number: 1
-Player Hand: QS 4C KS 4H 8S 7C AD 2D 6S 7S 2C 
+Player Number: p1
+Player Hand: AH JC 9D 4D AC 4S 10C KD AD 8D 10S 7D 6C QH 9C 5C 7C 
+Battle Number: 46
+Player Number: p2
+Player Hand: 8H 5D 4C 6D 9S JH 2D QC 10D 7S JS 8S KC AS QS 6S 3D 3H KS 4H 6H 10H 3S 5S JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 
+The outcome of battle 46 is p1
 Battle Number: 47
-Player Number: 1
-Player Hand: 4H 8S 7C AD 2D 6S 7S 2C 
-Battle Number: 48
-Player Number: 1
-Player Hand: AD 2D 6S 7S 2C 
-Battle Number: 49
-Player Number: 1
-Player Hand: 7S 2C 
-Battle Number: 50
-Player Number: 1
-Player Hand: 7S 2C 5C 7H 3D 
-Battle Number: 51
-Player Number: 1
-Player Hand: 7H 3D 
-Battle Number: 1
-Player Number: 1
-Player Hand: JD 2C 4D 4C JH 2S 10S AC QS AD 9S 3C KS JS 3S AS 9C QC 9D 8H 2H 10H 3H 9H JC AH 
-Battle Number: 2
-Player Number: 1
-Player Hand: 4C JH 2S 10S AC QS AD 9S 3C KS JS 3S AS 9C QC 9D 8H 2H 10H 3H 9H JC AH 
-Battle Number: 3
-Player Number: 1
-Player Hand: 10S AC QS AD 9S 3C KS JS 3S AS 9C QC 9D 8H 2H 10H 3H 9H JC AH 4C JH 2S 2D 10D 8D 
-Battle Number: 4
-Player Number: 1
-Player Hand: AD 9S 3C KS JS 3S AS 9C QC 9D 8H 2H 10H 3H 9H JC AH 4C JH 2S 2D 10D 8D 10S AC QS 7S 8C KH 
-Battle Number: 5
-Player Number: 1
-Player Hand: KS JS 3S AS 9C QC 9D 8H 2H 10H 3H 9H JC AH 4C JH 2S 2D 10D 8D 10S AC QS 7S 8C KH 
-Battle Number: 6
-Player Number: 1
-Player Hand: AS 9C QC 9D 8H 2H 10H 3H 9H JC AH 4C JH 2S 2D 10D 8D 10S AC QS 7S 8C KH KS JS 3S 6D 3D 7D 
-Battle Number: 7
-Player Number: 1
-Player Hand: 9D 8H 2H 10H 3H 9H JC AH 4C JH 2S 2D 10D 8D 10S AC QS 7S 8C KH KS JS 3S 6D 3D 7D AS 9C QC 7C 5D 6S 
-Battle Number: 8
-Player Number: 1
-Player Hand: 10H 3H 9H JC AH 4C JH 2S 2D 10D 8D 10S AC QS 7S 8C KH KS JS 3S 6D 3D 7D AS 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC 
-Battle Number: 9
-Player Number: 1
-Player Hand: JC AH 4C JH 2S 2D 10D 8D 10S AC QS 7S 8C KH KS JS 3S 6D 3D 7D AS 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC 
-Battle Number: 10
-Player Number: 1
-Player Hand: JH 2S 2D 10D 8D 10S AC QS 7S 8C KH KS JS 3S 6D 3D 7D AS 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC JC AH 4C 8S 7H JD 
-Battle Number: 11
-Player Number: 1
-Player Hand: 10D 8D 10S AC QS 7S 8C KH KS JS 3S 6D 3D 7D AS 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC JC AH 4C 8S 7H JD 
-Battle Number: 12
-Player Number: 1
-Player Hand: AC QS 7S 8C KH KS JS 3S 6D 3D 7D AS 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC JC AH 4C 8S 7H JD 
-Battle Number: 13
-Player Number: 1
-Player Hand: 8C KH KS JS 3S 6D 3D 7D AS 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC JC AH 4C 8S 7H JD AC QS 7S 9S 3C 5S 
-Battle Number: 14
-Player Number: 1
-Player Hand: JS 3S 6D 3D 7D AS 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC JC AH 4C 8S 7H JD AC QS 7S 9S 3C 5S 8C KH KS 10C QH 10H 
-Battle Number: 15
-Player Number: 1
-Player Hand: 3D 7D AS 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC JC AH 4C 8S 7H JD AC QS 7S 9S 3C 5S 8C KH KS 10C QH 10H 
-Battle Number: 16
-Player Number: 1
-Player Hand: 9C QC 7C 5D 6S 9D 8H 2H 6C 4H KC JC AH 4C 8S 7H JD AC QS 7S 9S 3C 5S 8C KH KS 10C QH 10H 3D 7D AS 5C 5H JH 
-Battle Number: 17
-Player Number: 1
-Player Hand: 5D 6S 9D 8H 2H 6C 4H KC JC AH 4C 8S 7H JD AC QS 7S 9S 3C 5S 8C KH KS 10C QH 10H 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C 
-Battle Number: 18
-Player Number: 1
-Player Hand: 6C 4H KC JC AH 4C 8S 7H JD AC QS 7S 9S 3C 5S 8C KH KS 10C QH 10H 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C 
-Battle Number: 19
-Player Number: 1
-Player Hand: JC AH 4C 8S 7H JD AC QS 7S 9S 3C 5S 8C KH KS 10C QH 10H 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C 
-Battle Number: 20
-Player Number: 1
-Player Hand: 8S 7H JD AC QS 7S 9S 3C 5S 8C KH KS 10C QH 10H 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C JC AH 4C JS 3S 6D 
-Battle Number: 21
-Player Number: 1
-Player Hand: AC QS 7S 9S 3C 5S 8C KH KS 10C QH 10H 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C JC AH 4C JS 3S 6D 
-Battle Number: 22
-Player Number: 1
-Player Hand: 9S 3C 5S 8C KH KS 10C QH 10H 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C JC AH 4C JS 3S 6D AC QS 7S 8H 8D 2H 
-Battle Number: 23
-Player Number: 1
-Player Hand: 8C KH KS 10C QH 10H 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C JC AH 4C JS 3S 6D AC QS 7S 8H 8D 2H 
-Battle Number: 24
-Player Number: 1
-Player Hand: 10C QH 10H 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C JC AH 4C JS 3S 6D AC QS 7S 8H 8D 2H 8C KH KS 9D 4D 6H 
-Battle Number: 25
-Player Number: 1
-Player Hand: 3D 7D AS 5C 5H JH 9C QC 7C 2S 2D 2C JC AH 4C JS 3S 6D AC QS 7S 8H 8D 2H 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 
-Battle Number: 26
-Player Number: 1
-Player Hand: 5C 5H JH 9C QC 7C 2S 2D 2C JC AH 4C JS 3S 6D AC QS 7S 8H 8D 2H 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 
-Battle Number: 27
-Player Number: 1
-Player Hand: 9C QC 7C 2S 2D 2C JC AH 4C JS 3S 6D AC QS 7S 8H 8D 2H 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 
-Battle Number: 28
-Player Number: 1
-Player Hand: 2S 2D 2C JC AH 4C JS 3S 6D AC QS 7S 8H 8D 2H 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H 
-Battle Number: 29
-Player Number: 1
-Player Hand: JC AH 4C JS 3S 6D AC QS 7S 8H 8D 2H 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H 
-Battle Number: 30
-Player Number: 1
-Player Hand: JS 3S 6D AC QS 7S 8H 8D 2H 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 
-Battle Number: 31
-Player Number: 1
-Player Hand: AC QS 7S 8H 8D 2H 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 
-Battle Number: 32
-Player Number: 1
-Player Hand: 8H 8D 2H 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 
-Battle Number: 33
-Player Number: 1
-Player Hand: 8C KH KS 9D 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 
-Battle Number: 34
-Player Number: 1
-Player Hand: 4D 6H 10C QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 
-Battle Number: 35
-Player Number: 1
-Player Hand: QH 10H 10D 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D 
-Battle Number: 36
-Player Number: 1
-Player Hand: 6C 4H 3D 7D AS KC 4S QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H 
-Battle Number: 37
-Player Number: 1
-Player Hand: 7D AS KC 4S QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H 
-Battle Number: 38
-Player Number: 1
-Player Hand: QD 9C QC 7C JD 3H 9H JC AH 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H 
-Battle Number: 39
-Player Number: 1
-Player Hand: 7C JD 3H 9H JC AH 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H QD 9C QC 4H 3D AC 
-Battle Number: 40
-Player Number: 1
-Player Hand: 9H JC AH 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H QD 9C QC 4H 3D AC 7C JD 3H QS 7S 4S 
-Battle Number: 41
-Player Number: 1
-Player Hand: 4C 5S 10S 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H QD 9C QC 4H 3D AC 7C JD 3H QS 7S 4S 9H JC AH 6C 7D AS 
-Battle Number: 42
-Player Number: 1
-Player Hand: 5D 8H 8D 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H QD 9C QC 4H 3D AC 7C JD 3H QS 7S 4S 9H JC AH 6C 7D AS 
-Battle Number: 43
-Player Number: 1
-Player Hand: 2H 7H 2S 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H QD 9C QC 4H 3D AC 7C JD 3H QS 7S 4S 9H JC AH 6C 7D AS 5D 8H 8D 8S 4C 5S 
-Battle Number: 44
-Player Number: 1
-Player Hand: 2D 9D 3C 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H QD 9C QC 4H 3D AC 7C JD 3H QS 7S 4S 9H JC AH 6C 7D AS 5D 8H 8D 8S 4C 5S 
-Battle Number: 45
-Player Number: 1
-Player Hand: 8C KH KS 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H QD 9C QC 4H 3D AC 7C JD 3H QS 7S 4S 9H JC AH 6C 7D AS 5D 8H 8D 8S 4C 5S 2D 9D 3C AD 2H 7H 
-Battle Number: 46
-Player Number: 1
-Player Hand: 2C KD 9S 4D 6H 10C JS 3S 6D QH 10H 10D 6S 5C 5H QD 9C QC 4H 3D AC 7C JD 3H QS 7S 4S 9H JC AH 6C 7D AS 5D 8H 8D 8S 4C 5S 2D 9D 3C AD 2H 7H 8C KH KS 2S 10S KC 
-Battle Number: 1
-Player Number: 1
-Player Hand: AH AD 4C QD AC 8D 3D 8S 10S 6C QH 2S 7C 6S AS 7D 5H JS KC 4D 10H 9S QS 8H 5C 8C 
-Battle Number: 2
-Player Number: 1
-Player Hand: QD AC 8D 3D 8S 10S 6C QH 2S 7C 6S AS 7D 5H JS KC 4D 10H 9S QS 8H 5C 8C AH AD 4C 5S 9D 2C 
-Battle Number: 3
-Player Number: 1
-Player Hand: 3D 8S 10S 6C QH 2S 7C 6S AS 7D 5H JS KC 4D 10H 9S QS 8H 5C 8C AH AD 4C 5S 9D 2C QD AC 8D 4S 9C 9H 
-Battle Number: 4
-Player Number: 1
-Player Hand: 6C QH 2S 7C 6S AS 7D 5H JS KC 4D 10H 9S QS 8H 5C 8C AH AD 4C 5S 9D 2C QD AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 
-Battle Number: 5
-Player Number: 1
-Player Hand: 7C 6S AS 7D 5H JS KC 4D 10H 9S QS 8H 5C 8C AH AD 4C 5S 9D 2C QD AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 
-Battle Number: 6
-Player Number: 1
-Player Hand: 7D 5H JS KC 4D 10H 9S QS 8H 5C 8C AH AD 4C 5S 9D 2C QD AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 
-Battle Number: 7
-Player Number: 1
-Player Hand: KC 4D 10H 9S QS 8H 5C 8C AH AD 4C 5S 9D 2C QD AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 
-Battle Number: 8
-Player Number: 1
-Player Hand: 9S QS 8H 5C 8C AH AD 4C 5S 9D 2C QD AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 
-Battle Number: 9
-Player Number: 1
-Player Hand: 5C 8C AH AD 4C 5S 9D 2C QD AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 9S QS 8H 3C 6H JD 
-Battle Number: 10
-Player Number: 1
-Player Hand: AD 4C 5S 9D 2C QD AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 9S QS 8H 3C 6H JD 
-Battle Number: 11
-Player Number: 1
-Player Hand: 9D 2C QD AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 9S QS 8H 3C 6H JD AD 4C 5S QH 2S 10C 
-Battle Number: 12
-Player Number: 1
-Player Hand: AC 8D 4S 9C 9H 3D 8S 10S JC 2D 3H 9S QS 8H 3C 6H JD AD 4C 5S QH 2S 10C 
-Battle Number: 13
-Player Number: 1
-Player Hand: 9C 9H 3D 8S 10S JC 2D 3H 9S QS 8H 3C 6H JD AD 4C 5S QH 2S 10C 
-Battle Number: 14
-Player Number: 1
-Player Hand: 8S 10S JC 2D 3H 9S QS 8H 3C 6H JD AD 4C 5S QH 2S 10C 9C 9H 3D KS 6D 7D 
-Battle Number: 15
-Player Number: 1
-Player Hand: 2D 3H 9S QS 8H 3C 6H JD AD 4C 5S QH 2S 10C 9C 9H 3D KS 6D 7D 
-Battle Number: 16
-Player Number: 1
-Player Hand: QS 8H 3C 6H JD AD 4C 5S QH 2S 10C 9C 9H 3D KS 6D 7D 
-Battle Number: 17
-Player Number: 1
-Player Hand: 6H JD AD 4C 5S QH 2S 10C 9C 9H 3D KS 6D 7D 
-Battle Number: 18
-Player Number: 1
-Player Hand: 4C 5S QH 2S 10C 9C 9H 3D KS 6D 7D 
-Battle Number: 19
-Player Number: 1
-Player Hand: 2S 10C 9C 9H 3D KS 6D 7D 
-Battle Number: 20
-Player Number: 1
-Player Hand: 9H 3D KS 6D 7D 2S 10C 9C JH 6C 9D 
-Battle Number: 21
-Player Number: 1
-Player Hand: 6D 7D 2S 10C 9C JH 6C 9D 
-Battle Number: 22
-Player Number: 1
-Player Hand: 9C JH 6C 9D 10C 8D 6D 7D 2S KH 7C AC 
-Battle Number: 23
-Player Number: 1
-Player Hand: 9D 10C 8D 6D 7D 2S KH 7C AC 9C JH 6C 4S 6S AS 
-Battle Number: 24
-Player Number: 1
-Player Hand: 6D 7D 2S KH 7C AC 9C JH 6C 4S 6S AS 9D 10C 8D 10D 8S 10S 
-Battle Number: 25
-Player Number: 1
-Player Hand: KH 7C AC 9C JH 6C 4S 6S AS 9D 10C 8D 10D 8S 10S 6D 7D 2S JC 5H JS 
-Battle Number: 26
-Player Number: 1
-Player Hand: 9C JH 6C 4S 6S AS 9D 10C 8D 10D 8S 10S 6D 7D 2S JC 5H JS KH 7C AC 3S 2D 3H 
-Battle Number: 27
-Player Number: 1
-Player Hand: 4S 6S AS 9D 10C 8D 10D 8S 10S 6D 7D 2S JC 5H JS KH 7C AC 3S 2D 3H 9C JH 6C 9S 7H 5D 
-Battle Number: 28
-Player Number: 1
-Player Hand: 9D 10C 8D 10D 8S 10S 6D 7D 2S JC 5H JS KH 7C AC 3S 2D 3H 9C JH 6C 9S 7H 5D 
-Battle Number: 29
-Player Number: 1
-Player Hand: 10D 8S 10S 6D 7D 2S JC 5H JS KH 7C AC 3S 2D 3H 9C JH 6C 9S 7H 5D 9D 10C 8D 3C 4D 10H 
-Battle Number: 30
-Player Number: 1
-Player Hand: 6D 7D 2S JC 5H JS KH 7C AC 3S 2D 3H 9C JH 6C 9S 7H 5D 9D 10C 8D 3C 4D 10H 10D 8S 10S 2H 6H JD 
-Battle Number: 31
-Player Number: 1
-Player Hand: 5H JS KH 7C AC 3S 2D 3H 9C JH 6C 9S 7H 5D 9D 10C 8D 3C 4D 10H 10D 8S 10S 2H 6H JD JC 5C 6D 7D 2S AD 7S QC 
-Battle Number: 32
-Player Number: 1
-Player Hand: 7C AC 3S 2D 3H 9C JH 6C 9S 7H 5D 9D 10C 8D 3C 4D 10H 10D 8S 10S 2H 6H JD JC 5C 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 
-Battle Number: 33
-Player Number: 1
-Player Hand: 3H 9C JH 6C 9S 7H 5D 9D 10C 8D 3C 4D 10H 10D 8S 10S 2H 6H JD JC 5C 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 
-Battle Number: 34
-Player Number: 1
-Player Hand: 6C 9S 7H 5D 9D 10C 8D 3C 4D 10H 10D 8S 10S 2H 6H JD JC 5C 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 
-Battle Number: 35
-Player Number: 1
-Player Hand: 5D 9D 10C 8D 3C 4D 10H 10D 8S 10S 2H 6H JD JC 5C 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 
-Battle Number: 36
-Player Number: 1
-Player Hand: 8D 3C 4D 10H 10D 8S 10S 2H 6H JD JC 5C 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 
-Battle Number: 37
-Player Number: 1
-Player Hand: 10H 10D 8S 10S 2H 6H JD JC 5C 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 
-Battle Number: 38
-Player Number: 1
-Player Hand: 10S 2H 6H JD JC 5C 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 10H 10D 8S 9H 7C AC 
-Battle Number: 39
-Player Number: 1
-Player Hand: JD JC 5C 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 10H 10D 8S 9H 7C AC 
-Battle Number: 40
-Player Number: 1
-Player Hand: 6D 7D 2S AD 7S QC 5H JS KH 4C 5S QH 10H 10D 8S 9H 7C AC JD JC 5C 4H 3H 9C 
-Battle Number: 41
-Player Number: 1
-Player Hand: AD 7S QC 5H JS KH 4C 5S QH 10H 10D 8S 9H 7C AC JD JC 5C 4H 3H 9C 6D 7D 2S JH 3D KS 
-Battle Number: 42
-Player Number: 1
-Player Hand: 5H JS KH 4C 5S QH 10H 10D 8S 9H 7C AC JD JC 5C 4H 3H 9C 6D 7D 2S JH 3D KS AD 7S QC 2C 6C 9S 
-Battle Number: 43
-Player Number: 1
-Player Hand: 4C 5S QH 10H 10D 8S 9H 7C AC JD JC 5C 4H 3H 9C 6D 7D 2S JH 3D KS AD 7S QC 2C 6C 9S 
-Battle Number: 44
-Player Number: 1
-Player Hand: 8S 9H 7C AC JD JC 5C 4H 3H 9C 6D 7D 2S JH 3D KS AD 7S QC 2C 6C 9S 10H 10C 10D 6S 4C 5S QH 4S 5D 9D 
-Battle Number: 45
-Player Number: 1
-Player Hand: AC JD JC 5C 4H 3H 9C 6D 7D 2S JH 3D KS AD 7S QC 2C 6C 9S 10H 10C 10D 6S 4C 5S QH 4S 5D 9D 
-Battle Number: 46
-Player Number: 1
-Player Hand: 5C 4H 3H 9C 6D 7D 2S JH 3D KS AD 7S QC 2C 6C 9S 10H 10C 10D 6S 4C 5S QH 4S 5D 9D AC JD JC 3C 4D QS 
+Player Number: p1
+Player Hand: 4D AC 4S 10C KD AD 8D 10S 7D 6C QH 9C 5C 7C AH JC 9D 8H 5D 4C 
 Battle Number: 47
-Player Number: 1
-Player Hand: 9C 6D 7D 2S JH 3D KS AD 7S QC 2C 6C 9S 10H 10C 10D 6S 4C 5S QH 4S 5D 9D AC JD JC 3C 4D QS 5C 4H 3H 8H 2D 10S 
+Player Number: p2
+Player Hand: 6D 9S JH 2D QC 10D 7S JS 8S KC AS QS 6S 3D 3H KS 4H 6H 10H 3S 5S JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 
+The outcome of battle 47 is p1
 Battle Number: 48
-Player Number: 1
-Player Hand: JH 3D KS AD 7S QC 2C 6C 9S 10H 10C 10D 6S 4C 5S QH 4S 5D 9D AC JD JC 3C 4D QS 5C 4H 3H 8H 2D 10S 
+Player Number: p1
+Player Hand: 10C KD AD 8D 10S 7D 6C QH 9C 5C 7C AH JC 9D 8H 5D 4C 4D AC 4S 6D 9S JH 
+Battle Number: 48
+Player Number: p2
+Player Hand: 2D QC 10D 7S JS 8S KC AS QS 6S 3D 3H KS 4H 6H 10H 3S 5S JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 
+The outcome of battle 48 is p1
 Battle Number: 49
-Player Number: 1
-Player Hand: AD 7S QC 2C 6C 9S 10H 10C 10D 6S 4C 5S QH 4S 5D 9D AC JD JC 3C 4D QS 5C 4H 3H 8H 2D 10S 
+Player Number: p1
+Player Hand: 8D 10S 7D 6C QH 9C 5C 7C AH JC 9D 8H 5D 4C 4D AC 4S 6D 9S JH 10C KD AD 2D QC 10D 
+Battle Number: 49
+Player Number: p2
+Player Hand: 7S JS 8S KC AS QS 6S 3D 3H KS 4H 6H 10H 3S 5S JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 
+The outcome of battle 49 is p2
 Battle Number: 50
-Player Number: 1
-Player Hand: 6C 9S 10H 10C 10D 6S 4C 5S QH 4S 5D 9D AC JD JC 3C 4D QS 5C 4H 3H 8H 2D 10S 
+Player Number: p1
+Player Hand: 6C QH 9C 5C 7C AH JC 9D 8H 5D 4C 4D AC 4S 6D 9S JH 10C KD AD 2D QC 10D 
+Battle Number: 50
+Player Number: p2
+Player Hand: KC AS QS 6S 3D 3H KS 4H 6H 10H 3S 5S JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 8D 10S 7D 7S JS 8S 
+The outcome of battle 50 is p2
 Battle Number: 51
-Player Number: 1
-Player Hand: 10D 6S 4C 5S QH 4S 5D 9D AC JD JC 3C 4D QS 5C 4H 3H 8H 2D 10S 
+Player Number: p1
+Player Hand: 5C 7C AH JC 9D 8H 5D 4C 4D AC 4S 6D 9S JH 10C KD AD 2D QC 10D 
+Battle Number: 51
+Player Number: p2
+Player Hand: 6S 3D 3H KS 4H 6H 10H 3S 5S JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 8D 10S 7D 7S JS 8S 6C QH 9C KC AS QS 
+The outcome of battle 51 is p1
 Battle Number: 52
-Player Number: 1
-Player Hand: 5S QH 4S 5D 9D AC JD JC 3C 4D QS 5C 4H 3H 8H 2D 10S 
+Player Number: p1
+Player Hand: JC 9D 8H 5D 4C 4D AC 4S 6D 9S JH 10C KD AD 2D QC 10D 5C 7C AH 6S 3D 3H 
+Battle Number: 52
+Player Number: p2
+Player Hand: KS 4H 6H 10H 3S 5S JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 8D 10S 7D 7S JS 8S 6C QH 9C KC AS QS 
+The outcome of battle 52 is p1
 Battle Number: 53
-Player Number: 1
-Player Hand: 5D 9D AC JD JC 3C 4D QS 5C 4H 3H 8H 2D 10S 5S QH 4S 8C 9C 6D 
+Player Number: p1
+Player Hand: 5D 4C 4D AC 4S 6D 9S JH 10C KD AD 2D QC 10D 5C 7C AH 6S 3D 3H JC 9D 8H KS 4H 6H 
+Battle Number: 53
+Player Number: p2
+Player Hand: 10H 3S 5S JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 8D 10S 7D 7S JS 8S 6C QH 9C KC AS QS 
+The outcome of battle 53 is p1
 Battle Number: 54
-Player Number: 1
-Player Hand: JD JC 3C 4D QS 5C 4H 3H 8H 2D 10S 5S QH 4S 8C 9C 6D 5D 9D AC 7D 2H 6H 
+Player Number: p1
+Player Hand: AC 4S 6D 9S JH 10C KD AD 2D QC 10D 5C 7C AH 6S 3D 3H JC 9D 8H KS 4H 6H 5D 4C 4D 10H 3S 5S 
+Battle Number: 54
+Player Number: p2
+Player Hand: JD 8C KH 7H 9H 2C 2H 5H QD 2S 3C 8D 10S 7D 7S JS 8S 6C QH 9C KC AS QS 
+The outcome of battle 54 is p2
 Battle Number: 55
-Player Number: 1
-Player Hand: QS 5C 4H 3H 8H 2D 10S 5S QH 4S 8C 9C 6D 5D 9D AC 7D 2H 6H 
+Player Number: p1
+Player Hand: 9S JH 10C KD AD 2D QC 10D 5C 7C AH 6S 3D 3H JC 9D 8H KS 4H 6H 5D 4C 4D 10H 3S 5S 
+Battle Number: 55
+Player Number: p2
+Player Hand: 7H 9H 2C 2H 5H QD 2S 3C 8D 10S 7D 7S JS 8S 6C QH 9C KC AS QS AC 4S 6D JD 8C KH 
+The outcome of battle 55 is p1
 Battle Number: 56
-Player Number: 1
-Player Hand: 8H 2D 10S 5S QH 4S 8C 9C 6D 5D 9D AC 7D 2H 6H 3H 2C QS 5C 4H AH 5H JS 
+Player Number: p1
+Player Hand: KD AD 2D QC 10D 5C 7C AH 6S 3D 3H JC 9D 8H KS 4H 6H 5D 4C 4D 10H 3S 5S 9S JH 10C 7H 9H 2C 
+Battle Number: 56
+Player Number: p2
+Player Hand: 2H 5H QD 2S 3C 8D 10S 7D 7S JS 8S 6C QH 9C KC AS QS AC 4S 6D JD 8C KH 
+The outcome of battle 56 is p1
 Battle Number: 57
-Player Number: 1
-Player Hand: 5S QH 4S 8C 9C 6D 5D 9D AC 7D 2H 6H 3H 2C QS 5C 4H AH 5H JS 
+Player Number: p1
+Player Hand: QC 10D 5C 7C AH 6S 3D 3H JC 9D 8H KS 4H 6H 5D 4C 4D 10H 3S 5S 9S JH 10C 7H 9H 2C KD AD 2D 2H 5H QD 
+Battle Number: 57
+Player Number: p2
+Player Hand: 2S 3C 8D 10S 7D 7S JS 8S 6C QH 9C KC AS QS AC 4S 6D JD 8C KH 
+The outcome of battle 57 is p1
 Battle Number: 58
-Player Number: 1
-Player Hand: 8C 9C 6D 5D 9D AC 7D 2H 6H 3H 2C QS 5C 4H AH 5H JS 
+Player Number: p1
+Player Hand: 7C AH 6S 3D 3H JC 9D 8H KS 4H 6H 5D 4C 4D 10H 3S 5S 9S JH 10C 7H 9H 2C KD AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 
+Battle Number: 58
+Player Number: p2
+Player Hand: 10S 7D 7S JS 8S 6C QH 9C KC AS QS AC 4S 6D JD 8C KH 
+The outcome of battle 58 is p1
 Battle Number: 59
-Player Number: 1
-Player Hand: 5D 9D AC 7D 2H 6H 3H 2C QS 5C 4H AH 5H JS 
+Player Number: p1
+Player Hand: 3D 3H JC 9D 8H KS 4H 6H 5D 4C 4D 10H 3S 5S 9S JH 10C 7H 9H 2C KD AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 59
+Player Number: p2
+Player Hand: JS 8S 6C QH 9C KC AS QS AC 4S 6D JD 8C KH 
+The outcome of battle 59 is p2
 Battle Number: 60
-Player Number: 1
-Player Hand: 2H 6H 3H 2C QS 5C 4H AH 5H JS 
+Player Number: p1
+Player Hand: 9D 8H KS 4H 6H 5D 4C 4D 10H 3S 5S 9S JH 10C 7H 9H 2C KD AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 60
+Player Number: p2
+Player Hand: QH 9C KC AS QS AC 4S 6D JD 8C KH 3D 3H JC JS 8S 6C 
+The outcome of battle 60 is p2
 Battle Number: 61
-Player Number: 1
-Player Hand: 2C QS 5C 4H AH 5H JS 
+Player Number: p1
+Player Hand: 4H 6H 5D 4C 4D 10H 3S 5S 9S JH 10C 7H 9H 2C KD AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 61
+Player Number: p2
+Player Hand: AS QS AC 4S 6D JD 8C KH 3D 3H JC JS 8S 6C 9D 8H KS QH 9C KC 
+The outcome of battle 61 is p2
 Battle Number: 62
-Player Number: 1
-Player Hand: 4H AH 5H JS 2C QS 5C 6S 4C KC 
+Player Number: p1
+Player Hand: 4C 4D 10H 3S 5S 9S JH 10C 7H 9H 2C KD AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 62
+Player Number: p2
+Player Hand: 4S 6D JD 8C KH 3D 3H JC JS 8S 6C 9D 8H KS QH 9C KC 4H 6H 5D AS QS AC 
+The outcome of battle 62 is p2
 Battle Number: 63
-Player Number: 1
-Player Hand: JS 2C QS 5C 6S 4C KC 4H AH 5H 8D 2S 4D 
+Player Number: p1
+Player Hand: 3S 5S 9S JH 10C 7H 9H 2C KD AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 63
+Player Number: p2
+Player Hand: 8C KH 3D 3H JC JS 8S 6C 9D 8H KS QH 9C KC 4H 6H 5D AS QS AC 4C 4D 10H 4S 6D JD 
+The outcome of battle 63 is p2
 Battle Number: 64
-Player Number: 1
-Player Hand: 5C 6S 4C KC 4H AH 5H 8D 2S 4D 
+Player Number: p1
+Player Hand: JH 10C 7H 9H 2C KD AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 64
+Player Number: p2
+Player Hand: 3H JC JS 8S 6C 9D 8H KS QH 9C KC 4H 6H 5D AS QS AC 4C 4D 10H 4S 6D JD 3S 5S 9S 8C KH 3D 
+The outcome of battle 64 is p2
 Battle Number: 65
-Player Number: 1
-Player Hand: KC 4H AH 5H 8D 2S 4D 5C 6S 4C 3C 3S JH 
+Player Number: p1
+Player Hand: 9H 2C KD AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 65
+Player Number: p2
+Player Hand: 8S 6C 9D 8H KS QH 9C KC 4H 6H 5D AS QS AC 4C 4D 10H 4S 6D JD 3S 5S 9S 8C KH 3D JH 10C 7H 3H JC JS 
+The outcome of battle 65 is p2
 Battle Number: 66
-Player Number: 1
-Player Hand: 5H 8D 2S 4D 5C 6S 4C 3C 3S JH 
+Player Number: p1
+Player Hand: AD 2D 2H 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 66
+Player Number: p2
+Player Hand: 8H KS QH 9C KC 4H 6H 5D AS QS AC 4C 4D 10H 4S 6D JD 3S 5S 9S 8C KH 3D JH 10C 7H 3H JC JS 9H 2C KD 8S 6C 9D 
+The outcome of battle 66 is p2
 Battle Number: 67
-Player Number: 1
-Player Hand: 4D 5C 6S 4C 3C 3S JH 
+Player Number: p1
+Player Hand: 5H QD QC 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 67
+Player Number: p2
+Player Hand: 9C KC 4H 6H 5D AS QS AC 4C 4D 10H 4S 6D JD 3S 5S 9S 8C KH 3D JH 10C 7H 3H JC JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 
+The outcome of battle 67 is p2
 Battle Number: 68
-Player Number: 1
-Player Hand: 3S JH 
+Player Number: p1
+Player Hand: 10D 5C 2S 3C 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 68
+Player Number: p2
+Player Hand: 6H 5D AS QS AC 4C 4D 10H 4S 6D JD 3S 5S 9S 8C KH 3D JH 10C 7H 3H JC JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 
+The outcome of war 3 is p2
 Battle Number: 69
-Player Number: 1
-Player Hand: 3S JH KH 7H 8C 
+Player Number: p1
+Player Hand: 8D 7C AH 6S 10S 7D 7S 
+Battle Number: 69
+Player Number: p2
+Player Hand: AC 4C 4D 10H 4S 6D JD 3S 5S 9S 8C KH 3D JH 10C 7H 3H JC JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 
+The outcome of battle 69 is p1
 Battle Number: 70
-Player Number: 1
-Player Hand: 7H 8C 3S JH KH 9C 6D QD 
+Player Number: p1
+Player Hand: 6S 10S 7D 7S 8D 7C AH AC 4C 4D 
+Battle Number: 70
+Player Number: p2
+Player Hand: 10H 4S 6D JD 3S 5S 9S 8C KH 3D JH 10C 7H 3H JC JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 
+The outcome of battle 70 is p1
 Battle Number: 71
-Player Number: 1
-Player Hand: JH KH 9C 6D QD 
+Player Number: p1
+Player Hand: 7S 8D 7C AH AC 4C 4D 6S 10S 7D 10H 4S 6D 
+Battle Number: 71
+Player Number: p2
+Player Hand: JD 3S 5S 9S 8C KH 3D JH 10C 7H 3H JC JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 
+The outcome of battle 71 is p1
 Battle Number: 72
-Player Number: 1
-Player Hand: 6D QD JH KH 9C 8S 5D 9D 
+Player Number: p1
+Player Hand: AH AC 4C 4D 6S 10S 7D 10H 4S 6D 7S 8D 7C JD 3S 5S 
+Battle Number: 72
+Player Number: p2
+Player Hand: 9S 8C KH 3D JH 10C 7H 3H JC JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 
+The outcome of battle 72 is p1
 Battle Number: 73
-Player Number: 1
-Player Hand: KH 9C 8S 5D 9D 6D QD JH AC 6C 9S 
+Player Number: p1
+Player Hand: 4D 6S 10S 7D 10H 4S 6D 7S 8D 7C JD 3S 5S AH AC 4C 9S 8C KH 
+Battle Number: 73
+Player Number: p2
+Player Hand: 3D JH 10C 7H 3H JC JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 
+The outcome of battle 73 is p2
 Battle Number: 74
-Player Number: 1
-Player Hand: 5D 9D 6D QD JH AC 6C 9S KH 9C 8S 10H 2H 6H 
+Player Number: p1
+Player Hand: 7D 10H 4S 6D 7S 8D 7C JD 3S 5S AH AC 4C 9S 8C KH 
+Battle Number: 74
+Player Number: p2
+Player Hand: 7H 3H JC JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 
+The outcome of battle 74 is p1
 Battle Number: 75
-Player Number: 1
-Player Hand: JH AC 6C 9S KH 9C 8S 10H 2H 6H QD 10D 5D 9D 6D 3H 9H 7C 
+Player Number: p1
+Player Hand: 6D 7S 8D 7C JD 3S 5S AH AC 4C 9S 8C KH 7D 10H 4S 7H 3H JC 
+Battle Number: 75
+Player Number: p2
+Player Hand: JS 9H 2C KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 
+The outcome of battle 75 is p2
 Battle Number: 76
-Player Number: 1
-Player Hand: 9S KH 9C 8S 10H 2H 6H QD 10D 5D 9D 6D 3H 9H 7C JH AC 6C JS 2C QS 
+Player Number: p1
+Player Hand: 7C JD 3S 5S AH AC 4C 9S 8C KH 7D 10H 4S 7H 3H JC 
+Battle Number: 76
+Player Number: p2
+Player Hand: KD 8S 6C 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 
+The outcome of battle 76 is p1
 Battle Number: 77
-Player Number: 1
-Player Hand: 8S 10H 2H 6H QD 10D 5D 9D 6D 3H 9H 7C JH AC 6C JS 2C QS 9S KH 9C KS JD JC 
+Player Number: p1
+Player Hand: 5S AH AC 4C 9S 8C KH 7D 10H 4S 7H 3H JC 7C JD 3S KD 8S 6C 
+Battle Number: 77
+Player Number: p2
+Player Hand: 9D AD 2D 2H 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 
+The outcome of war 4 is p1
 Battle Number: 78
-Player Number: 1
-Player Hand: 6H QD 10D 5D 9D 6D 3H 9H 7C JH AC 6C JS 2C QS 9S KH 9C KS JD JC 8S 10H 2H KC 4H AH 
+Player Number: p1
+Player Hand: 9S 8C KH 7D 10H 4S 7H 3H JC 7C JD 3S KD 8S 6C 4C 2H 5S AH AC 9D AD 2D 
+Battle Number: 78
+Player Number: p2
+Player Hand: 8H KS QH 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 
+The outcome of battle 78 is p2
 Battle Number: 79
-Player Number: 1
-Player Hand: 5D 9D 6D 3H 9H 7C JH AC 6C JS 2C QS 9S KH 9C KS JD JC 8S 10H 2H KC 4H AH 6H QD 10D 3D 8H 2D 
+Player Number: p1
+Player Hand: 7D 10H 4S 7H 3H JC 7C JD 3S KD 8S 6C 4C 2H 5S AH AC 9D AD 2D 
+Battle Number: 79
+Player Number: p2
+Player Hand: 5H QD QC 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 9S 8C KH 8H KS QH 
+The outcome of battle 79 is p2
 Battle Number: 80
-Player Number: 1
-Player Hand: 3H 9H 7C JH AC 6C JS 2C QS 9S KH 9C KS JD JC 8S 10H 2H KC 4H AH 6H QD 10D 3D 8H 2D 5D 9D 6D 5H 8D 2S 
+Player Number: p1
+Player Hand: 7H 3H JC 7C JD 3S KD 8S 6C 4C 2H 5S AH AC 9D AD 2D 
+Battle Number: 80
+Player Number: p2
+Player Hand: 9C KC 4H 3C QS 10D 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 9S 8C KH 8H KS QH 7D 10H 4S 5H QD QC 
+The outcome of battle 80 is p2
 Battle Number: 81
-Player Number: 1
-Player Hand: JH AC 6C JS 2C QS 9S KH 9C KS JD JC 8S 10H 2H KC 4H AH 6H QD 10D 3D 8H 2D 5D 9D 6D 5H 8D 2S 
+Player Number: p1
+Player Hand: 7C JD 3S KD 8S 6C 4C 2H 5S AH AC 9D AD 2D 
+Battle Number: 81
+Player Number: p2
+Player Hand: 3C QS 10D 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 9S 8C KH 8H KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 
+The outcome of battle 81 is p2
 Battle Number: 82
-Player Number: 1
-Player Hand: JS 2C QS 9S KH 9C KS JD JC 8S 10H 2H KC 4H AH 6H QD 10D 3D 8H 2D 5D 9D 6D 5H 8D 2S JH AC 6C 4C 4S 3C 
+Player Number: p1
+Player Hand: KD 8S 6C 4C 2H 5S AH AC 9D AD 2D 
+Battle Number: 82
+Player Number: p2
+Player Hand: 5C 2S 6H 5D AS 4D 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 9S 8C KH 8H KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 
+The outcome of battle 82 is p1
 Battle Number: 83
-Player Number: 1
-Player Hand: 9S KH 9C KS JD JC 8S 10H 2H KC 4H AH 6H QD 10D 3D 8H 2D 5D 9D 6D 5H 8D 2S JH AC 6C 4C 4S 3C 
+Player Number: p1
+Player Hand: 4C 2H 5S AH AC 9D AD 2D KD 8S 6C 5C 2S 6H 
+Battle Number: 83
+Player Number: p2
+Player Hand: 5D AS 4D 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 9S 8C KH 8H KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 
+The outcome of battle 83 is p2
 Battle Number: 84
-Player Number: 1
-Player Hand: KS JD JC 8S 10H 2H KC 4H AH 6H QD 10D 3D 8H 2D 5D 9D 6D 5H 8D 2S JH AC 6C 4C 4S 3C 9S KH 9C 6S 7S 5S 
+Player Number: p1
+Player Hand: AH AC 9D AD 2D KD 8S 6C 5C 2S 6H 
+Battle Number: 84
+Player Number: p2
+Player Hand: 6S 10S 3D JH 10C 6D 7S 8D JS 9H 2C 9S 8C KH 8H KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D 
+The outcome of battle 84 is p1
 Battle Number: 85
-Player Number: 1
-Player Hand: 8S 10H 2H KC 4H AH 6H QD 10D 3D 8H 2D 5D 9D 6D 5H 8D 2S JH AC 6C 4C 4S 3C 9S KH 9C 6S 7S 5S KS JD JC QH 7H 8C 
+Player Number: p1
+Player Hand: AD 2D KD 8S 6C 5C 2S 6H AH AC 9D 6S 10S 3D 
+Battle Number: 85
+Player Number: p2
+Player Hand: JH 10C 6D 7S 8D JS 9H 2C 9S 8C KH 8H KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D 
+The outcome of battle 85 is p2
 Battle Number: 86
-Player Number: 1
-Player Hand: 4H AH 6H QD 10D 3D 8H 2D 5D 9D 6D 5H 8D 2S JH AC 6C 4C 4S 3C 9S KH 9C 6S 7S 5S KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 
-Battle Number: 87
-Player Number: 1
-Player Hand: QD 10D 3D 8H 2D 5D 9D 6D 5H 8D 2S JH AC 6C 4C 4S 3C 9S KH 9C 6S 7S 5S KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C 
-Battle Number: 88
-Player Number: 1
-Player Hand: 8H 2D 5D 9D 6D 5H 8D 2S JH AC 6C 4C 4S 3C 9S KH 9C 6S 7S 5S KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C 
-Battle Number: 89
-Player Number: 1
-Player Hand: 6D 5H 8D 2S JH AC 6C 4C 4S 3C 9S KH 9C 6S 7S 5S KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C 
-Battle Number: 90
-Player Number: 1
-Player Hand: JH AC 6C 4C 4S 3C 9S KH 9C 6S 7S 5S KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C 
-Battle Number: 91
-Player Number: 1
-Player Hand: 4C 4S 3C 9S KH 9C 6S 7S 5S KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 
-Battle Number: 92
-Player Number: 1
-Player Hand: 9S KH 9C 6S 7S 5S KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 
-Battle Number: 93
-Player Number: 1
-Player Hand: 6S 7S 5S KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 
-Battle Number: 94
-Player Number: 1
-Player Hand: KS JD JC QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS 
-Battle Number: 95
-Player Number: 1
-Player Hand: QH 7H 8C KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 
-Battle Number: 96
-Player Number: 1
-Player Hand: KC 7D 8S 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 
-Battle Number: 97
-Player Number: 1
-Player Hand: 10H 2H 3S 10C AS 4H AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 
-Battle Number: 98
-Player Number: 1
-Player Hand: 10C AS 4H AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 
-Battle Number: 99
-Player Number: 1
-Player Hand: AH 6H 3H 9H 7C JH AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 10C AS 4H 9D QC QH 
-Battle Number: 100
-Player Number: 1
-Player Hand: 9H 7C JH AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 10C AS 4H 9D QC QH 
-Battle Number: 101
-Player Number: 1
-Player Hand: AC 6C 3D 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 10C AS 4H 9D QC QH 9H 7C JH 8D 4D KC 
-Battle Number: 102
-Player Number: 1
-Player Hand: 10S KD 9S KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 10C AS 4H 9D QC QH 9H 7C JH 8D 4D KC 
-Battle Number: 103
-Player Number: 1
-Player Hand: KH 9C 8H 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 10C AS 4H 9D QC QH 9H 7C JH 8D 4D KC 10S KD 9S QD 4C 10H 
-Battle Number: 104
-Player Number: 1
-Player Hand: 2D 5D 6S 7S 5S JS 2C QS KS JD JC 2S 10D 6D 10C AS 4H 9D QC QH 9H 7C JH 8D 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 
-Battle Number: 105
-Player Number: 1
-Player Hand: 7S 5S JS 2C QS KS JD JC 2S 10D 6D 10C AS 4H 9D QC QH 9H 7C JH 8D 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 
-Battle Number: 106
-Player Number: 1
-Player Hand: 2C QS KS JD JC 2S 10D 6D 10C AS 4H 9D QC QH 9H 7C JH 8D 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 
-Battle Number: 107
-Player Number: 1
-Player Hand: JD JC 2S 10D 6D 10C AS 4H 9D QC QH 9H 7C JH 8D 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC 
-Battle Number: 108
-Player Number: 1
-Player Hand: 10D 6D 10C AS 4H 9D QC QH 9H 7C JH 8D 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 
-Battle Number: 109
-Player Number: 1
-Player Hand: AS 4H 9D QC QH 9H 7C JH 8D 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 
-Battle Number: 110
-Player Number: 1
-Player Hand: QC QH 9H 7C JH 8D 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 
-Battle Number: 111
-Player Number: 1
-Player Hand: 7C JH 8D 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 
-Battle Number: 112
-Player Number: 1
-Player Hand: 4D KC 10S KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 
-Battle Number: 113
-Player Number: 1
-Player Hand: KD 9S QD 4C 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 
-Battle Number: 114
-Player Number: 1
-Player Hand: 10H KH 9C 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 
-Battle Number: 115
-Player Number: 1
-Player Hand: 8H 2H 3S 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 10H KH 9C AS 4C AH 
-Battle Number: 116
-Player Number: 1
-Player Hand: 4S 7S 5S JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 10H KH 9C AS 4C AH 
-Battle Number: 117
-Player Number: 1
-Player Hand: JS 6H 3H 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 10H KH 9C AS 4C AH 
-Battle Number: 118
-Player Number: 1
-Player Hand: 7H 2C QS KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 10H KH 9C AS 4C AH JS 6H 3H 8H 2H 3S 
-Battle Number: 119
-Player Number: 1
-Player Hand: KS 8C 5H AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 10H KH 9C AS 4C AH JS 6H 3H 8H 2H 3S 
-Battle Number: 120
-Player Number: 1
-Player Hand: AC JD JC 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 10H KH 9C AS 4C AH JS 6H 3H 8H 2H 3S KS 8C 5H 4S 7S 5S 
-Battle Number: 121
-Player Number: 1
-Player Hand: 2S 6C 3D 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 10H KH 9C AS 4C AH JS 6H 3H 8H 2H 3S KS 8C 5H 4S 7S 5S AC JD JC QH 9H AD 
-Battle Number: 122
-Player Number: 1
-Player Hand: 7D 10D 6D 10C 8S 5C 2D 7C JH 8D 4H 9D 5D 4D KC 10S 6S 3C QC 10H KH 9C AS 4C AH JS 6H 3H 8H 2H 3S KS 8C 5H 4S 7S 5S AC JD JC QH 9H AD 2S 6C 3D 7H 2C QS 
-Battle Number: 1
-Player Number: 1
-Player Hand: AD 8C 3D KC 8D 7D AC 2H 5S AS 10D 7S 6D KS 6S 3H 10H 9S 6H 8H KH 5D QH 10S 2S 5C 
-Battle Number: 2
-Player Number: 1
-Player Hand: KC 8D 7D AC 2H 5S AS 10D 7S 6D KS 6S 3H 10H 9S 6H 8H KH 5D QH 10S 2S 5C 
-Battle Number: 3
-Player Number: 1
-Player Hand: AC 2H 5S AS 10D 7S 6D KS 6S 3H 10H 9S 6H 8H KH 5D QH 10S 2S 5C KC 8D 7D AH 4D KD 
-Battle Number: 4
-Player Number: 1
-Player Hand: AS 10D 7S 6D KS 6S 3H 10H 9S 6H 8H KH 5D QH 10S 2S 5C KC 8D 7D AH 4D KD 
-Battle Number: 5
-Player Number: 1
-Player Hand: 6D KS 6S 3H 10H 9S 6H 8H KH 5D QH 10S 2S 5C KC 8D 7D AH 4D KD AS 10D 7S 4S 2C 9D 
-Battle Number: 6
-Player Number: 1
-Player Hand: 3H 10H 9S 6H 8H KH 5D QH 10S 2S 5C KC 8D 7D AH 4D KD AS 10D 7S 4S 2C 9D 6D KS 6S 4H 2D QC 
-Battle Number: 7
-Player Number: 1
-Player Hand: 6H 8H KH 5D QH 10S 2S 5C KC 8D 7D AH 4D KD AS 10D 7S 4S 2C 9D 6D KS 6S 4H 2D QC 3H 10H 9S 5H 3S 6C 
-Battle Number: 8
-Player Number: 1
-Player Hand: 5D QH 10S 2S 5C KC 8D 7D AH 4D KD AS 10D 7S 4S 2C 9D 6D KS 6S 4H 2D QC 3H 10H 9S 5H 3S 6C 
-Battle Number: 9
-Player Number: 1
-Player Hand: 5C KC 8D 7D AH 4D KD AS 10D 7S 4S 2C 9D 6D KS 6S 4H 2D QC 3H 10H 9S 5H 3S 6C 
-Battle Number: 10
-Player Number: 1
-Player Hand: 7D AH 4D KD AS 10D 7S 4S 2C 9D 6D KS 6S 4H 2D QC 3H 10H 9S 5H 3S 6C 
-Battle Number: 11
-Player Number: 1
-Player Hand: KD AS 10D 7S 4S 2C 9D 6D KS 6S 4H 2D QC 3H 10H 9S 5H 3S 6C 7D AH 4D 3D 8S 9H 
-Battle Number: 12
-Player Number: 1
-Player Hand: 4S 2C 9D 6D KS 6S 4H 2D QC 3H 10H 9S 5H 3S 6C 7D AH 4D 3D 8S 9H 7S 5S KD AS 10D JC AC 2H 
-Battle Number: 13
-Player Number: 1
-Player Hand: 6D KS 6S 4H 2D QC 3H 10H 9S 5H 3S 6C 7D AH 4D 3D 8S 9H 7S 5S KD AS 10D JC AC 2H 
-Battle Number: 14
-Player Number: 1
-Player Hand: 4H 2D QC 3H 10H 9S 5H 3S 6C 7D AH 4D 3D 8S 9H 7S 5S KD AS 10D JC AC 2H 6D KS 6S 6H 8H KH 
-Battle Number: 15
-Player Number: 1
-Player Hand: 3H 10H 9S 5H 3S 6C 7D AH 4D 3D 8S 9H 7S 5S KD AS 10D JC AC 2H 6D KS 6S 6H 8H KH 
-Battle Number: 16
-Player Number: 1
-Player Hand: 5H 3S 6C 7D AH 4D 3D 8S 9H 7S 5S KD AS 10D JC AC 2H 6D KS 6S 6H 8H KH 
-Battle Number: 17
-Player Number: 1
-Player Hand: 7D AH 4D 3D 8S 9H 7S 5S KD AS 10D JC AC 2H 6D KS 6S 6H 8H KH 
-Battle Number: 18
-Player Number: 1
-Player Hand: 3D 8S 9H 7S 5S KD AS 10D JC AC 2H 6D KS 6S 6H 8H KH 7D AH 4D QS 4C 5C 
-Battle Number: 19
-Player Number: 1
-Player Hand: 5S KD AS 10D JC AC 2H 6D KS 6S 6H 8H KH 7D AH 4D QS 4C 5C 
-Battle Number: 20
-Player Number: 1
-Player Hand: 10D JC AC 2H 6D KS 6S 6H 8H KH 7D AH 4D QS 4C 5C 5S KD AS 8C 4S 2C 
-Battle Number: 21
-Player Number: 1
-Player Hand: 2H 6D KS 6S 6H 8H KH 7D AH 4D QS 4C 5C 5S KD AS 8C 4S 2C 10D JC AC 9D 3C JS 
-Battle Number: 22
-Player Number: 1
-Player Hand: 6S 6H 8H KH 7D AH 4D QS 4C 5C 5S KD AS 8C 4S 2C 10D JC AC 9D 3C JS 2H 6D KS 7C 4H 2D 
-Battle Number: 23
-Player Number: 1
-Player Hand: KH 7D AH 4D QS 4C 5C 5S KD AS 8C 4S 2C 10D JC AC 9D 3C JS 2H 6D KS 7C 4H 2D 
-Battle Number: 24
-Player Number: 1
-Player Hand: 4D QS 4C 5C 5S KD AS 8C 4S 2C 10D JC AC 9D 3C JS 2H 6D KS 7C 4H 2D KH 7D AH 9C 3H 10H 
-Battle Number: 25
-Player Number: 1
-Player Hand: 5C 5S KD AS 8C 4S 2C 10D JC AC 9D 3C JS 2H 6D KS 7C 4H 2D KH 7D AH 9C 3H 10H 4D QS 4C 9S 2S JD 
-Battle Number: 26
-Player Number: 1
-Player Hand: 8C 4S 2C 10D JC AC 9D 3C JS 2H 6D KS 7C 4H 2D KH 7D AH 9C 3H 10H 4D QS 4C 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 
-Battle Number: 27
-Player Number: 1
-Player Hand: 10D JC AC 9D 3C JS 2H 6D KS 7C 4H 2D KH 7D AH 9C 3H 10H 4D QS 4C 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 
-Battle Number: 28
-Player Number: 1
-Player Hand: 9D 3C JS 2H 6D KS 7C 4H 2D KH 7D AH 9C 3H 10H 4D QS 4C 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 
-Battle Number: 29
-Player Number: 1
-Player Hand: 2H 6D KS 7C 4H 2D KH 7D AH 9C 3H 10H 4D QS 4C 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 
-Battle Number: 30
-Player Number: 1
-Player Hand: 7C 4H 2D KH 7D AH 9C 3H 10H 4D QS 4C 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 
-Battle Number: 31
-Player Number: 1
-Player Hand: KH 7D AH 9C 3H 10H 4D QS 4C 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 
-Battle Number: 32
-Player Number: 1
-Player Hand: 9C 3H 10H 4D QS 4C 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 
-Battle Number: 33
-Player Number: 1
-Player Hand: 4D QS 4C 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 9C 3H 10H 4S 2C QH 
-Battle Number: 34
-Player Number: 1
-Player Hand: 9S 2S JD AS 6C 5C 5S KD 5D 5H 3S 9C 3H 10H 4S 2C QH 4D QS 4C 10S JH 10D 
-Battle Number: 35
-Player Number: 1
-Player Hand: AS 6C 5C 5S KD 5D 5H 3S 9C 3H 10H 4S 2C QH 4D QS 4C 10S JH 10D 
-Battle Number: 36
-Player Number: 1
-Player Hand: 5S KD 5D 5H 3S 9C 3H 10H 4S 2C QH 4D QS 4C 10S JH 10D AS 6C 5C AD 3D 9D 
-Battle Number: 37
-Player Number: 1
-Player Hand: 5H 3S 9C 3H 10H 4S 2C QH 4D QS 4C 10S JH 10D AS 6C 5C AD 3D 9D 5S KD 5D 3C JS 8S 
-Battle Number: 38
-Player Number: 1
-Player Hand: 3H 10H 4S 2C QH 4D QS 4C 10S JH 10D AS 6C 5C AD 3D 9D 5S KD 5D 3C JS 8S 
-Battle Number: 39
-Player Number: 1
-Player Hand: 2C QH 4D QS 4C 10S JH 10D AS 6C 5C AD 3D 9D 5S KD 5D 3C JS 8S 
-Battle Number: 40
-Player Number: 1
-Player Hand: QS 4C 10S JH 10D AS 6C 5C AD 3D 9D 5S KD 5D 3C JS 8S 2C QH 4D 7H 6S 7C 
-Battle Number: 41
-Player Number: 1
-Player Hand: JH 10D AS 6C 5C AD 3D 9D 5S KD 5D 3C JS 8S 2C QH 4D 7H 6S 7C QS 4C 10S 4H 2D 6H 
-Battle Number: 42
-Player Number: 1
-Player Hand: 6C 5C AD 3D 9D 5S KD 5D 3C JS 8S 2C QH 4D 7H 6S 7C QS 4C 10S 4H 2D 6H 
-Battle Number: 43
-Player Number: 1
-Player Hand: 3D 9D 5S KD 5D 3C JS 8S 2C QH 4D 7H 6S 7C QS 4C 10S 4H 2D 6H 
-Battle Number: 44
-Player Number: 1
-Player Hand: KD 5D 3C JS 8S 2C QH 4D 7H 6S 7C QS 4C 10S 4H 2D 6H 3D 9D 5S 10C 8C 9S 
-Battle Number: 45
-Player Number: 1
-Player Hand: JS 8S 2C QH 4D 7H 6S 7C QS 4C 10S 4H 2D 6H 3D 9D 5S 10C 8C 9S 
-Battle Number: 46
-Player Number: 1
-Player Hand: QH 4D 7H 6S 7C QS 4C 10S 4H 2D 6H 3D 9D 5S 10C 8C 9S JS 8S 2C AC 7S 5H 
-Battle Number: 47
-Player Number: 1
-Player Hand: 6S 7C QS 4C 10S 4H 2D 6H 3D 9D 5S 10C 8C 9S JS 8S 2C AC 7S 5H 
-Battle Number: 48
-Player Number: 1
-Player Hand: 4C 10S 4H 2D 6H 3D 9D 5S 10C 8C 9S JS 8S 2C AC 7S 5H 6S 7C QS KC 2H 3H 
-Battle Number: 49
-Player Number: 1
-Player Hand: 2D 6H 3D 9D 5S 10C 8C 9S JS 8S 2C AC 7S 5H 6S 7C QS KC 2H 3H 4C 10S 4H 10H 4S 6D 
-Battle Number: 50
-Player Number: 1
-Player Hand: 9D 5S 10C 8C 9S JS 8S 2C AC 7S 5H 6S 7C QS KC 2H 3H 4C 10S 4H 10H 4S 6D 
-Battle Number: 51
-Player Number: 1
-Player Hand: 8C 9S JS 8S 2C AC 7S 5H 6S 7C QS KC 2H 3H 4C 10S 4H 10H 4S 6D 
-Battle Number: 52
-Player Number: 1
-Player Hand: 8S 2C AC 7S 5H 6S 7C QS KC 2H 3H 4C 10S 4H 10H 4S 6D 
-Battle Number: 53
-Player Number: 1
-Player Hand: 7S 5H 6S 7C QS KC 2H 3H 4C 10S 4H 10H 4S 6D 
-Battle Number: 54
-Player Number: 1
-Player Hand: 7C QS KC 2H 3H 4C 10S 4H 10H 4S 6D 
-Battle Number: 55
-Player Number: 1
-Player Hand: 2H 3H 4C 10S 4H 10H 4S 6D 7C QS KC 5D 3C 2S 
-Battle Number: 56
-Player Number: 1
-Player Hand: 10S 4H 10H 4S 6D 7C QS KC 5D 3C 2S 
-Battle Number: 57
-Player Number: 1
-Player Hand: 4S 6D 7C QS KC 5D 3C 2S 
-Battle Number: 58
-Player Number: 1
-Player Hand: QS KC 5D 3C 2S 
-Battle Number: 59
-Player Number: 1
-Player Hand: 3C 2S QS KC 5D 6H 3D KS 
-Battle Number: 60
-Player Number: 1
-Player Hand: KC 5D 6H 3D KS 
-Battle Number: 61
-Player Number: 1
-Player Hand: 3D KS 
-Battle Number: 62
-Player Number: 1
-Player Hand: 3D KS AS 8H 8C 
-Battle Number: 63
-Player Number: 1
-Player Hand: 8H 8C 3D KS AS 9S JS QC 
-Battle Number: 64
-Player Number: 1
-Player Hand: KS AS 9S JS QC 8H 8C 3D KH 6C 8S 
-Battle Number: 65
-Player Number: 1
-Player Hand: QC 8H 8C 3D KH 6C 8S 
-Battle Number: 66
-Player Number: 1
-Player Hand: 3D KH 6C 8S QC 8H 8C 7D 7S 5H 
-Battle Number: 67
-Player Number: 1
-Player Hand: 8S QC 8H 8C 7D 7S 5H 
-Battle Number: 68
-Player Number: 1
-Player Hand: 8C 7D 7S 5H 8S QC 8H KD 2H 3H 
-Battle Number: 69
-Player Number: 1
-Player Hand: 5H 8S QC 8H KD 2H 3H 
-Battle Number: 70
-Player Number: 1
-Player Hand: 8H KD 2H 3H 
-Battle Number: 71
-Player Number: 1
-Player Hand: 3H 8H KD 2H 10H 4D 7H 
-Battle Number: 72
-Player Number: 1
-Player Hand: 2H 10H 4D 7H 3H 8H KD 3S 4S 6D 
-Battle Number: 73
-Player Number: 1
-Player Hand: 7H 3H 8H KD 3S 4S 6D 2H 10H 4D 7C 9C 9H 
-Battle Number: 74
-Player Number: 1
-Player Hand: 3S 4S 6D 2H 10H 4D 7C 9C 9H KD QS 7H 3H 8H 2D 3C 2S 
-Battle Number: 75
-Player Number: 1
-Player Hand: 2H 10H 4D 7C 9C 9H KD QS 7H 3H 8H 2D 3C 2S 
-Battle Number: 76
-Player Number: 1
-Player Hand: 7C 9C 9H KD QS 7H 3H 8H 2D 3C 2S 2H 10H 4D KC 5D 6H 
-Battle Number: 77
-Player Number: 1
-Player Hand: KD QS 7H 3H 8H 2D 3C 2S 2H 10H 4D KC 5D 6H 
-Battle Number: 78
-Player Number: 1
-Player Hand: 3H 8H 2D 3C 2S 2H 10H 4D KC 5D 6H 
-Battle Number: 79
-Player Number: 1
-Player Hand: 3C 2S 2H 10H 4D KC 5D 6H 
-Battle Number: 80
-Player Number: 1
-Player Hand: 10H 4D KC 5D 6H 
-Battle Number: 81
-Player Number: 1
-Player Hand: 5D 6H 
-Battle Number: 1
-Player Number: 1
-Player Hand: 9H KS 3D 5H 5C 7D QD QC 10H 2H 8D 8C 2C QH KH 5S 6D 7C 9D 6C AC JH 3S 10C 2S 7S 
-Battle Number: 2
-Player Number: 1
-Player Hand: 5C 7D QD QC 10H 2H 8D 8C 2C QH KH 5S 6D 7C 9D 6C AC JH 3S 10C 2S 7S 5H 4D 9H KS 3D 6S KC JS 
-Battle Number: 3
-Player Number: 1
-Player Hand: QC 10H 2H 8D 8C 2C QH KH 5S 6D 7C 9D 6C AC JH 3S 10C 2S 7S 5H 4D 9H KS 3D 6S KC JS 
-Battle Number: 4
-Player Number: 1
-Player Hand: 8D 8C 2C QH KH 5S 6D 7C 9D 6C AC JH 3S 10C 2S 7S 5H 4D 9H KS 3D 6S KC JS QC 10H 2H 6H 2D QS 
-Battle Number: 5
-Player Number: 1
-Player Hand: QH KH 5S 6D 7C 9D 6C AC JH 3S 10C 2S 7S 5H 4D 9H KS 3D 6S KC JS QC 10H 2H 6H 2D QS 
-Battle Number: 6
-Player Number: 1
-Player Hand: 6D 7C 9D 6C AC JH 3S 10C 2S 7S 5H 4D 9H KS 3D 6S KC JS QC 10H 2H 6H 2D QS 
-Battle Number: 7
-Player Number: 1
-Player Hand: 6C AC JH 3S 10C 2S 7S 5H 4D 9H KS 3D 6S KC JS QC 10H 2H 6H 2D QS 6D 7C 9D 9S 4C 10S 
-Battle Number: 8
-Player Number: 1
-Player Hand: 3S 10C 2S 7S 5H 4D 9H KS 3D 6S KC JS QC 10H 2H 6H 2D QS 6D 7C 9D 9S 4C 10S 6C AC JH 10D 3H 3C 
-Battle Number: 9
-Player Number: 1
-Player Hand: 7S 5H 4D 9H KS 3D 6S KC JS QC 10H 2H 6H 2D QS 6D 7C 9D 9S 4C 10S 6C AC JH 10D 3H 3C 3S 10C 2S 4S 8H KD 
-Battle Number: 10
-Player Number: 1
-Player Hand: KS 3D 6S KC JS QC 10H 2H 6H 2D QS 6D 7C 9D 9S 4C 10S 6C AC JH 10D 3H 3C 3S 10C 2S 4S 8H KD 
-Battle Number: 11
-Player Number: 1
-Player Hand: KC JS QC 10H 2H 6H 2D QS 6D 7C 9D 9S 4C 10S 6C AC JH 10D 3H 3C 3S 10C 2S 4S 8H KD 
-Battle Number: 12
-Player Number: 1
-Player Hand: 10H 2H 6H 2D QS 6D 7C 9D 9S 4C 10S 6C AC JH 10D 3H 3C 3S 10C 2S 4S 8H KD KC JS QC 8D 8C 2C 
-Battle Number: 13
-Player Number: 1
-Player Hand: 2D QS 6D 7C 9D 9S 4C 10S 6C AC JH 10D 3H 3C 3S 10C 2S 4S 8H KD KC JS QC 8D 8C 2C 
-Battle Number: 14
-Player Number: 1
-Player Hand: 7C 9D 9S 4C 10S 6C AC JH 10D 3H 3C 3S 10C 2S 4S 8H KD KC JS QC 8D 8C 2C 
-Battle Number: 15
-Player Number: 1
-Player Hand: 4C 10S 6C AC JH 10D 3H 3C 3S 10C 2S 4S 8H KD KC JS QC 8D 8C 2C 
-Battle Number: 16
-Player Number: 1
-Player Hand: AC JH 10D 3H 3C 3S 10C 2S 4S 8H KD KC JS QC 8D 8C 2C 
-Battle Number: 17
-Player Number: 1
-Player Hand: 3H 3C 3S 10C 2S 4S 8H KD KC JS QC 8D 8C 2C AC JH 10D 5H 4D 5D 
-Battle Number: 18
-Player Number: 1
-Player Hand: 10C 2S 4S 8H KD KC JS QC 8D 8C 2C AC JH 10D 5H 4D 5D 
-Battle Number: 19
-Player Number: 1
-Player Hand: 8H KD KC JS QC 8D 8C 2C AC JH 10D 5H 4D 5D 
-Battle Number: 20
-Player Number: 1
-Player Hand: JS QC 8D 8C 2C AC JH 10D 5H 4D 5D 
-Battle Number: 21
-Player Number: 1
-Player Hand: 8C 2C AC JH 10D 5H 4D 5D JS QC 8D 2H 6H 8S 
-Battle Number: 22
-Player Number: 1
-Player Hand: JH 10D 5H 4D 5D JS QC 8D 2H 6H 8S 
-Battle Number: 23
-Player Number: 1
-Player Hand: 4D 5D JS QC 8D 2H 6H 8S JH 10D 5H QS 6D QH 
-Battle Number: 24
-Player Number: 1
-Player Hand: 8D 2H 6H 8S JH 10D 5H QS 6D QH QC 9D 4D 5D JS KH 5S 7C 
-Battle Number: 25
-Player Number: 1
-Player Hand: 8S JH 10D 5H QS 6D QH QC 9D 4D 5D JS KH 5S 7C 
-Battle Number: 26
-Player Number: 1
-Player Hand: 5H QS 6D QH QC 9D 4D 5D JS KH 5S 7C 8S JH 10D JD 4C 10S 
-Battle Number: 27
-Player Number: 1
-Player Hand: QH QC 9D 4D 5D JS KH 5S 7C 8S JH 10D JD 4C 10S 5H QS 6D 6C 9H QD 
-Battle Number: 28
-Player Number: 1
-Player Hand: 4D 5D JS KH 5S 7C 8S JH 10D JD 4C 10S 5H QS 6D 6C 9H QD QH QC 9D 7S 3H 3C 
-Battle Number: 29
-Player Number: 1
-Player Hand: 7C 8S JH 10D JD 4C 10S 5H QS 6D 6C 9H QD QH QC 9D 7S 3H 3C 
-Battle Number: 30
-Player Number: 1
-Player Hand: 10D JD 4C 10S 5H QS 6D 6C 9H QD QH QC 9D 7S 3H 3C 7C 8S JH 2S 4S 3D 
-Battle Number: 31
-Player Number: 1
-Player Hand: 10S 5H QS 6D 6C 9H QD QH QC 9D 7S 3H 3C 7C 8S JH 2S 4S 3D 10D JD 4C 6S 4H 8H 
-Battle Number: 32
-Player Number: 1
-Player Hand: 6D 6C 9H QD QH QC 9D 7S 3H 3C 7C 8S JH 2S 4S 3D 10D JD 4C 6S 4H 8H 
-Battle Number: 33
-Player Number: 1
-Player Hand: QD QH QC 9D 7S 3H 3C 7C 8S JH 2S 4S 3D 10D JD 4C 6S 4H 8H 
-Battle Number: 34
-Player Number: 1
-Player Hand: 9D 7S 3H 3C 7C 8S JH 2S 4S 3D 10D JD 4C 6S 4H 8H 
-Battle Number: 35
-Player Number: 1
-Player Hand: 3C 7C 8S JH 2S 4S 3D 10D JD 4C 6S 4H 8H 9D 7S 3H 7H 2D 8D 
-Battle Number: 36
-Player Number: 1
-Player Hand: JH 2S 4S 3D 10D JD 4C 6S 4H 8H 9D 7S 3H 7H 2D 8D 3C 7C 8S 2H 6H 9S 
-Battle Number: 37
-Player Number: 1
-Player Hand: 3D 10D JD 4C 6S 4H 8H 9D 7S 3H 7H 2D 8D 3C 7C 8S 2H 6H 9S 
-Battle Number: 38
-Player Number: 1
-Player Hand: 4C 6S 4H 8H 9D 7S 3H 7H 2D 8D 3C 7C 8S 2H 6H 9S 3D 10D JD KS 5S 10C 
-Battle Number: 39
-Player Number: 1
-Player Hand: 8H 9D 7S 3H 7H 2D 8D 3C 7C 8S 2H 6H 9S 3D 10D JD KS 5S 10C 4C 6S 4H 4D 5D JS 
-Battle Number: 40
-Player Number: 1
-Player Hand: 3H 7H 2D 8D 3C 7C 8S 2H 6H 9S 3D 10D JD KS 5S 10C 4C 6S 4H 4D 5D JS 8H 9D 7S 3S 5C 7D 
-Battle Number: 41
-Player Number: 1
-Player Hand: 8D 3C 7C 8S 2H 6H 9S 3D 10D JD KS 5S 10C 4C 6S 4H 4D 5D JS 8H 9D 7S 3S 5C 7D 3H 7H 2D 10S 5H QS 
-Battle Number: 42
-Player Number: 1
-Player Hand: 8S 2H 6H 9S 3D 10D JD KS 5S 10C 4C 6S 4H 4D 5D JS 8H 9D 7S 3S 5C 7D 3H 7H 2D 10S 5H QS 
-Battle Number: 43
-Player Number: 1
-Player Hand: 9S 3D 10D JD KS 5S 10C 4C 6S 4H 4D 5D JS 8H 9D 7S 3S 5C 7D 3H 7H 2D 10S 5H QS 
-Battle Number: 44
-Player Number: 1
-Player Hand: JD KS 5S 10C 4C 6S 4H 4D 5D JS 8H 9D 7S 3S 5C 7D 3H 7H 2D 10S 5H QS 
-Battle Number: 45
-Player Number: 1
-Player Hand: 10C 4C 6S 4H 4D 5D JS 8H 9D 7S 3S 5C 7D 3H 7H 2D 10S 5H QS JD KS 5S QD QH QC 
-Battle Number: 46
-Player Number: 1
-Player Hand: 4H 4D 5D JS 8H 9D 7S 3S 5C 7D 3H 7H 2D 10S 5H QS JD KS 5S QD QH QC 
-Battle Number: 47
-Player Number: 1
-Player Hand: JS 8H 9D 7S 3S 5C 7D 3H 7H 2D 10S 5H QS JD KS 5S QD QH QC 4H 4D 5D JH 2S 4S 
-Battle Number: 48
-Player Number: 1
-Player Hand: 7S 3S 5C 7D 3H 7H 2D 10S 5H QS JD KS 5S QD QH QC 4H 4D 5D JH 2S 4S 
-Battle Number: 49
-Player Number: 1
-Player Hand: 3H 7H 2D 10S 5H QS JD KS 5S QD QH QC 4H 4D 5D JH 2S 4S 
-Battle Number: 50
-Player Number: 1
-Player Hand: 10S 5H QS JD KS 5S QD QH QC 4H 4D 5D JH 2S 4S 
-Battle Number: 51
-Player Number: 1
-Player Hand: JD KS 5S QD QH QC 4H 4D 5D JH 2S 4S 
-Battle Number: 52
-Player Number: 1
-Player Hand: QD QH QC 4H 4D 5D JH 2S 4S JD KS 5S 6C 9H 9S 
-Battle Number: 53
-Player Number: 1
-Player Hand: 4H 4D 5D JH 2S 4S JD KS 5S 6C 9H 9S QD QH QC 3D 10D AH 
-Battle Number: 54
-Player Number: 1
-Player Hand: JH 2S 4S JD KS 5S 6C 9H 9S QD QH QC 3D 10D AH 
-Battle Number: 55
-Player Number: 1
-Player Hand: JD KS 5S 6C 9H 9S QD QH QC 3D 10D AH 
-Battle Number: 56
-Player Number: 1
-Player Hand: 6C 9H 9S QD QH QC 3D 10D AH JD KS 5S AC JC JS 
-Battle Number: 57
-Player Number: 1
-Player Hand: QH QC 3D 10D AH JD KS 5S AC JC JS 
-Battle Number: 58
-Player Number: 1
-Player Hand: 10D AH JD KS 5S AC JC JS QH QC 3D KH 7D KD 
-Battle Number: 59
-Player Number: 1
-Player Hand: KS 5S AC JC JS QH QC 3D KH 7D KD 10D AH JD 7S 3S 5C 
-Battle Number: 60
-Player Number: 1
-Player Hand: JC JS QH QC 3D KH 7D KD 10D AH JD 7S 3S 5C KS 5S AC 8D 3C 7C 
-Battle Number: 61
-Player Number: 1
-Player Hand: QC 3D KH 7D KD 10D AH JD 7S 3S 5C KS 5S AC 8D 3C 7C JC JS QH 3H 7H 2D 
-Battle Number: 62
-Player Number: 1
-Player Hand: 7D KD 10D AH JD 7S 3S 5C KS 5S AC 8D 3C 7C JC JS QH 3H 7H 2D 
-Battle Number: 63
-Player Number: 1
-Player Hand: AH JD 7S 3S 5C KS 5S AC 8D 3C 7C JC JS QH 3H 7H 2D 7D KD 10D 10S 5H QS 
-Battle Number: 64
-Player Number: 1
-Player Hand: 3S 5C KS 5S AC 8D 3C 7C JC JS QH 3H 7H 2D 7D KD 10D 10S 5H QS AH JD 7S 2H 6H 6D 
-Battle Number: 65
-Player Number: 1
-Player Hand: 5S AC 8D 3C 7C JC JS QH 3H 7H 2D 7D KD 10D 10S 5H QS AH JD 7S 2H 6H 6D 3S 5C KS 4H 4D 5D 
-Battle Number: 66
-Player Number: 1
-Player Hand: 3C 7C JC JS QH 3H 7H 2D 7D KD 10D 10S 5H QS AH JD 7S 2H 6H 6D 3S 5C KS 4H 4D 5D 5S AC 8D 10H 8C 10C 
-Battle Number: 67
-Player Number: 1
-Player Hand: JS QH 3H 7H 2D 7D KD 10D 10S 5H QS AH JD 7S 2H 6H 6D 3S 5C KS 4H 4D 5D 5S AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S 
-Battle Number: 68
-Player Number: 1
-Player Hand: 7H 2D 7D KD 10D 10S 5H QS AH JD 7S 2H 6H 6D 3S 5C KS 4H 4D 5D 5S AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C 
-Battle Number: 69
-Player Number: 1
-Player Hand: KD 10D 10S 5H QS AH JD 7S 2H 6H 6D 3S 5C KS 4H 4D 5D 5S AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C 
-Battle Number: 70
-Player Number: 1
-Player Hand: 5H QS AH JD 7S 2H 6H 6D 3S 5C KS 4H 4D 5D 5S AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 
-Battle Number: 71
-Player Number: 1
-Player Hand: JD 7S 2H 6H 6D 3S 5C KS 4H 4D 5D 5S AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 
-Battle Number: 72
-Player Number: 1
-Player Hand: 6H 6D 3S 5C KS 4H 4D 5D 5S AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 
-Battle Number: 73
-Player Number: 1
-Player Hand: 5C KS 4H 4D 5D 5S AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 
-Battle Number: 74
-Player Number: 1
-Player Hand: 4D 5D 5S AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD 
-Battle Number: 75
-Player Number: 1
-Player Hand: AC 8D 10H 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD 
-Battle Number: 76
-Player Number: 1
-Player Hand: 8C 10C 3C 7C JC JH 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 
-Battle Number: 77
-Player Number: 1
-Player Hand: 7C JC JH 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 
-Battle Number: 78
-Player Number: 1
-Player Hand: 2S 4S JS QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 
-Battle Number: 79
-Player Number: 1
-Player Hand: QH 3H 4C 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 
-Battle Number: 80
-Player Number: 1
-Player Hand: 6S 2C KD 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 
-Battle Number: 81
-Player Number: 1
-Player Hand: 10D 10S 9H 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 
-Battle Number: 82
-Player Number: 1
-Player Hand: 9S 8H 5H QS AH 9D 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 10D 10S 9H 10C 3C KH 
-Battle Number: 83
-Player Number: 1
-Player Hand: QS AH 9D 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 10D 10S 9H 10C 3C KH 9S 8H 5H KC 6H 2S 
-Battle Number: 84
-Player Number: 1
-Player Hand: 9C QC 5C KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 10D 10S 9H 10C 3C KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 
-Battle Number: 85
-Player Number: 1
-Player Hand: KS 4H 2D 7D QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 10D 10S 9H 10C 3C KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 
+Player Number: p1
+Player Hand: 8S 6C 5C 2S 6H AH AC 9D 6S 10S 3D 
 Battle Number: 86
-Player Number: 1
-Player Hand: QD AC 8D 10H 7S 2H 3D 7C JC JH 6D 3S AS 10D 10S 9H 10C 3C KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D 
+Player Number: p2
+Player Hand: 7S 8D JS 9H 2C 9S 8C KH 8H KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 
+The outcome of battle 86 is p2
 Battle Number: 87
-Player Number: 1
-Player Hand: 10H 7S 2H 3D 7C JC JH 6D 3S AS 10D 10S 9H 10C 3C KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 
+Player Number: p1
+Player Hand: 2S 6H AH AC 9D 6S 10S 3D 
+Battle Number: 87
+Player Number: p2
+Player Hand: 9H 2C 9S 8C KH 8H KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS 
+The outcome of battle 87 is p1
 Battle Number: 88
-Player Number: 1
-Player Hand: 3D 7C JC JH 6D 3S AS 10D 10S 9H 10C 3C KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 
+Player Number: p1
+Player Hand: AC 9D 6S 10S 3D 2S 6H AH 9H 2C 9S 
+Battle Number: 88
+Player Number: p2
+Player Hand: 8C KH 8H KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS 
+The outcome of battle 88 is p2
 Battle Number: 89
-Player Number: 1
-Player Hand: JH 6D 3S AS 10D 10S 9H 10C 3C KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 
+Player Number: p1
+Player Hand: 10S 3D 2S 6H AH 9H 2C 9S 
+Battle Number: 89
+Player Number: p2
+Player Hand: KS QH 7D 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 
+The outcome of battle 89 is p2
 Battle Number: 90
-Player Number: 1
-Player Hand: AS 10D 10S 9H 10C 3C KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 
+Player Number: p1
+Player Hand: 6H AH 9H 2C 9S 
+Battle Number: 90
+Player Number: p2
+Player Hand: 10H 4S 5H QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 
+The outcome of battle 90 is p1
 Battle Number: 91
-Player Number: 1
-Player Hand: 9H 10C 3C KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 
+Player Number: p1
+Player Hand: 2C 9S 6H AH 9H 10H 4S 5H 
+Battle Number: 91
+Player Number: p2
+Player Hand: QD QC 7H 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 
+The outcome of battle 91 is p2
 Battle Number: 92
-Player Number: 1
-Player Hand: KH 9S 8H 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 
+Player Number: p1
+Player Hand: AH 9H 10H 4S 5H 
+Battle Number: 92
+Player Number: p2
+Player Hand: 3H JC 9C KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 2C 9S 6H QD QC 7H 
+The outcome of battle 92 is p2
 Battle Number: 93
-Player Number: 1
-Player Hand: 5H KC 6H 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 
+Player Number: p1
+Player Hand: 4S 5H 
+Battle Number: 93
+Player Number: p2
+Player Hand: KC 4H 7C JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 2C 9S 6H QD QC 7H AH 9H 10H 3H JC 9C 
+The outcome of battle 93 is p1
 Battle Number: 94
-Player Number: 1
-Player Hand: 2S QS AH 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 
+Player Number: p1
+Player Hand: 4S 5H KC 4H 7C 
+Battle Number: 94
+Player Number: p2
+Player Hand: JD 3S 3C QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 2C 9S 6H QD QC 7H AH 9H 10H 3H JC 9C 
+The outcome of battle 94 is p1
 Battle Number: 95
-Player Number: 1
-Player Hand: 9D 4S JS 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 
+Player Number: p1
+Player Hand: 4H 7C 4S 5H KC JD 3S 3C 
+Battle Number: 95
+Player Number: p2
+Player Hand: QS 10D 4C 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 2C 9S 6H QD QC 7H AH 9H 10H 3H JC 9C 
+The outcome of battle 95 is p2
 Battle Number: 96
-Player Number: 1
-Player Hand: 8S 9C QC 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 
+Player Number: p1
+Player Hand: 5H KC JD 3S 3C 
+Battle Number: 96
+Player Number: p2
+Player Hand: 2H 5S 5D AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 2C 9S 6H QD QC 7H AH 9H 10H 3H JC 9C 4H 7C 4S QS 10D 4C 
+The outcome of battle 96 is p1
 Battle Number: 97
-Player Number: 1
-Player Hand: 5C 7H 4D QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 
+Player Number: p1
+Player Hand: 3S 3C 5H KC JD 2H 5S 5D 
+Battle Number: 97
+Player Number: p2
+Player Hand: AS 4D AD 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 2C 9S 6H QD QC 7H AH 9H 10H 3H JC 9C 4H 7C 4S QS 10D 4C 
+The outcome of battle 97 is p2
 Battle Number: 98
-Player Number: 1
-Player Hand: QH 7D 5S KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH 
+Player Number: p1
+Player Hand: KC JD 2H 5S 5D 
+Battle Number: 98
+Player Number: p2
+Player Hand: 2D KD JH 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 2C 9S 6H QD QC 7H AH 9H 10H 3H JC 9C 4H 7C 4S QS 10D 4C 3S 3C 5H AS 4D AD 
+The outcome of battle 98 is p2
 Battle Number: 99
-Player Number: 1
-Player Hand: KS 4H 2D 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH 
-Battle Number: 100
-Player Number: 1
-Player Hand: 3H 4C 5D QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH 
-Battle Number: 101
-Player Number: 1
-Player Hand: QD AC 8D AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH 
-Battle Number: 102
-Player Number: 1
-Player Hand: AD 6S 2C 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D 
-Battle Number: 103
-Player Number: 1
-Player Hand: 10H 7S 2H KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D 
-Battle Number: 104
-Player Number: 1
-Player Hand: KD 6C JD 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D 
-Battle Number: 105
-Player Number: 1
-Player Hand: 9H 10C 3C 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 
-Battle Number: 106
-Player Number: 1
-Player Hand: 3S 3D 7C 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 
-Battle Number: 107
-Player Number: 1
-Player Hand: 5H KC 6H 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 
-Battle Number: 108
-Player Number: 1
-Player Hand: 10S 8C JH 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 5H KC 6H 2C 4S KS 
-Battle Number: 109
-Player Number: 1
-Player Hand: 8S 9C QC 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 5H KC 6H 2C 4S KS 
-Battle Number: 110
-Player Number: 1
-Player Hand: 10D 2S QS 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 5H KC 6H 2C 4S KS 8S 9C QC 2H 2D JS 
-Battle Number: 111
-Player Number: 1
-Player Hand: 5C 7H 4D AH 6D KH QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 5H KC 6H 2C 4S KS 8S 9C QC 2H 2D JS 
-Battle Number: 112
-Player Number: 1
-Player Hand: AH 6D KH QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 5H KC 6H 2C 4S KS 8S 9C QC 2H 2D JS 5C 7H 4D 3C 5D AS 
-Battle Number: 113
-Player Number: 1
-Player Hand: QD AC 8D 5S 9S 9D KD 6C JD JC 3H 4C 5H KC 6H 2C 4S KS 8S 9C QC 2H 2D JS 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D 
-Battle Number: 114
-Player Number: 1
-Player Hand: 5S 9S 9D KD 6C JD JC 3H 4C 5H KC 6H 2C 4S KS 8S 9C QC 2H 2D JS 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD 
-Battle Number: 115
-Player Number: 1
-Player Hand: KD 6C JD JC 3H 4C 5H KC 6H 2C 4S KS 8S 9C QC 2H 2D JS 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD 
-Battle Number: 116
-Player Number: 1
-Player Hand: JC 3H 4C 5H KC 6H 2C 4S KS 8S 9C QC 2H 2D JS 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 
-Battle Number: 117
-Player Number: 1
-Player Hand: 5H KC 6H 2C 4S KS 8S 9C QC 2H 2D JS 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 
-Battle Number: 118
-Player Number: 1
-Player Hand: 2C 4S KS 8S 9C QC 2H 2D JS 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 
-Battle Number: 119
-Player Number: 1
-Player Hand: 8S 9C QC 2H 2D JS 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 
-Battle Number: 120
-Player Number: 1
-Player Hand: 2H 2D JS 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 
-Battle Number: 121
-Player Number: 1
-Player Hand: 5C 7H 4D 3C 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 
-Battle Number: 122
-Player Number: 1
-Player Hand: 5D AS AH 6D KH QH 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 
-Battle Number: 123
-Player Number: 1
-Player Hand: 6D KH QH 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 
-Battle Number: 124
-Player Number: 1
-Player Hand: 3S 3D QD AC 8D 7C 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 
-Battle Number: 125
-Player Number: 1
-Player Hand: AC 8D 7C 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 
-Battle Number: 126
-Player Number: 1
-Player Hand: 7D AD KD 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 
-Battle Number: 127
-Player Number: 1
-Player Hand: 6C JD JH 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 
-Battle Number: 128
-Player Number: 1
-Player Hand: 4H 10H 5H KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 
-Battle Number: 129
-Player Number: 1
-Player Hand: KC 6H QS 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 
-Battle Number: 130
-Player Number: 1
-Player Hand: 8H 9H 8S 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 
-Battle Number: 131
-Player Number: 1
-Player Hand: 9C QC 9D 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 
-Battle Number: 132
-Player Number: 1
-Player Hand: 6S 10S 3C 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 
-Battle Number: 133
-Player Number: 1
-Player Hand: 2S 5C 7H 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS 
-Battle Number: 134
-Player Number: 1
-Player Hand: 4D 4C 7S 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS 
-Battle Number: 135
-Player Number: 1
-Player Hand: 10D 5D AS AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS 
-Battle Number: 136
-Player Number: 1
-Player Hand: AH 2C 4S KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS 
-Battle Number: 137
-Player Number: 1
-Player Hand: KS 6D KH QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS 
-Battle Number: 138
-Player Number: 1
-Player Hand: QH 10C 5S 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS 
-Battle Number: 139
-Player Number: 1
-Player Hand: 9S 3S 3D QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS QH 10C 5S 4D 4C 7S 
-Battle Number: 140
-Player Number: 1
-Player Hand: QD 2H 2D JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS QH 10C 5S 4D 4C 7S 
-Battle Number: 141
-Player Number: 1
-Player Hand: JS 7D AD KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS QH 10C 5S 4D 4C 7S 
-Battle Number: 142
-Player Number: 1
-Player Hand: KD AC 8D 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS QH 10C 5S 4D 4C 7S 
-Battle Number: 143
-Player Number: 1
-Player Hand: 7C 9C QC 9D 6C JD JH 6S 10S 3C KC 6H QS QH 10C 5S 4D 4C 7S KD AC 8D AH 2C 4S 
-Battle Number: 144
-Player Number: 1
-Player Hand: 9D 6C JD JH 6S 10S 3C KC 6H QS QH 10C 5S 4D 4C 7S KD AC 8D AH 2C 4S 7C 9C QC 2S 5C 7H 
-Battle Number: 145
-Player Number: 1
-Player Hand: 6S 10S 3C KC 6H QS QH 10C 5S 4D 4C 7S KD AC 8D AH 2C 4S 7C 9C QC 2S 5C 7H JH 8C 9D 6C JD KS 6D KH 
-Battle Number: 146
-Player Number: 1
-Player Hand: KC 6H QS QH 10C 5S 4D 4C 7S KD AC 8D AH 2C 4S 7C 9C QC 2S 5C 7H JH 8C 9D 6C JD KS 6D KH 6S 10S 3C JC 3H 9S 
-Battle Number: 147
-Player Number: 1
-Player Hand: QH 10C 5S 4D 4C 7S KD AC 8D AH 2C 4S 7C 9C QC 2S 5C 7H JH 8C 9D 6C JD KS 6D KH 6S 10S 3C JC 3H 9S KC 6H QS 3S 3D 8H 
-Battle Number: 148
-Player Number: 1
-Player Hand: 4D 4C 7S KD AC 8D AH 2C 4S 7C 9C QC 2S 5C 7H JH 8C 9D 6C JD KS 6D KH 6S 10S 3C JC 3H 9S KC 6H QS 3S 3D 8H QH 10C 5S 9H 8S QD 
-Battle Number: 149
-Player Number: 1
-Player Hand: KD AC 8D AH 2C 4S 7C 9C QC 2S 5C 7H JH 8C 9D 6C JD KS 6D KH 6S 10S 3C JC 3H 9S KC 6H QS 3S 3D 8H QH 10C 5S 9H 8S QD 4D 4C 7S 2H 2D 10D 
-Battle Number: 150
-Player Number: 1
-Player Hand: 2C 4S 7C 9C QC 2S 5C 7H JH 8C 9D 6C JD KS 6D KH 6S 10S 3C JC 3H 9S KC 6H QS 3S 3D 8H QH 10C 5S 9H 8S QD 4D 4C 7S 2H 2D 10D AH 7D KD AC 8D 5D AS JS 
+Player Number: p1
+Player Hand: 5S 5D 
+Battle Number: 99
+Player Number: p2
+Player Hand: 10C 6D 8S 6C 5C 7S 8D JS AC 9D 6S 8C KH 8H 10S 3D 2S KS QH 7D 2C 9S 6H QD QC 7H AH 9H 10H 3H JC 9C 4H 7C 4S QS 10D 4C 3S 3C 5H AS 4D AD KC JD 2H 2D KD JH 
+The outcome of battle 99 is p2
+The winner of game 1 is p2
 Battle Number: 1
-Player Number: 1
-Player Hand: AD 8S AC 5S 3S QH 9D 2D 9C 9S 3D KC 5H JD AS 10H 8D 4S KS 9H 6S 2H 10C KH 10S 6C 
-Battle Number: 2
-Player Number: 1
-Player Hand: 5S 3S QH 9D 2D 9C 9S 3D KC 5H JD AS 10H 8D 4S KS 9H 6S 2H 10C KH 10S 6C AD 8S AC 5C 6H 4H 
-Battle Number: 3
-Player Number: 1
-Player Hand: 9D 2D 9C 9S 3D KC 5H JD AS 10H 8D 4S KS 9H 6S 2H 10C KH 10S 6C AD 8S AC 5C 6H 4H 
-Battle Number: 4
-Player Number: 1
-Player Hand: 9S 3D KC 5H JD AS 10H 8D 4S KS 9H 6S 2H 10C KH 10S 6C AD 8S AC 5C 6H 4H 
-Battle Number: 5
-Player Number: 1
-Player Hand: 5H JD AS 10H 8D 4S KS 9H 6S 2H 10C KH 10S 6C AD 8S AC 5C 6H 4H 
-Battle Number: 6
-Player Number: 1
-Player Hand: 10H 8D 4S KS 9H 6S 2H 10C KH 10S 6C AD 8S AC 5C 6H 4H 5H JD AS AH 10D QD 
-Battle Number: 7
-Player Number: 1
-Player Hand: KS 9H 6S 2H 10C KH 10S 6C AD 8S AC 5C 6H 4H 5H JD AS AH 10D QD 
-Battle Number: 8
-Player Number: 1
-Player Hand: 2H 10C KH 10S 6C AD 8S AC 5C 6H 4H 5H JD AS AH 10D QD KS 9H 6S 2S 7D 7H 
-Battle Number: 9
-Player Number: 1
-Player Hand: 10S 6C AD 8S AC 5C 6H 4H 5H JD AS AH 10D QD KS 9H 6S 2S 7D 7H 2H 10C KH QS 4D 3H 
-Battle Number: 10
-Player Number: 1
-Player Hand: 8S AC 5C 6H 4H 5H JD AS AH 10D QD KS 9H 6S 2S 7D 7H 2H 10C KH QS 4D 3H 
-Battle Number: 11
-Player Number: 1
-Player Hand: 6H 4H 5H JD AS AH 10D QD KS 9H 6S 2S 7D 7H 2H 10C KH QS 4D 3H 8S AC 5C 3S QH 8H 
-Battle Number: 12
-Player Number: 1
-Player Hand: JD AS AH 10D QD KS 9H 6S 2S 7D 7H 2H 10C KH QS 4D 3H 8S AC 5C 3S QH 8H 
-Battle Number: 13
-Player Number: 1
-Player Hand: 10D QD KS 9H 6S 2S 7D 7H 2H 10C KH QS 4D 3H 8S AC 5C 3S QH 8H JD AS AH 2D 9C 6D 
-Battle Number: 14
-Player Number: 1
-Player Hand: 9H 6S 2S 7D 7H 2H 10C KH QS 4D 3H 8S AC 5C 3S QH 8H JD AS AH 2D 9C 6D 10D QD KS QC JH 9S 
-Battle Number: 15
-Player Number: 1
-Player Hand: 7D 7H 2H 10C KH QS 4D 3H 8S AC 5C 3S QH 8H JD AS AH 2D 9C 6D 10D QD KS QC JH 9S 
-Battle Number: 16
-Player Number: 1
-Player Hand: KH QS 4D 3H 8S AC 5C 3S QH 8H JD AS AH 2D 9C 6D 10D QD KS QC JH 9S 10C 8D 7D 7H 2H 7S 7C 10H 
-Battle Number: 17
-Player Number: 1
-Player Hand: 3H 8S AC 5C 3S QH 8H JD AS AH 2D 9C 6D 10D QD KS QC JH 9S 10C 8D 7D 7H 2H 7S 7C 10H KH QS 4D 4S 5D JS 
-Battle Number: 18
-Player Number: 1
-Player Hand: 5C 3S QH 8H JD AS AH 2D 9C 6D 10D QD KS QC JH 9S 10C 8D 7D 7H 2H 7S 7C 10H KH QS 4D 4S 5D JS 
-Battle Number: 19
-Player Number: 1
-Player Hand: JD AS AH 2D 9C 6D 10D QD KS QC JH 9S 10C 8D 7D 7H 2H 7S 7C 10H KH QS 4D 4S 5D JS 8H 5S 5C 3S QH AD 3C JC 
-Battle Number: 20
-Player Number: 1
-Player Hand: 2D 9C 6D 10D QD KS QC JH 9S 10C 8D 7D 7H 2H 7S 7C 10H KH QS 4D 4S 5D JS 8H 5S 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 
-Battle Number: 21
-Player Number: 1
-Player Hand: 10D QD KS QC JH 9S 10C 8D 7D 7H 2H 7S 7C 10H KH QS 4D 4S 5D JS 8H 5S 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 
-Battle Number: 22
-Player Number: 1
-Player Hand: QC JH 9S 10C 8D 7D 7H 2H 7S 7C 10H KH QS 4D 4S 5D JS 8H 5S 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 
-Battle Number: 23
-Player Number: 1
-Player Hand: 10C 8D 7D 7H 2H 7S 7C 10H KH QS 4D 4S 5D JS 8H 5S 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 
-Battle Number: 24
-Player Number: 1
-Player Hand: 2H 7S 7C 10H KH QS 4D 4S 5D JS 8H 5S 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 
-Battle Number: 25
-Player Number: 1
-Player Hand: 10H KH QS 4D 4S 5D JS 8H 5S 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 
-Battle Number: 26
-Player Number: 1
-Player Hand: 4D 4S 5D JS 8H 5S 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 
-Battle Number: 27
-Player Number: 1
-Player Hand: JS 8H 5S 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H 
-Battle Number: 28
-Player Number: 1
-Player Hand: 5C 3S QH AD 3C JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H 
-Battle Number: 29
-Player Number: 1
-Player Hand: JC JD AS AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H 
-Battle Number: 30
-Player Number: 1
-Player Hand: AH 6H 4H 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 
-Battle Number: 31
-Player Number: 1
-Player Hand: 5H 2D 9C 6D 4C 8C 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 
-Battle Number: 32
-Player Number: 1
-Player Hand: 6D 4C 8C 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 
-Battle Number: 33
-Player Number: 1
-Player Hand: 9D 10D QD KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 
-Battle Number: 34
-Player Number: 1
-Player Hand: KS 9H 6S 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 9D 10D QD 7D 3H 8S 
-Battle Number: 35
-Player Number: 1
-Player Hand: 2S 2H 7S 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 9D 10D QD 7D 3H 8S KS 9H 6S AH 6H 4H 
-Battle Number: 36
-Player Number: 1
-Player Hand: 7C 10S 6C QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 9D 10D QD 7D 3H 8S KS 9H 6S AH 6H 4H 
-Battle Number: 37
-Player Number: 1
-Player Hand: QC 10H KH QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 9D 10D QD 7D 3H 8S KS 9H 6S AH 6H 4H 7C 10S 6C 5H 2D 9C 
-Battle Number: 38
-Player Number: 1
-Player Hand: QS JH 9S 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 9D 10D QD 7D 3H 8S KS 9H 6S AH 6H 4H 7C 10S 6C 5H 2D 9C QC 10H KH AC 3C JS 
-Battle Number: 39
-Player Number: 1
-Player Hand: 3D 4D 4S 5D KC 2C 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 9D 10D QD 7D 3H 8S KS 9H 6S AH 6H 4H 7C 10S 6C 5H 2D 9C QC 10H KH AC 3C JS QS JH 9S 2S 2H 7S 
-Battle Number: 40
-Player Number: 1
-Player Hand: 5D KC 2C 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 9D 10D QD 7D 3H 8S KS 9H 6S AH 6H 4H 7C 10S 6C 5H 2D 9C QC 10H KH AC 3C JS QS JH 9S 2S 2H 7S 
-Battle Number: 41
-Player Number: 1
-Player Hand: 7H JC JD AS 8H 5S KD 6D 4C 8C 5C 3S QH 9D 10D QD 7D 3H 8S KS 9H 6S AH 6H 4H 7C 10S 6C 5H 2D 9C QC 10H KH AC 3C JS QS JH 9S 2S 2H 7S 5D KC 2C 3D 4D 4S 
+Player Number: p1
+Player Hand: 3C 3H KD 4S JH 8S 9H 10S QH 5S AS 7H AC 5H AD 5D 6D KC 4D 10C QS 4C QC JC 8D 8H 
 Battle Number: 1
-Player Number: 1
-Player Hand: AC 6D 5H 2H 3C 7D 7C AH KH JC 4S 7S 8C QS 4H AS 9H 3H 9D 10D AD JS KS 9C 3D 2S 
+Player Number: p2
+Player Hand: 9D 2S 7C 9S 5C 2C 6C 3D 9C 6H 6S JD AH 10H 2H 7S 3S 8C 4H KS 2D JS QD KH 7D 10D 
+The outcome of battle 1 is p1
 Battle Number: 2
-Player Number: 1
-Player Hand: 2H 3C 7D 7C AH KH JC 4S 7S 8C QS 4H AS 9H 3H 9D 10D AD JS KS 9C 3D 2S 
+Player Number: p1
+Player Hand: 4S JH 8S 9H 10S QH 5S AS 7H AC 5H AD 5D 6D KC 4D 10C QS 4C QC JC 8D 8H 3C 3H KD 9D 2S 7C 
+Battle Number: 2
+Player Number: p2
+Player Hand: 9S 5C 2C 6C 3D 9C 6H 6S JD AH 10H 2H 7S 3S 8C 4H KS 2D JS QD KH 7D 10D 
+The outcome of battle 2 is p1
 Battle Number: 3
-Player Number: 1
-Player Hand: 7C AH KH JC 4S 7S 8C QS 4H AS 9H 3H 9D 10D AD JS KS 9C 3D 2S 
+Player Number: p1
+Player Hand: 9H 10S QH 5S AS 7H AC 5H AD 5D 6D KC 4D 10C QS 4C QC JC 8D 8H 3C 3H KD 9D 2S 7C 4S JH 8S 9S 5C 2C 
+Battle Number: 3
+Player Number: p2
+Player Hand: 6C 3D 9C 6H 6S JD AH 10H 2H 7S 3S 8C 4H KS 2D JS QD KH 7D 10D 
+The outcome of battle 3 is p1
 Battle Number: 4
-Player Number: 1
-Player Hand: JC 4S 7S 8C QS 4H AS 9H 3H 9D 10D AD JS KS 9C 3D 2S 7C AH KH 5S 4C 10H 
+Player Number: p1
+Player Hand: 5S AS 7H AC 5H AD 5D 6D KC 4D 10C QS 4C QC JC 8D 8H 3C 3H KD 9D 2S 7C 4S JH 8S 9S 5C 2C 9H 10S QH 6C 3D 9C 
+Battle Number: 4
+Player Number: p2
+Player Hand: 6H 6S JD AH 10H 2H 7S 3S 8C 4H KS 2D JS QD KH 7D 10D 
+The outcome of battle 4 is p1
 Battle Number: 5
-Player Number: 1
-Player Hand: 8C QS 4H AS 9H 3H 9D 10D AD JS KS 9C 3D 2S 7C AH KH 5S 4C 10H 
+Player Number: p1
+Player Hand: AC 5H AD 5D 6D KC 4D 10C QS 4C QC JC 8D 8H 3C 3H KD 9D 2S 7C 4S JH 8S 9S 5C 2C 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 
+Battle Number: 5
+Player Number: p2
+Player Hand: AH 10H 2H 7S 3S 8C 4H KS 2D JS QD KH 7D 10D 
+The outcome of battle 5 is p2
 Battle Number: 6
-Player Number: 1
-Player Hand: AS 9H 3H 9D 10D AD JS KS 9C 3D 2S 7C AH KH 5S 4C 10H 8C QS 4H 10C 6C 8H 
+Player Number: p1
+Player Hand: 5D 6D KC 4D 10C QS 4C QC JC 8D 8H 3C 3H KD 9D 2S 7C 4S JH 8S 9S 5C 2C 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 
+Battle Number: 6
+Player Number: p2
+Player Hand: 7S 3S 8C 4H KS 2D JS QD KH 7D 10D AC 5H AD AH 10H 2H 
+The outcome of battle 6 is p1
 Battle Number: 7
-Player Number: 1
-Player Hand: 9D 10D AD JS KS 9C 3D 2S 7C AH KH 5S 4C 10H 8C QS 4H 10C 6C 8H AS 9H 3H 8S 6H JD 
+Player Number: p1
+Player Hand: 4D 10C QS 4C QC JC 8D 8H 3C 3H KD 9D 2S 7C 4S JH 8S 9S 5C 2C 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 
+Battle Number: 7
+Player Number: p2
+Player Hand: 4H KS 2D JS QD KH 7D 10D AC 5H AD AH 10H 2H 
+The outcome of battle 7 is p2
 Battle Number: 8
-Player Number: 1
-Player Hand: JS KS 9C 3D 2S 7C AH KH 5S 4C 10H 8C QS 4H 10C 6C 8H AS 9H 3H 8S 6H JD 9D 10D AD KD 6S 9S 
+Player Number: p1
+Player Hand: 4C QC JC 8D 8H 3C 3H KD 9D 2S 7C 4S JH 8S 9S 5C 2C 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 
+Battle Number: 8
+Player Number: p2
+Player Hand: JS QD KH 7D 10D AC 5H AD AH 10H 2H 4D 10C QS 4H KS 2D 
+The outcome of war 1 is p1
 Battle Number: 9
-Player Number: 1
-Player Hand: 3D 2S 7C AH KH 5S 4C 10H 8C QS 4H 10C 6C 8H AS 9H 3H 8S 6H JD 9D 10D AD KD 6S 9S JS KS 9C 2D 5C JH 
+Player Number: p1
+Player Hand: 8H 3C 3H KD 9D 2S 7C 4S JH 8S 9S 5C 2C 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 
+Battle Number: 9
+Player Number: p2
+Player Hand: 10D AC 5H AD AH 10H 2H 4D 10C QS 4H KS 2D 
+The outcome of battle 9 is p2
 Battle Number: 10
-Player Number: 1
-Player Hand: AH KH 5S 4C 10H 8C QS 4H 10C 6C 8H AS 9H 3H 8S 6H JD 9D 10D AD KD 6S 9S JS KS 9C 2D 5C JH 
+Player Number: p1
+Player Hand: KD 9D 2S 7C 4S JH 8S 9S 5C 2C 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 
+Battle Number: 10
+Player Number: p2
+Player Hand: AD AH 10H 2H 4D 10C QS 4H KS 2D 8H 3C 3H 10D AC 5H 
+The outcome of battle 10 is p2
 Battle Number: 11
-Player Number: 1
-Player Hand: 4C 10H 8C QS 4H 10C 6C 8H AS 9H 3H 8S 6H JD 9D 10D AD KD 6S 9S JS KS 9C 2D 5C JH AH KH 5S 6D 5H 4D 
+Player Number: p1
+Player Hand: 7C 4S JH 8S 9S 5C 2C 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 
+Battle Number: 11
+Player Number: p2
+Player Hand: 2H 4D 10C QS 4H KS 2D 8H 3C 3H 10D AC 5H KD 9D 2S AD AH 10H 
+The outcome of war 2 is p2
 Battle Number: 12
-Player Number: 1
-Player Hand: QS 4H 10C 6C 8H AS 9H 3H 8S 6H JD 9D 10D AD KD 6S 9S JS KS 9C 2D 5C JH AH KH 5S 6D 5H 4D 
+Player Number: p1
+Player Hand: 9S 5C 2C 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 
+Battle Number: 12
+Player Number: p2
+Player Hand: 4H KS 2D 8H 3C 3H 10D AC 5H KD 9D 2S AD AH 10H 8S QS 7C 4S JH 2H 4D 10C 
+The outcome of battle 12 is p2
 Battle Number: 13
-Player Number: 1
-Player Hand: 6C 8H AS 9H 3H 8S 6H JD 9D 10D AD KD 6S 9S JS KS 9C 2D 5C JH AH KH 5S 6D 5H 4D 
+Player Number: p1
+Player Hand: 9H 10S QH 6C 3D 9C 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 
+Battle Number: 13
+Player Number: p2
+Player Hand: 8H 3C 3H 10D AC 5H KD 9D 2S AD AH 10H 8S QS 7C 4S JH 2H 4D 10C 9S 5C 2C 4H KS 2D 
+The outcome of battle 13 is p1
 Battle Number: 14
-Player Number: 1
-Player Hand: 9H 3H 8S 6H JD 9D 10D AD KD 6S 9S JS KS 9C 2D 5C JH AH KH 5S 6D 5H 4D 6C 8H AS 10S 5D JC 
+Player Number: p1
+Player Hand: 6C 3D 9C 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 9H 10S QH 8H 3C 3H 
+Battle Number: 14
+Player Number: p2
+Player Hand: 10D AC 5H KD 9D 2S AD AH 10H 8S QS 7C 4S JH 2H 4D 10C 9S 5C 2C 4H KS 2D 
+The outcome of battle 14 is p2
 Battle Number: 15
-Player Number: 1
-Player Hand: 6H JD 9D 10D AD KD 6S 9S JS KS 9C 2D 5C JH AH KH 5S 6D 5H 4D 6C 8H AS 10S 5D JC 
+Player Number: p1
+Player Hand: 5S AS 7H 6H 6S JD 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 9H 10S QH 8H 3C 3H 
+Battle Number: 15
+Player Number: p2
+Player Hand: KD 9D 2S AD AH 10H 8S QS 7C 4S JH 2H 4D 10C 9S 5C 2C 4H KS 2D 6C 3D 9C 10D AC 5H 
+The outcome of battle 15 is p1
 Battle Number: 16
-Player Number: 1
-Player Hand: 10D AD KD 6S 9S JS KS 9C 2D 5C JH AH KH 5S 6D 5H 4D 6C 8H AS 10S 5D JC 6H JD 9D QD 8D 3D 
+Player Number: p1
+Player Hand: 6H 6S JD 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 9H 10S QH 8H 3C 3H 5S AS 7H KD 9D 2S 
+Battle Number: 16
+Player Number: p2
+Player Hand: AD AH 10H 8S QS 7C 4S JH 2H 4D 10C 9S 5C 2C 4H KS 2D 6C 3D 9C 10D AC 5H 
+The outcome of battle 16 is p2
 Battle Number: 17
-Player Number: 1
-Player Hand: 6S 9S JS KS 9C 2D 5C JH AH KH 5S 6D 5H 4D 6C 8H AS 10S 5D JC 6H JD 9D QD 8D 3D 10D AD KD 2S 7C QH 
+Player Number: p1
+Player Hand: 5D 6D KC 7S 3S 8C 8D 7D 4C QC JC JS QD KH 9H 10S QH 8H 3C 3H 5S AS 7H KD 9D 2S 
+Battle Number: 17
+Player Number: p2
+Player Hand: 8S QS 7C 4S JH 2H 4D 10C 9S 5C 2C 4H KS 2D 6C 3D 9C 10D AC 5H 6H 6S JD AD AH 10H 
+The outcome of battle 17 is p2
 Battle Number: 18
-Player Number: 1
-Player Hand: KS 9C 2D 5C JH AH KH 5S 6D 5H 4D 6C 8H AS 10S 5D JC 6H JD 9D QD 8D 3D 10D AD KD 2S 7C QH 
+Player Number: p1
+Player Hand: 7S 3S 8C 8D 7D 4C QC JC JS QD KH 9H 10S QH 8H 3C 3H 5S AS 7H KD 9D 2S 
+Battle Number: 18
+Player Number: p2
+Player Hand: 4S JH 2H 4D 10C 9S 5C 2C 4H KS 2D 6C 3D 9C 10D AC 5H 6H 6S JD AD AH 10H 5D 6D KC 8S QS 7C 
+The outcome of battle 18 is p2
 Battle Number: 19
-Player Number: 1
-Player Hand: 5C JH AH KH 5S 6D 5H 4D 6C 8H AS 10S 5D JC 6H JD 9D QD 8D 3D 10D AD KD 2S 7C QH KS 9C 2D 10H 8C 7H 
+Player Number: p1
+Player Hand: 8D 7D 4C QC JC JS QD KH 9H 10S QH 8H 3C 3H 5S AS 7H KD 9D 2S 
+Battle Number: 19
+Player Number: p2
+Player Hand: 4D 10C 9S 5C 2C 4H KS 2D 6C 3D 9C 10D AC 5H 6H 6S JD AD AH 10H 5D 6D KC 8S QS 7C 7S 3S 8C 4S JH 2H 
+The outcome of battle 19 is p2
 Battle Number: 20
-Player Number: 1
-Player Hand: KH 5S 6D 5H 4D 6C 8H AS 10S 5D JC 6H JD 9D QD 8D 3D 10D AD KD 2S 7C QH KS 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 
+Player Number: p1
+Player Hand: QC JC JS QD KH 9H 10S QH 8H 3C 3H 5S AS 7H KD 9D 2S 
+Battle Number: 20
+Player Number: p2
+Player Hand: 5C 2C 4H KS 2D 6C 3D 9C 10D AC 5H 6H 6S JD AD AH 10H 5D 6D KC 8S QS 7C 7S 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 
+The outcome of battle 20 is p1
 Battle Number: 21
-Player Number: 1
-Player Hand: 5H 4D 6C 8H AS 10S 5D JC 6H JD 9D QD 8D 3D 10D AD KD 2S 7C QH KS 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 
+Player Number: p1
+Player Hand: QD KH 9H 10S QH 8H 3C 3H 5S AS 7H KD 9D 2S QC JC JS 5C 2C 4H 
+Battle Number: 21
+Player Number: p2
+Player Hand: KS 2D 6C 3D 9C 10D AC 5H 6H 6S JD AD AH 10H 5D 6D KC 8S QS 7C 7S 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 
+The outcome of battle 21 is p1
 Battle Number: 22
-Player Number: 1
-Player Hand: 8H AS 10S 5D JC 6H JD 9D QD 8D 3D 10D AD KD 2S 7C QH KS 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 
+Player Number: p1
+Player Hand: 10S QH 8H 3C 3H 5S AS 7H KD 9D 2S QC JC JS 5C 2C 4H QD KH 9H KS 2D 6C 
+Battle Number: 22
+Player Number: p2
+Player Hand: 3D 9C 10D AC 5H 6H 6S JD AD AH 10H 5D 6D KC 8S QS 7C 7S 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 
+The outcome of battle 22 is p1
 Battle Number: 23
-Player Number: 1
-Player Hand: 5D JC 6H JD 9D QD 8D 3D 10D AD KD 2S 7C QH KS 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 
+Player Number: p1
+Player Hand: 3C 3H 5S AS 7H KD 9D 2S QC JC JS 5C 2C 4H QD KH 9H KS 2D 6C 10S QH 8H 3D 9C 10D 
+Battle Number: 23
+Player Number: p2
+Player Hand: AC 5H 6H 6S JD AD AH 10H 5D 6D KC 8S QS 7C 7S 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 
+The outcome of battle 23 is p2
 Battle Number: 24
-Player Number: 1
-Player Hand: JD 9D QD 8D 3D 10D AD KD 2S 7C QH KS 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S 
+Player Number: p1
+Player Hand: AS 7H KD 9D 2S QC JC JS 5C 2C 4H QD KH 9H KS 2D 6C 10S QH 8H 3D 9C 10D 
+Battle Number: 24
+Player Number: p2
+Player Hand: 6S JD AD AH 10H 5D 6D KC 8S QS 7C 7S 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 3C 3H 5S AC 5H 6H 
+The outcome of battle 24 is p2
 Battle Number: 25
-Player Number: 1
-Player Hand: 8D 3D 10D AD KD 2S 7C QH KS 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S 
+Player Number: p1
+Player Hand: 9D 2S QC JC JS 5C 2C 4H QD KH 9H KS 2D 6C 10S QH 8H 3D 9C 10D 
+Battle Number: 25
+Player Number: p2
+Player Hand: AH 10H 5D 6D KC 8S QS 7C 7S 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 3C 3H 5S AC 5H 6H AS 7H KD 6S JD AD 
+The outcome of battle 25 is p2
 Battle Number: 26
-Player Number: 1
-Player Hand: AD KD 2S 7C QH KS 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S 
+Player Number: p1
+Player Hand: JC JS 5C 2C 4H QD KH 9H KS 2D 6C 10S QH 8H 3D 9C 10D 
+Battle Number: 26
+Player Number: p2
+Player Hand: 6D KC 8S QS 7C 7S 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 3C 3H 5S AC 5H 6H AS 7H KD 6S JD AD 9D 2S QC AH 10H 5D 
+The outcome of battle 26 is p2
 Battle Number: 27
-Player Number: 1
-Player Hand: 7C QH KS 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 
+Player Number: p1
+Player Hand: 2C 4H QD KH 9H KS 2D 6C 10S QH 8H 3D 9C 10D 
+Battle Number: 27
+Player Number: p2
+Player Hand: QS 7C 7S 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 3C 3H 5S AC 5H 6H AS 7H KD 6S JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 
+The outcome of battle 27 is p2
 Battle Number: 28
-Player Number: 1
-Player Hand: 9C 2D 10H 8C 7H 5C JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD 
+Player Number: p1
+Player Hand: KH 9H KS 2D 6C 10S QH 8H 3D 9C 10D 
+Battle Number: 28
+Player Number: p2
+Player Hand: 3S 8C 4S JH 2H 8D 7D 4C 4D 10C 9S 3C 3H 5S AC 5H 6H AS 7H KD 6S JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 
+The outcome of battle 28 is p1
 Battle Number: 29
-Player Number: 1
-Player Hand: 8C 7H 5C JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD 
+Player Number: p1
+Player Hand: 2D 6C 10S QH 8H 3D 9C 10D KH 9H KS 3S 8C 4S 
+Battle Number: 29
+Player Number: p2
+Player Hand: JH 2H 8D 7D 4C 4D 10C 9S 3C 3H 5S AC 5H 6H AS 7H KD 6S JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 
+The outcome of battle 29 is p1
 Battle Number: 30
-Player Number: 1
-Player Hand: JH AH KC 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD 
+Player Number: p1
+Player Hand: QH 8H 3D 9C 10D KH 9H KS 3S 8C 4S 2D 6C 10S JH 2H 8D 
+Battle Number: 30
+Player Number: p2
+Player Hand: 7D 4C 4D 10C 9S 3C 3H 5S AC 5H 6H AS 7H KD 6S JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 
+The outcome of battle 30 is p1
 Battle Number: 31
-Player Number: 1
-Player Hand: 2H QS 5H 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC 
+Player Number: p1
+Player Hand: 9C 10D KH 9H KS 3S 8C 4S 2D 6C 10S JH 2H 8D QH 8H 3D 7D 4C 4D 
+Battle Number: 31
+Player Number: p2
+Player Hand: 10C 9S 3C 3H 5S AC 5H 6H AS 7H KD 6S JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 
+The outcome of battle 31 is p1
 Battle Number: 32
-Player Number: 1
-Player Hand: 4D 6C 7D 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC 
+Player Number: p1
+Player Hand: 9H KS 3S 8C 4S 2D 6C 10S JH 2H 8D QH 8H 3D 7D 4C 4D 9C 10D KH 10C 9S 3C 
+Battle Number: 32
+Player Number: p2
+Player Hand: 3H 5S AC 5H 6H AS 7H KD 6S JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 
+The outcome of battle 32 is p1
 Battle Number: 33
-Player Number: 1
-Player Hand: 2C 9H 8H AS 10S 3H 8S 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC 
+Player Number: p1
+Player Hand: 8C 4S 2D 6C 10S JH 2H 8D QH 8H 3D 7D 4C 4D 9C 10D KH 10C 9S 3C 9H KS 3S 3H 5S AC 
+Battle Number: 33
+Player Number: p2
+Player Hand: 5H 6H AS 7H KD 6S JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 
+The outcome of battle 33 is p2
 Battle Number: 34
-Player Number: 1
-Player Hand: 10S 3H 8S 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 
+Player Number: p1
+Player Hand: 6C 10S JH 2H 8D QH 8H 3D 7D 4C 4D 9C 10D KH 10C 9S 3C 9H KS 3S 3H 5S AC 
+Battle Number: 34
+Player Number: p2
+Player Hand: 7H KD 6S JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 8C 4S 2D 5H 6H AS 
+The outcome of battle 34 is p2
 Battle Number: 35
-Player Number: 1
-Player Hand: 4S 5D JC 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 
+Player Number: p1
+Player Hand: 2H 8D QH 8H 3D 7D 4C 4D 9C 10D KH 10C 9S 3C 9H KS 3S 3H 5S AC 
+Battle Number: 35
+Player Number: p2
+Player Hand: JD AD 9D 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 8C 4S 2D 5H 6H AS 6C 10S JH 7H KD 6S 
+The outcome of battle 35 is p2
 Battle Number: 36
-Player Number: 1
-Player Hand: 6H 7S 3S 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 
+Player Number: p1
+Player Hand: 8H 3D 7D 4C 4D 9C 10D KH 10C 9S 3C 9H KS 3S 3H 5S AC 
+Battle Number: 36
+Player Number: p2
+Player Hand: 2S QC AH 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 8C 4S 2D 5H 6H AS 6C 10S JH 7H KD 6S 2H 8D QH JD AD 9D 
+The outcome of battle 36 is p2
 Battle Number: 37
-Player Number: 1
-Player Hand: 6S AD KD 2S 5S 6D 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 
+Player Number: p1
+Player Hand: 4C 4D 9C 10D KH 10C 9S 3C 9H KS 3S 3H 5S AC 
+Battle Number: 37
+Player Number: p2
+Player Hand: 10H 5D JC JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 8C 4S 2D 5H 6H AS 6C 10S JH 7H KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 
+The outcome of battle 37 is p2
 Battle Number: 38
-Player Number: 1
-Player Hand: 2S 5S 6D 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 
+Player Number: p1
+Player Hand: 10D KH 10C 9S 3C 9H KS 3S 3H 5S AC 
+Battle Number: 38
+Player Number: p2
+Player Hand: JS 5C 6D KC 8S 2C 4H QD QS 7C 7S 8C 4S 2D 5H 6H AS 6C 10S JH 7H KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 
+The outcome of battle 38 is p1
 Battle Number: 39
-Player Number: 1
-Player Hand: 4H 7C QH KS 10C 3C JD JH AH KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H 
+Player Number: p1
+Player Hand: 9S 3C 9H KS 3S 3H 5S AC 10D KH 10C JS 5C 6D 
+Battle Number: 39
+Player Number: p2
+Player Hand: KC 8S 2C 4H QD QS 7C 7S 8C 4S 2D 5H 6H AS 6C 10S JH 7H KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 
+The outcome of battle 39 is p2
 Battle Number: 40
-Player Number: 1
-Player Hand: KS 10C 3C JD JH AH KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H 
+Player Number: p1
+Player Hand: KS 3S 3H 5S AC 10D KH 10C JS 5C 6D 
+Battle Number: 40
+Player Number: p2
+Player Hand: 4H QD QS 7C 7S 8C 4S 2D 5H 6H AS 6C 10S JH 7H KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C 
+The outcome of battle 40 is p2
 Battle Number: 41
-Player Number: 1
-Player Hand: JD JH AH KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS 
+Player Number: p1
+Player Hand: 5S AC 10D KH 10C JS 5C 6D 
+Battle Number: 41
+Player Number: p2
+Player Hand: 7C 7S 8C 4S 2D 5H 6H AS 6C 10S JH 7H KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 
+The outcome of battle 41 is p1
 Battle Number: 42
-Player Number: 1
-Player Hand: KC 3D 10D AC AS 7H 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C 
+Player Number: p1
+Player Hand: KH 10C JS 5C 6D 5S AC 10D 7C 7S 8C 
+Battle Number: 42
+Player Number: p2
+Player Hand: 4S 2D 5H 6H AS 6C 10S JH 7H KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 
+The outcome of battle 42 is p1
 Battle Number: 43
-Player Number: 1
-Player Hand: AC AS 7H 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C 
+Player Number: p1
+Player Hand: 5C 6D 5S AC 10D 7C 7S 8C KH 10C JS 4S 2D 5H 
+Battle Number: 43
+Player Number: p2
+Player Hand: 6H AS 6C 10S JH 7H KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 
+The outcome of battle 43 is p2
 Battle Number: 44
-Player Number: 1
-Player Hand: 2C 9H 8H QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D 
+Player Number: p1
+Player Hand: AC 10D 7C 7S 8C KH 10C JS 4S 2D 5H 
+Battle Number: 44
+Player Number: p2
+Player Hand: 10S JH 7H KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C 
+The outcome of battle 44 is p2
 Battle Number: 45
-Player Number: 1
-Player Hand: QD 9S 8C 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D 
+Player Number: p1
+Player Hand: 7S 8C KH 10C JS 4S 2D 5H 
+Battle Number: 45
+Player Number: p2
+Player Hand: KD 6S 2H 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 
+The outcome of battle 45 is p1
 Battle Number: 46
-Player Number: 1
-Player Hand: 4S 5D JC 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 
+Player Number: p1
+Player Hand: 10C JS 4S 2D 5H 7S 8C KH KD 6S 2H 
+Battle Number: 46
+Player Number: p2
+Player Hand: 8D QH JD AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 
+The outcome of battle 46 is p2
 Battle Number: 47
-Player Number: 1
-Player Hand: 8D 2H QS 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 
+Player Number: p1
+Player Hand: 2D 5H 7S 8C KH KD 6S 2H 
+Battle Number: 47
+Player Number: p2
+Player Hand: AD 9D 8H 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 
+The outcome of battle 47 is p2
 Battle Number: 48
-Player Number: 1
-Player Hand: 6H 7S 3S 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 
+Player Number: p1
+Player Hand: 8C KH KD 6S 2H 
+Battle Number: 48
+Player Number: p2
+Player Hand: 3D 7D 2S QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 
+The outcome of battle 48 is p1
 Battle Number: 49
-Player Number: 1
-Player Hand: 5H 4C KH 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 
+Player Number: p1
+Player Hand: 6S 2H 8C KH KD 3D 7D 2S 
+Battle Number: 49
+Player Number: p2
+Player Hand: QC AH 4C 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 
+The outcome of battle 49 is p2
 Battle Number: 50
-Player Number: 1
-Player Hand: 6S AD KD 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 
+Player Number: p1
+Player Hand: KH KD 3D 7D 2S 
+Battle Number: 50
+Player Number: p2
+Player Hand: 4D 9C 10H 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 
+The outcome of battle 50 is p1
 Battle Number: 51
-Player Number: 1
-Player Hand: 9C 4D 6C 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S 
+Player Number: p1
+Player Hand: 7D 2S KH KD 3D 4D 9C 10H 
+Battle Number: 51
+Player Number: p2
+Player Hand: 5D JC 9S 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 
+The outcome of battle 51 is p2
 Battle Number: 52
-Player Number: 1
-Player Hand: 2S 5S 6D 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S 
+Player Number: p1
+Player Hand: KD 3D 4D 9C 10H 
+Battle Number: 52
+Player Number: p2
+Player Hand: 3C 9H KC 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S 
+The outcome of battle 52 is p2
 Battle Number: 53
-Player Number: 1
-Player Hand: 7D 2D 10H KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S 
+Player Number: p1
+Player Hand: 9C 10H 
+Battle Number: 53
+Player Number: p2
+Player Hand: 8S 2C KS 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 
+The outcome of battle 53 is p1
 Battle Number: 54
-Player Number: 1
-Player Hand: KS 10C 3C 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S 
-Battle Number: 55
-Player Number: 1
-Player Hand: 8S 5C JS JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S 
-Battle Number: 56
-Player Number: 1
-Player Hand: JD JH AH QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S 
-Battle Number: 57
-Player Number: 1
-Player Hand: QC 4H 7C AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S JD JH AH 6C 5D 6H 
-Battle Number: 58
-Player Number: 1
-Player Hand: AC AS 7H 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S JD JH AH 6C 5D 6H QC 4H 7C 7S 2S 5S 
-Battle Number: 59
-Player Number: 1
-Player Hand: 3H KC 3D QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S JD JH AH 6C 5D 6H QC 4H 7C 7S 2S 5S AC AS 7H 6D 3S JC 
-Battle Number: 60
-Player Number: 1
-Player Hand: QD 9S 8C 10S 2C 9H 6S AD KD QS 9D 4S JD JH AH 6C 5D 6H QC 4H 7C 7S 2S 5S AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 
-Battle Number: 61
-Player Number: 1
-Player Hand: 10S 2C 9H 6S AD KD QS 9D 4S JD JH AH 6C 5D 6H QC 4H 7C 7S 2S 5S AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 
-Battle Number: 62
-Player Number: 1
-Player Hand: 6S AD KD QS 9D 4S JD JH AH 6C 5D 6H QC 4H 7C 7S 2S 5S AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 
-Battle Number: 63
-Player Number: 1
-Player Hand: QS 9D 4S JD JH AH 6C 5D 6H QC 4H 7C 7S 2S 5S AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 6S AD KD 3C KH QH 
-Battle Number: 64
-Player Number: 1
-Player Hand: JD JH AH 6C 5D 6H QC 4H 7C 7S 2S 5S AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C 
-Battle Number: 65
-Player Number: 1
-Player Hand: 6C 5D 6H QC 4H 7C 7S 2S 5S AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C 
-Battle Number: 66
-Player Number: 1
-Player Hand: QC 4H 7C 7S 2S 5S AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C 
-Battle Number: 67
-Player Number: 1
-Player Hand: 7S 2S 5S AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C 
-Battle Number: 68
-Player Number: 1
-Player Hand: AC AS 7H 6D 3S JC 3H KC 3D 8H 7D 2D 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C 
-Battle Number: 69
-Player Number: 1
-Player Hand: 6D 3S JC 3H KC 3D 8H 7D 2D 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C AC AS 7H 9H 4C KS 
-Battle Number: 70
-Player Number: 1
-Player Hand: 3H KC 3D 8H 7D 2D 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C AC AS 7H 9H 4C KS 
-Battle Number: 71
-Player Number: 1
-Player Hand: 8H 7D 2D 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C AC AS 7H 9H 4C KS 3H KC 3D 6H 4D QD 
-Battle Number: 72
-Player Number: 1
-Player Hand: 6S AD KD 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C AC AS 7H 9H 4C KS 3H KC 3D 6H 4D QD 
-Battle Number: 73
-Player Number: 1
-Player Hand: 3C KH QH QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C AC AS 7H 9H 4C KS 3H KC 3D 6H 4D QD 6S AD KD 7C 8C 10H 
-Battle Number: 74
-Player Number: 1
-Player Hand: QS 9D 4S 8D 8S 5C JD JH AH JS 2H 9C AC AS 7H 9H 4C KS 3H KC 3D 6H 4D QD 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S 
-Battle Number: 75
-Player Number: 1
-Player Hand: 8D 8S 5C JD JH AH JS 2H 9C AC AS 7H 9H 4C KS 3H KC 3D 6H 4D QD 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 
-Battle Number: 76
-Player Number: 1
-Player Hand: JD JH AH JS 2H 9C AC AS 7H 9H 4C KS 3H KC 3D 6H 4D QD 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S 
-Battle Number: 77
-Player Number: 1
-Player Hand: JS 2H 9C AC AS 7H 9H 4C KS 3H KC 3D 6H 4D QD 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C 
-Battle Number: 78
-Player Number: 1
-Player Hand: AC AS 7H 9H 4C KS 3H KC 3D 6H 4D QD 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C 
-Battle Number: 79
-Player Number: 1
-Player Hand: 9H 4C KS 3H KC 3D 6H 4D QD 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C AC AS 7H 2D 9S QC 
-Battle Number: 80
-Player Number: 1
-Player Hand: 3H KC 3D 6H 4D QD 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C AC AS 7H 2D 9S QC 
-Battle Number: 81
-Player Number: 1
-Player Hand: 6H 4D QD 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C AC AS 7H 2D 9S QC 3H KC 3D 9C 5D 8H 
-Battle Number: 82
-Player Number: 1
-Player Hand: 6S AD KD 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C AC AS 7H 2D 9S QC 3H KC 3D 9C 5D 8H 
-Battle Number: 83
-Player Number: 1
-Player Hand: 7C 8C 10H 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C AC AS 7H 2D 9S QC 3H KC 3D 9C 5D 8H 6S AD KD KS 4H JS 
-Battle Number: 84
-Player Number: 1
-Player Hand: 3C KH QH 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C AC AS 7H 2D 9S QC 3H KC 3D 9C 5D 8H 6S AD KD KS 4H JS 7C 8C 10H 2H 6H 4D 
-Battle Number: 85
-Player Number: 1
-Player Hand: 10D 7S 2S QS 9D 4S 5S 5H 10S 8D 8S 5C 2C 6D 3S JD JH AH JC 10C 6C AC AS 7H 2D 9S QC 3H KC 3D 9C 5D 8H 6S AD KD KS 4H JS 7C 8C 10H 2H 6H 4D 3C KH QH QD 7D 9H 
-Battle Number: 1
-Player Number: 1
-Player Hand: 4C JS 6S 5H 4H JD AH 8C 5C 7H 10C 6C QS 3H KS 9C AS 4S 4D JC 5S 7D 8D 10D 7C AD 
-Battle Number: 2
-Player Number: 1
-Player Hand: 5H 4H JD AH 8C 5C 7H 10C 6C QS 3H KS 9C AS 4S 4D JC 5S 7D 8D 10D 7C AD 4C JS 6S 8S 3C 2H 
-Battle Number: 3
-Player Number: 1
-Player Hand: AH 8C 5C 7H 10C 6C QS 3H KS 9C AS 4S 4D JC 5S 7D 8D 10D 7C AD 4C JS 6S 8S 3C 2H 5H 4H JD QC 2C 6H 
-Battle Number: 4
-Player Number: 1
-Player Hand: 7H 10C 6C QS 3H KS 9C AS 4S 4D JC 5S 7D 8D 10D 7C AD 4C JS 6S 8S 3C 2H 5H 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 
-Battle Number: 5
-Player Number: 1
-Player Hand: QS 3H KS 9C AS 4S 4D JC 5S 7D 8D 10D 7C AD 4C JS 6S 8S 3C 2H 5H 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 
-Battle Number: 6
-Player Number: 1
-Player Hand: 9C AS 4S 4D JC 5S 7D 8D 10D 7C AD 4C JS 6S 8S 3C 2H 5H 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 
-Battle Number: 7
-Player Number: 1
-Player Hand: 4D JC 5S 7D 8D 10D 7C AD 4C JS 6S 8S 3C 2H 5H 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 
-Battle Number: 8
-Player Number: 1
-Player Hand: 7D 8D 10D 7C AD 4C JS 6S 8S 3C 2H 5H 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 
-Battle Number: 9
-Player Number: 1
-Player Hand: 7C AD 4C JS 6S 8S 3C 2H 5H 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 
-Battle Number: 10
-Player Number: 1
-Player Hand: JS 6S 8S 3C 2H 5H 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 
-Battle Number: 11
-Player Number: 1
-Player Hand: 3C 2H 5H 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 
-Battle Number: 12
-Player Number: 1
-Player Hand: 4H JD QC 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 
-Battle Number: 13
-Player Number: 1
-Player Hand: 2C 6H AH 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 
-Battle Number: 14
-Player Number: 1
-Player Hand: 8C 5C KC 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 
-Battle Number: 15
-Player Number: 1
-Player Hand: 2D 9S 7H 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 
-Battle Number: 16
-Player Number: 1
-Player Hand: 10C 6C QD 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 
-Battle Number: 17
-Player Number: 1
-Player Hand: 5D 9H 9C AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 
-Battle Number: 18
-Player Number: 1
-Player Hand: AS 4S 6D 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 
-Battle Number: 19
-Player Number: 1
-Player Hand: 2S 3D 4D JC 5S 8H 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 
-Battle Number: 20
-Player Number: 1
-Player Hand: JC 5S 8H 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 
-Battle Number: 21
-Player Number: 1
-Player Hand: 7S 10H 7C AD 4C JH KD QS 4H JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 
-Battle Number: 22
-Player Number: 1
-Player Hand: AD 4C JH KD QS 4H JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS 
-Battle Number: 23
-Player Number: 1
-Player Hand: KD QS 4H JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS 
-Battle Number: 24
-Player Number: 1
-Player Hand: JD QC 8D 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS KD QS 4H AH 10S 2S 
-Battle Number: 25
-Player Number: 1
-Player Hand: 10D QH 2D 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 
-Battle Number: 26
-Player Number: 1
-Player Hand: 9S 7H KS 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 
-Battle Number: 27
-Player Number: 1
-Player Hand: 3S 3C 10C 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 
-Battle Number: 28
-Player Number: 1
-Player Hand: 6C QD 2H 5H 9D 5D 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 
-Battle Number: 29
-Player Number: 1
-Player Hand: 5H 9D 5D 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 
-Battle Number: 30
-Player Number: 1
-Player Hand: 9H 9C AC 7D 2C 7S 10H 7C 8S 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S 
-Battle Number: 31
-Player Number: 1
-Player Hand: 7D 2C 7S 10H 7C 8S 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S 
-Battle Number: 32
-Player Number: 1
-Player Hand: 10H 7C 8S 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S 
-Battle Number: 33
-Player Number: 1
-Player Hand: 3H AS KD QS 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S 
-Battle Number: 34
-Player Number: 1
-Player Hand: 4H AH 10S 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 
-Battle Number: 35
-Player Number: 1
-Player Hand: 2S JD QC 8D 3D 4D KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 
-Battle Number: 36
-Player Number: 1
-Player Hand: 8D 3D 4D KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 
-Battle Number: 37
-Player Number: 1
-Player Hand: KH 10D QH 2D JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 
-Battle Number: 38
-Player Number: 1
-Player Hand: JS 8C JC 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 
-Battle Number: 39
-Player Number: 1
-Player Hand: 6C QD 2H 4C JH 4S 5H 9D 5D 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 
-Battle Number: 40
-Player Number: 1
-Player Hand: 4C JH 4S 5H 9D 5D 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 
-Battle Number: 41
-Player Number: 1
-Player Hand: 5H 9D 5D 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 
-Battle Number: 42
-Player Number: 1
-Player Hand: 6D 6H 9S QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH 
-Battle Number: 43
-Player Number: 1
-Player Hand: QS 9C 3H AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH 
-Battle Number: 44
-Player Number: 1
-Player Hand: AS KD 6S AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS 
-Battle Number: 45
-Player Number: 1
-Player Hand: AD 9H 4H AH 10S AC 7H KS 2S JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C 
-Battle Number: 46
-Player Number: 1
-Player Hand: AH 10S AC 7H KS 2S JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C 
-Battle Number: 47
-Player Number: 1
-Player Hand: 7H KS 2S JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C AH 10S AC 6H 9S 10D 
-Battle Number: 48
-Player Number: 1
-Player Hand: JD QC 5S 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C AH 10S AC 6H 9S 10D 7H KS 2S QH 3S AD 
-Battle Number: 49
-Player Number: 1
-Player Hand: 7D 2C 6C QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C AH 10S AC 6H 9S 10D 7H KS 2S QH 3S AD JD QC 5S 9H 4H 10C 
-Battle Number: 50
-Player Number: 1
-Player Hand: QD 2H 8D 3D 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C AH 10S AC 6H 9S 10D 7H KS 2S QH 3S AD JD QC 5S 9H 4H 10C 
-Battle Number: 51
-Player Number: 1
-Player Hand: 4D 4C JH 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C AH 10S AC 6H 9S 10D 7H KS 2S QH 3S AD JD QC 5S 9H 4H 10C 
-Battle Number: 52
-Player Number: 1
-Player Hand: 4S 7S 8H 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C AH 10S AC 6H 9S 10D 7H KS 2S QH 3S AD JD QC 5S 9H 4H 10C 4D 4C JH 6D 3D KC 
-Battle Number: 53
-Player Number: 1
-Player Hand: 5C 5H 9D 5D 2D 8S KH QS 9C 3H 10H 7C JS AS KD 6S 8C JC 3C AH 10S AC 6H 9S 10D 7H KS 2S QH 3S AD JD QC 5S 9H 4H 10C 4D 4C JH 6D 3D KC 4S 7S 8H QD 2H 8D 
-Battle Number: 1
-Player Number: 1
-Player Hand: 3S 3C QD 5C 2S 8S JS 7D 8D 5D 2D 7S 4D JC KH 10S 9H 7C 5H 4S QC AS 9S JH 4H 7H 
-Battle Number: 2
-Player Number: 1
-Player Hand: 5C 2S 8S JS 7D 8D 5D 2D 7S 4D JC KH 10S 9H 7C 5H 4S QC AS 9S JH 4H 7H 
-Battle Number: 3
-Player Number: 1
-Player Hand: JS 7D 8D 5D 2D 7S 4D JC KH 10S 9H 7C 5H 4S QC AS 9S JH 4H 7H 
-Battle Number: 4
-Player Number: 1
-Player Hand: 5D 2D 7S 4D JC KH 10S 9H 7C 5H 4S QC AS 9S JH 4H 7H 
-Battle Number: 5
-Player Number: 1
-Player Hand: 4D JC KH 10S 9H 7C 5H 4S QC AS 9S JH 4H 7H 
-Battle Number: 6
-Player Number: 1
-Player Hand: 10S 9H 7C 5H 4S QC AS 9S JH 4H 7H 4D JC KH 4C 10H AC 
-Battle Number: 7
-Player Number: 1
-Player Hand: 5H 4S QC AS 9S JH 4H 7H 4D JC KH 4C 10H AC 10S 9H 7C JD 8H 3D 
-Battle Number: 8
-Player Number: 1
-Player Hand: AS 9S JH 4H 7H 4D JC KH 4C 10H AC 10S 9H 7C JD 8H 3D 
-Battle Number: 9
-Player Number: 1
-Player Hand: 4H 7H 4D JC KH 4C 10H AC 10S 9H 7C JD 8H 3D 
-Battle Number: 10
-Player Number: 1
-Player Hand: JC KH 4C 10H AC 10S 9H 7C JD 8H 3D 4H 7H 4D 10C 6S 3S 
-Battle Number: 11
-Player Number: 1
-Player Hand: 10H AC 10S 9H 7C JD 8H 3D 4H 7H 4D 10C 6S 3S JC KH 4C 3C QD KS 
-Battle Number: 12
-Player Number: 1
-Player Hand: 9H 7C JD 8H 3D 4H 7H 4D 10C 6S 3S JC KH 4C 3C QD KS 10H AC 10S 5S 6C 5C 
-Battle Number: 13
-Player Number: 1
-Player Hand: 8H 3D 4H 7H 4D 10C 6S 3S JC KH 4C 3C QD KS 10H AC 10S 5S 6C 5C 
-Battle Number: 14
-Player Number: 1
-Player Hand: 7H 4D 10C 6S 3S JC KH 4C 3C QD KS 10H AC 10S 5S 6C 5C 8H 3D 4H 8C 2C JS 
-Battle Number: 15
-Player Number: 1
-Player Hand: 6S 3S JC KH 4C 3C QD KS 10H AC 10S 5S 6C 5C 8H 3D 4H 8C 2C JS 
-Battle Number: 16
-Player Number: 1
-Player Hand: KH 4C 3C QD KS 10H AC 10S 5S 6C 5C 8H 3D 4H 8C 2C JS 
-Battle Number: 17
-Player Number: 1
-Player Hand: QD KS 10H AC 10S 5S 6C 5C 8H 3D 4H 8C 2C JS 
-Battle Number: 18
-Player Number: 1
-Player Hand: AC 10S 5S 6C 5C 8H 3D 4H 8C 2C JS 
-Battle Number: 19
-Player Number: 1
-Player Hand: 6C 5C 8H 3D 4H 8C 2C JS 
-Battle Number: 20
-Player Number: 1
-Player Hand: 3D 4H 8C 2C JS 
-Battle Number: 21
-Player Number: 1
-Player Hand: 2C JS 
-Battle Number: 22
-Player Number: 1
-Player Hand: 2C JS 10D 3H 9H 
-Battle Number: 23
-Player Number: 1
-Player Hand: 9H 
-Battle Number: 24
-Player Number: 1
-Player Hand: 9H 2H 7H 4D 
-Battle Number: 25
-Player Number: 1
-Player Hand: 4D 
-Battle Number: 1
-Player Number: 1
-Player Hand: KH KD AS 2D 3D 9H JD 7H 5H 3H 6H 2H QH 9D QD 8S JS KS 10S 5C 7D AD 9S 10D 4H 7C 
-Battle Number: 2
-Player Number: 1
-Player Hand: 2D 3D 9H JD 7H 5H 3H 6H 2H QH 9D QD 8S JS KS 10S 5C 7D AD 9S 10D 4H 7C KH KD AS 7S 6S 3C 
-Battle Number: 3
-Player Number: 1
-Player Hand: JD 7H 5H 3H 6H 2H QH 9D QD 8S JS KS 10S 5C 7D AD 9S 10D 4H 7C KH KD AS 7S 6S 3C 
-Battle Number: 4
-Player Number: 1
-Player Hand: 3H 6H 2H QH 9D QD 8S JS KS 10S 5C 7D AD 9S 10D 4H 7C KH KD AS 7S 6S 3C JD 7H 5H 6D 2S 5D 
-Battle Number: 5
-Player Number: 1
-Player Hand: QH 9D QD 8S JS KS 10S 5C 7D AD 9S 10D 4H 7C KH KD AS 7S 6S 3C JD 7H 5H 6D 2S 5D 
-Battle Number: 6
-Player Number: 1
-Player Hand: 8S JS KS 10S 5C 7D AD 9S 10D 4H 7C KH KD AS 7S 6S 3C JD 7H 5H 6D 2S 5D QH 9D QD 9C 8D AH 
-Battle Number: 7
-Player Number: 1
-Player Hand: 10S 5C 7D AD 9S 10D 4H 7C KH KD AS 7S 6S 3C JD 7H 5H 6D 2S 5D QH 9D QD 9C 8D AH 8S JS KS QS 2C 8H 
-Battle Number: 8
-Player Number: 1
-Player Hand: AD 9S 10D 4H 7C KH KD AS 7S 6S 3C JD 7H 5H 6D 2S 5D QH 9D QD 9C 8D AH 8S JS KS QS 2C 8H 
-Battle Number: 9
-Player Number: 1
-Player Hand: 4H 7C KH KD AS 7S 6S 3C JD 7H 5H 6D 2S 5D QH 9D QD 9C 8D AH 8S JS KS QS 2C 8H AD 9S 10D AC 5S 3S 
-Battle Number: 10
-Player Number: 1
-Player Hand: KD AS 7S 6S 3C JD 7H 5H 6D 2S 5D QH 9D QD 9C 8D AH 8S JS KS QS 2C 8H AD 9S 10D AC 5S 3S 
-Battle Number: 11
-Player Number: 1
-Player Hand: 6S 3C JD 7H 5H 6D 2S 5D QH 9D QD 9C 8D AH 8S JS KS QS 2C 8H AD 9S 10D AC 5S 3S KD AS 7S 3D 9H JH 
-Battle Number: 12
-Player Number: 1
-Player Hand: 7H 5H 6D 2S 5D QH 9D QD 9C 8D AH 8S JS KS QS 2C 8H AD 9S 10D AC 5S 3S KD AS 7S 3D 9H JH 
-Battle Number: 13
-Player Number: 1
-Player Hand: 2S 5D QH 9D QD 9C 8D AH 8S JS KS QS 2C 8H AD 9S 10D AC 5S 3S KD AS 7S 3D 9H JH 7H 5H 6D 6H 2H 6C 
-Battle Number: 14
-Player Number: 1
-Player Hand: 9D QD 9C 8D AH 8S JS KS QS 2C 8H AD 9S 10D AC 5S 3S KD AS 7S 3D 9H JH 7H 5H 6D 6H 2H 6C 2S 5D QH QC 4S 10S 
-Battle Number: 15
-Player Number: 1
-Player Hand: 8D AH 8S JS KS QS 2C 8H AD 9S 10D AC 5S 3S KD AS 7S 3D 9H JH 7H 5H 6D 6H 2H 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 
-Battle Number: 16
-Player Number: 1
-Player Hand: JS KS QS 2C 8H AD 9S 10D AC 5S 3S KD AS 7S 3D 9H JH 7H 5H 6D 6H 2H 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 
-Battle Number: 17
-Player Number: 1
-Player Hand: 8H AD 9S 10D AC 5S 3S KD AS 7S 3D 9H JH 7H 5H 6D 6H 2H 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 
-Battle Number: 18
-Player Number: 1
-Player Hand: 10D AC 5S 3S KD AS 7S 3D 9H JH 7H 5H 6D 6H 2H 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 
-Battle Number: 19
-Player Number: 1
-Player Hand: 3S KD AS 7S 3D 9H JH 7H 5H 6D 6H 2H 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 
-Battle Number: 20
-Player Number: 1
-Player Hand: 7S 3D 9H JH 7H 5H 6D 6H 2H 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 
-Battle Number: 21
-Player Number: 1
-Player Hand: JH 7H 5H 6D 6H 2H 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 
-Battle Number: 22
-Player Number: 1
-Player Hand: 6D 6H 2H 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 
-Battle Number: 23
-Player Number: 1
-Player Hand: 6C 2S 5D QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H 
-Battle Number: 24
-Player Number: 1
-Player Hand: QH QC 4S 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H 
-Battle Number: 25
-Player Number: 1
-Player Hand: 10S 9D QD 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 
-Battle Number: 26
-Player Number: 1
-Player Hand: 9C 5C 7D 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 
-Battle Number: 27
-Player Number: 1
-Player Hand: 10C 8D AH 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 
-Battle Number: 28
-Player Number: 1
-Player Hand: 8S 8C 4D 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 
-Battle Number: 29
-Player Number: 1
-Player Hand: 4H 8H AD 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 
-Battle Number: 30
-Player Number: 1
-Player Hand: 9S 2D 6S 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 
-Battle Number: 31
-Player Number: 1
-Player Hand: 3C 10D AC 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 
-Battle Number: 32
-Player Number: 1
-Player Hand: 5S JD KC 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 
-Battle Number: 33
-Player Number: 1
-Player Hand: 4C 3S KD AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 5S JD KC 8S 8C 4D 
-Battle Number: 34
-Player Number: 1
-Player Hand: AS 3H 2C JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 5S JD KC 8S 8C 4D 
-Battle Number: 35
-Player Number: 1
-Player Hand: JC 6D 6H 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 5S JD KC 8S 8C 4D 
-Battle Number: 36
-Player Number: 1
-Player Hand: 2H 7S 3D 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 5S JD KC 8S 8C 4D 
-Battle Number: 37
-Player Number: 1
-Player Hand: 9H QH QC 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 5S JD KC 8S 8C 4D 2H 7S 3D 9S 2D 6S 
-Battle Number: 38
-Player Number: 1
-Player Hand: 4S JH 7H 5H 9C 5C 7D 6C 2S 5D 5S JD KC 8S 8C 4D 2H 7S 3D 9S 2D 6S 9H QH QC 10C 8D AH 
-Battle Number: 39
-Player Number: 1
-Player Hand: 5H 9C 5C 7D 6C 2S 5D 5S JD KC 8S 8C 4D 2H 7S 3D 9S 2D 6S 9H QH QC 10C 8D AH 4S JH 7H 3C 10D AC 
-Battle Number: 40
-Player Number: 1
-Player Hand: 7D 6C 2S 5D 5S JD KC 8S 8C 4D 2H 7S 3D 9S 2D 6S 9H QH QC 10C 8D AH 4S JH 7H 3C 10D AC 
-Battle Number: 41
-Player Number: 1
-Player Hand: 5D 5S JD KC 8S 8C 4D 2H 7S 3D 9S 2D 6S 9H QH QC 10C 8D AH 4S JH 7H 3C 10D AC 7D 6C 2S 4C 3S KD 
-Battle Number: 42
-Player Number: 1
-Player Hand: KC 8S 8C 4D 2H 7S 3D 9S 2D 6S 9H QH QC 10C 8D AH 4S JH 7H 3C 10D AC 7D 6C 2S 4C 3S KD 
-Battle Number: 43
-Player Number: 1
-Player Hand: 4D 2H 7S 3D 9S 2D 6S 9H QH QC 10C 8D AH 4S JH 7H 3C 10D AC 7D 6C 2S 4C 3S KD KC 8S 8C AS 3H 2C 
-Battle Number: 44
-Player Number: 1
-Player Hand: 3D 9S 2D 6S 9H QH QC 10C 8D AH 4S JH 7H 3C 10D AC 7D 6C 2S 4C 3S KD KC 8S 8C AS 3H 2C 
-Battle Number: 45
-Player Number: 1
-Player Hand: 6S 9H QH QC 10C 8D AH 4S JH 7H 3C 10D AC 7D 6C 2S 4C 3S KD KC 8S 8C AS 3H 2C 3D 9S 2D JC 6D 6H 
-Battle Number: 46
-Player Number: 1
-Player Hand: QC 10C 8D AH 4S JH 7H 3C 10D AC 7D 6C 2S 4C 3S KD KC 8S 8C AS 3H 2C 3D 9S 2D JC 6D 6H 
-Battle Number: 47
-Player Number: 1
-Player Hand: AH 4S JH 7H 3C 10D AC 7D 6C 2S 4C 3S KD KC 8S 8C AS 3H 2C 3D 9S 2D JC 6D 6H QC 10C 8D 5H 9C 5C 
-Battle Number: 48
-Player Number: 1
-Player Hand: 7H 3C 10D AC 7D 6C 2S 4C 3S KD KC 8S 8C AS 3H 2C 3D 9S 2D JC 6D 6H QC 10C 8D 5H 9C 5C 
-Battle Number: 49
-Player Number: 1
-Player Hand: AC 7D 6C 2S 4C 3S KD KC 8S 8C AS 3H 2C 3D 9S 2D JC 6D 6H QC 10C 8D 5H 9C 5C 
-Battle Number: 50
-Player Number: 1
-Player Hand: 2S 4C 3S KD KC 8S 8C AS 3H 2C 3D 9S 2D JC 6D 6H QC 10C 8D 5H 9C 5C 
-Battle Number: 51
-Player Number: 1
-Player Hand: KD KC 8S 8C AS 3H 2C 3D 9S 2D JC 6D 6H QC 10C 8D 5H 9C 5C 2S 4C 3S 4D 2H 7S 
-Battle Number: 52
-Player Number: 1
-Player Hand: 8C AS 3H 2C 3D 9S 2D JC 6D 6H QC 10C 8D 5H 9C 5C 2S 4C 3S 4D 2H 7S KD KC 8S 4H 8H AD 
-Battle Number: 53
-Player Number: 1
-Player Hand: 2C 3D 9S 2D JC 6D 6H QC 10C 8D 5H 9C 5C 2S 4C 3S 4D 2H 7S KD KC 8S 4H 8H AD 8C AS 3H 6S 9H QH 
+Player Number: p1
+Player Hand: 9C 10H 8S 2C KS 
 Battle Number: 54
-Player Number: 1
-Player Hand: 2D JC 6D 6H QC 10C 8D 5H 9C 5C 2S 4C 3S 4D 2H 7S KD KC 8S 4H 8H AD 8C AS 3H 6S 9H QH 
+Player Number: p2
+Player Hand: 3S 3H 4H QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 
+The outcome of battle 54 is p1
 Battle Number: 55
-Player Number: 1
-Player Hand: 6H QC 10C 8D 5H 9C 5C 2S 4C 3S 4D 2H 7S KD KC 8S 4H 8H AD 8C AS 3H 6S 9H QH 2D JC 6D AH 4S JH 
+Player Number: p1
+Player Hand: 2C KS 9C 10H 8S 3S 3H 4H 
+Battle Number: 55
+Player Number: p2
+Player Hand: QD QS 5C 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 
+The outcome of battle 55 is p1
 Battle Number: 56
-Player Number: 1
-Player Hand: 8D 5H 9C 5C 2S 4C 3S 4D 2H 7S KD KC 8S 4H 8H AD 8C AS 3H 6S 9H QH 2D JC 6D AH 4S JH 
+Player Number: p1
+Player Hand: 10H 8S 3S 3H 4H 2C KS 9C QD QS 5C 
+Battle Number: 56
+Player Number: p2
+Player Hand: 6D 5S 6H AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 
+The outcome of battle 56 is p1
 Battle Number: 57
-Player Number: 1
-Player Hand: 5C 2S 4C 3S 4D 2H 7S KD KC 8S 4H 8H AD 8C AS 3H 6S 9H QH 2D JC 6D AH 4S JH 8D 5H 9C 7H 3C 10D 
+Player Number: p1
+Player Hand: 3H 4H 2C KS 9C QD QS 5C 10H 8S 3S 6D 5S 6H 
+Battle Number: 57
+Player Number: p2
+Player Hand: AS 6C AC 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 
+The outcome of battle 57 is p2
 Battle Number: 58
-Player Number: 1
-Player Hand: 3S 4D 2H 7S KD KC 8S 4H 8H AD 8C AS 3H 6S 9H QH 2D JC 6D AH 4S JH 8D 5H 9C 7H 3C 10D 
+Player Number: p1
+Player Hand: KS 9C QD QS 5C 10H 8S 3S 6D 5S 6H 
+Battle Number: 58
+Player Number: p2
+Player Hand: 10D 7C 10S JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC 
+The outcome of battle 58 is p1
 Battle Number: 59
-Player Number: 1
-Player Hand: 7S KD KC 8S 4H 8H AD 8C AS 3H 6S 9H QH 2D JC 6D AH 4S JH 8D 5H 9C 7H 3C 10D 
+Player Number: p1
+Player Hand: QS 5C 10H 8S 3S 6D 5S 6H KS 9C QD 10D 7C 10S 
+Battle Number: 59
+Player Number: p2
+Player Hand: JH 7H 10C JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC 
+The outcome of battle 59 is p2
 Battle Number: 60
-Player Number: 1
-Player Hand: 8S 4H 8H AD 8C AS 3H 6S 9H QH 2D JC 6D AH 4S JH 8D 5H 9C 7H 3C 10D 7S KD KC 10S 9D QD 
+Player Number: p1
+Player Hand: 8S 3S 6D 5S 6H KS 9C QD 10D 7C 10S 
+Battle Number: 60
+Player Number: p2
+Player Hand: JS 4S 8D QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 
+The outcome of battle 60 is p2
 Battle Number: 61
-Player Number: 1
-Player Hand: AD 8C AS 3H 6S 9H QH 2D JC 6D AH 4S JH 8D 5H 9C 7H 3C 10D 7S KD KC 10S 9D QD 8S 4H 8H 2C 3D 9S 
+Player Number: p1
+Player Hand: 5S 6H KS 9C QD 10D 7C 10S 
+Battle Number: 61
+Player Number: p2
+Player Hand: QH JD 2D 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 
+The outcome of battle 61 is p2
 Battle Number: 62
-Player Number: 1
-Player Hand: 3H 6S 9H QH 2D JC 6D AH 4S JH 8D 5H 9C 7H 3C 10D 7S KD KC 10S 9D QD 8S 4H 8H 2C 3D 9S 
+Player Number: p1
+Player Hand: 9C QD 10D 7C 10S 
+Battle Number: 62
+Player Number: p2
+Player Hand: 5H 7S AD 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 
+The outcome of battle 62 is p1
 Battle Number: 63
-Player Number: 1
-Player Hand: QH 2D JC 6D AH 4S JH 8D 5H 9C 7H 3C 10D 7S KD KC 10S 9D QD 8S 4H 8H 2C 3D 9S 
+Player Number: p1
+Player Hand: 7C 10S 9C QD 10D 5H 7S AD 
+Battle Number: 63
+Player Number: p2
+Player Hand: 9D 8H 6S 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 
+The outcome of battle 63 is p1
 Battle Number: 64
-Player Number: 1
-Player Hand: 6D AH 4S JH 8D 5H 9C 7H 3C 10D 7S KD KC 10S 9D QD 8S 4H 8H 2C 3D 9S 
+Player Number: p1
+Player Hand: QD 10D 5H 7S AD 7C 10S 9C 9D 8H 6S 
+Battle Number: 64
+Player Number: p2
+Player Hand: 2H 8C QC AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 
+The outcome of battle 64 is p1
 Battle Number: 65
-Player Number: 1
-Player Hand: JH 8D 5H 9C 7H 3C 10D 7S KD KC 10S 9D QD 8S 4H 8H 2C 3D 9S 6D AH 4S 5C 2S 4C 
+Player Number: p1
+Player Hand: 7S AD 7C 10S 9C 9D 8H 6S QD 10D 5H 2H 8C QC 
+Battle Number: 65
+Player Number: p2
+Player Hand: AH 4C 7D 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 
+The outcome of battle 65 is p1
 Battle Number: 66
-Player Number: 1
-Player Hand: 9C 7H 3C 10D 7S KD KC 10S 9D QD 8S 4H 8H 2C 3D 9S 6D AH 4S 5C 2S 4C JH 8D 5H 5D 5S JD 
+Player Number: p1
+Player Hand: 10S 9C 9D 8H 6S QD 10D 5H 2H 8C QC 7S AD 7C AH 4C 7D 
+Battle Number: 66
+Player Number: p2
+Player Hand: 2S KH 5D JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 
+The outcome of battle 66 is p2
 Battle Number: 67
-Player Number: 1
-Player Hand: 10D 7S KD KC 10S 9D QD 8S 4H 8H 2C 3D 9S 6D AH 4S 5C 2S 4C JH 8D 5H 5D 5S JD 9C 7H 3C 3S 4D 2H 
+Player Number: p1
+Player Hand: 8H 6S QD 10D 5H 2H 8C QC 7S AD 7C AH 4C 7D 
+Battle Number: 67
+Player Number: p2
+Player Hand: JC 9S KD 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 
+The outcome of battle 67 is p2
 Battle Number: 68
-Player Number: 1
-Player Hand: 10S 9D QD 8S 4H 8H 2C 3D 9S 6D AH 4S 5C 2S 4C JH 8D 5H 5D 5S JD 9C 7H 3C 3S 4D 2H 
+Player Number: p1
+Player Hand: 10D 5H 2H 8C QC 7S AD 7C AH 4C 7D 
+Battle Number: 68
+Player Number: p2
+Player Hand: 3D 4D 3C 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 
+The outcome of battle 68 is p1
 Battle Number: 69
-Player Number: 1
-Player Hand: 8S 4H 8H 2C 3D 9S 6D AH 4S 5C 2S 4C JH 8D 5H 5D 5S JD 9C 7H 3C 3S 4D 2H 
+Player Number: p1
+Player Hand: 8C QC 7S AD 7C AH 4C 7D 10D 5H 2H 3D 4D 3C 
+Battle Number: 69
+Player Number: p2
+Player Hand: 9H KC 3H 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 
+The outcome of battle 69 is p2
 Battle Number: 70
-Player Number: 1
-Player Hand: 2C 3D 9S 6D AH 4S 5C 2S 4C JH 8D 5H 5D 5S JD 9C 7H 3C 3S 4D 2H 
+Player Number: p1
+Player Hand: AD 7C AH 4C 7D 10D 5H 2H 3D 4D 3C 
+Battle Number: 70
+Player Number: p2
+Player Hand: 4H 2C AS 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 
+The outcome of battle 70 is p1
 Battle Number: 71
-Player Number: 1
-Player Hand: 6D AH 4S 5C 2S 4C JH 8D 5H 5D 5S JD 9C 7H 3C 3S 4D 2H 
+Player Number: p1
+Player Hand: 4C 7D 10D 5H 2H 3D 4D 3C AD 7C AH 4H 2C AS 
+Battle Number: 71
+Player Number: p2
+Player Hand: 6C AC QS 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 
+The outcome of battle 71 is p2
 Battle Number: 72
-Player Number: 1
-Player Hand: 5C 2S 4C JH 8D 5H 5D 5S JD 9C 7H 3C 3S 4D 2H 6D AH 4S QC 10C QH 
+Player Number: p1
+Player Hand: 5H 2H 3D 4D 3C AD 7C AH 4H 2C AS 
+Battle Number: 72
+Player Number: p2
+Player Hand: 5C 10H JH 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 
+The outcome of battle 72 is p2
 Battle Number: 73
-Player Number: 1
-Player Hand: JH 8D 5H 5D 5S JD 9C 7H 3C 3S 4D 2H 6D AH 4S QC 10C QH 
+Player Number: p1
+Player Hand: 4D 3C AD 7C AH 4H 2C AS 
+Battle Number: 73
+Player Number: p2
+Player Hand: 7H 10C 8S 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 
+The outcome of battle 73 is p2
 Battle Number: 74
-Player Number: 1
-Player Hand: 5D 5S JD 9C 7H 3C 3S 4D 2H 6D AH 4S QC 10C QH 
+Player Number: p1
+Player Hand: 7C AH 4H 2C AS 
+Battle Number: 74
+Player Number: p2
+Player Hand: 3S 6D JS 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S 
+The outcome of battle 74 is p1
 Battle Number: 75
-Player Number: 1
-Player Hand: 9C 7H 3C 3S 4D 2H 6D AH 4S QC 10C QH 
+Player Number: p1
+Player Hand: 2C AS 7C AH 4H 3S 6D JS 
+Battle Number: 75
+Player Number: p2
+Player Hand: 4S 8D 5S 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S 
+The outcome of battle 75 is p1
 Battle Number: 76
-Player Number: 1
-Player Hand: 3S 4D 2H 6D AH 4S QC 10C QH 
+Player Number: p1
+Player Hand: AH 4H 3S 6D JS 2C AS 7C 4S 8D 5S 
+Battle Number: 76
+Player Number: p2
+Player Hand: 6H KS QH JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S 
+The outcome of battle 76 is p2
 Battle Number: 77
-Player Number: 1
-Player Hand: 6D AH 4S QC 10C QH 
+Player Number: p1
+Player Hand: 6D JS 2C AS 7C 4S 8D 5S 
+Battle Number: 77
+Player Number: p2
+Player Hand: JD 2D 10S 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH 
+The outcome of battle 77 is p1
 Battle Number: 78
-Player Number: 1
-Player Hand: QC 10C QH 6D AH 4S QD 8C AS 
+Player Number: p1
+Player Hand: AS 7C 4S 8D 5S 6D JS 2C JD 2D 10S 
+Battle Number: 78
+Player Number: p2
+Player Hand: 9C 9D 2S KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH 
+The outcome of battle 78 is p2
 Battle Number: 79
-Player Number: 1
-Player Hand: 6D AH 4S QD 8C AS QC 10C QH 7C 8S 4H 
+Player Number: p1
+Player Hand: 8D 5S 6D JS 2C JD 2D 10S 
+Battle Number: 79
+Player Number: p2
+Player Hand: KH 5D 8H 6S QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 
+The outcome of war 3 is p1
 Battle Number: 80
-Player Number: 1
-Player Hand: QD 8C AS QC 10C QH 7C 8S 4H 6D AH 4S 8H KH 10H 
+Player Number: p1
+Player Hand: 2C JD 2D 10S JS 6S 8D 5S 6D KH 5D 8H 
+Battle Number: 80
+Player Number: p2
+Player Hand: QD JC 9S KD 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 
+The outcome of war 4 is p2
 Battle Number: 81
-Player Number: 1
-Player Hand: QC 10C QH 7C 8S 4H 6D AH 4S 8H KH 10H QD 8C AS 3H 2C 3D 
+Player Number: p1
+Player Hand: JS 6S 8D 5S 6D KH 5D 8H 
+Battle Number: 81
+Player Number: p2
+Player Hand: 8C QC 7S 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 10S KD 2C JD 2D QD JC 9S 
+The outcome of battle 81 is p2
 Battle Number: 82
-Player Number: 1
-Player Hand: 7C 8S 4H 6D AH 4S 8H KH 10H QD 8C AS 3H 2C 3D QC 10C QH 9S 6S 9H 
+Player Number: p1
+Player Hand: 5S 6D KH 5D 8H 
+Battle Number: 82
+Player Number: p2
+Player Hand: 9H KC 3H 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 10S KD 2C JD 2D QD JC 9S JS 6S 8D 8C QC 7S 
+The outcome of battle 82 is p2
 Battle Number: 83
-Player Number: 1
-Player Hand: 6D AH 4S 8H KH 10H QD 8C AS 3H 2C 3D QC 10C QH 9S 6S 9H 7C 8S 4H 6H 5C 2S 
+Player Number: p1
+Player Hand: 5D 8H 
+Battle Number: 83
+Player Number: p2
+Player Hand: 4C 7D 10D 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 10S KD 2C JD 2D QD JC 9S JS 6S 8D 8C QC 7S 5S 6D KH 9H KC 3H 
+The outcome of battle 83 is p1
 Battle Number: 84
-Player Number: 1
-Player Hand: 8H KH 10H QD 8C AS 3H 2C 3D QC 10C QH 9S 6S 9H 7C 8S 4H 6H 5C 2S 6D AH 4S 4C 2D JC 
+Player Number: p1
+Player Hand: 5D 8H 4C 7D 10D 
+Battle Number: 84
+Player Number: p2
+Player Hand: 6C AC QS 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 10S KD 2C JD 2D QD JC 9S JS 6S 8D 8C QC 7S 5S 6D KH 9H KC 3H 
+The outcome of battle 84 is p2
 Battle Number: 85
-Player Number: 1
-Player Hand: QD 8C AS 3H 2C 3D QC 10C QH 9S 6S 9H 7C 8S 4H 6H 5C 2S 6D AH 4S 4C 2D JC 8H KH 10H JS JH 8D 
-Battle Numb
+Player Number: p1
+Player Hand: 7D 10D 
+Battle Number: 85
+Player Number: p2
+Player Hand: 5H 2H 3D 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 10S KD 2C JD 2D QD JC 9S JS 6S 8D 8C QC 7S 5S 6D KH 9H KC 3H 5D 8H 4C 6C AC QS 
+The outcome of battle 85 is p1
+Battle Number: 86
+Player Number: p1
+Player Hand: 7D 10D 5H 2H 3D 
+Battle Number: 86
+Player Number: p2
+Player Hand: 5C 10H JH 4D 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 10S KD 2C JD 2D QD JC 9S JS 6S 8D 8C QC 7S 5S 6D KH 9H KC 3H 5D 8H 4C 6C AC QS 
+The outcome of war 5 is p2
+Battle Number: 87
+Player Number: p1
+Player Hand: 3D 
+Battle Number: 87
+Player Number: p2
+Player Hand: 3C AD 7H 10C 8S AH 4H 3S 6H KS QH AS 7C 4S 9C 9D 2S 10S KD 2C JD 2D QD JC 9S JS 6S 8D 8C QC 7S 5S 6D KH 9H KC 3H 5D 8H 4C 6C AC QS 2H 4D 7D 10D 5H 5C 10H JH 
+The outcome of battle 87 is p2
+The winner of game 2 is p2
+Battle Number: 1
+Player Number: p1
+Player Hand: AD 5C AC 2C 3C KC JC 10D 7C 9C JH 2D 2H 3H 3D 8S 9D QC 6D QD 6C 9H 10H KS 6H 10S 
+Battle Number: 1
+Player Number: p2
+Player Hand: 4C AS 7H 6S 4S AH 10C JS 7D 4H 8D 5H 8H QS KD 8C 3S KH 5D 5S 2S JD 9S 7S 4D QH 
+The outcome of battle 1 is p2
+Battle Number: 2
+Player Number: p1
+Player Hand: 2C 3C KC JC 10D 7C 9C JH 2D 2H 3H 3D 8S 9D QC 6D QD 6C 9H 10H KS 6H 10S 
+Battle Number: 2
+Player Number: p2
+Player Hand: 6S 4S AH 10C JS 7D 4H 8D 5H 8H QS KD 8C 3S KH 5D 5S 2S JD 9S 7S 4D QH AD 5C AC 4C AS 7H 
+The outcome of battle 2 is p2
+Battle Number: 3
+Player Number: p1
+Player Hand: JC 10D 7C 9C JH 2D 2H 3H 3D 8S 9D QC 6D QD 6C 9H 10H KS 6H 10S 
+Battle Number: 3
+Player Number: p2
+Player Hand: 10C JS 7D 4H 8D 5H 8H QS KD 8C 3S KH 5D 5S 2S JD 9S 7S 4D QH AD 5C AC 4C AS 7H 2C 3C KC 6S 4S AH 
+The outcome of battle 3 is p2
+Battle Number: 4
+Player Number: p1
+Player Hand: 9C JH 2D 2H 3H 3D 8S 9D QC 6D QD 6C 9H 10H KS 6H 10S 
+Battle Number: 4
+Player Number: p2
+Player Hand: 4H 8D 5H 8H QS KD 8C 3S KH 5D 5S 2S JD 9S 7S 4D QH AD 5C AC 4C AS 7H 2C 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 
+The outcome of battle 4 is p1
+Battle Number: 5
+Player Number: p1
+Player Hand: 2H 3H 3D 8S 9D QC 6D QD 6C 9H 10H KS 6H 10S 9C JH 2D 4H 8D 5H 
+Battle Number: 5
+Player Number: p2
+Player Hand: 8H QS KD 8C 3S KH 5D 5S 2S JD 9S 7S 4D QH AD 5C AC 4C AS 7H 2C 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 
+The outcome of battle 5 is p2
+Battle Number: 6
+Player Number: p1
+Player Hand: 8S 9D QC 6D QD 6C 9H 10H KS 6H 10S 9C JH 2D 4H 8D 5H 
+Battle Number: 6
+Player Number: p2
+Player Hand: 8C 3S KH 5D 5S 2S JD 9S 7S 4D QH AD 5C AC 4C AS 7H 2C 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 
+The outcome of battle 6 is p1
+Battle Number: 7
+Player Number: p1
+Player Hand: 6D QD 6C 9H 10H KS 6H 10S 9C JH 2D 4H 8D 5H 8S 9D QC 8C 3S KH 
+Battle Number: 7
+Player Number: p2
+Player Hand: 5D 5S 2S JD 9S 7S 4D QH AD 5C AC 4C AS 7H 2C 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 
+The outcome of battle 7 is p1
+Battle Number: 8
+Player Number: p1
+Player Hand: 9H 10H KS 6H 10S 9C JH 2D 4H 8D 5H 8S 9D QC 8C 3S KH 6D QD 6C 5D 5S 2S 
+Battle Number: 8
+Player Number: p2
+Player Hand: JD 9S 7S 4D QH AD 5C AC 4C AS 7H 2C 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 
+The outcome of battle 8 is p1
+Battle Number: 9
+Player Number: p1
+Player Hand: 6H 10S 9C JH 2D 4H 8D 5H 8S 9D QC 8C 3S KH 6D QD 6C 5D 5S 2S 9H 10H KS JD 9S 7S 
+Battle Number: 9
+Player Number: p2
+Player Hand: 4D QH AD 5C AC 4C AS 7H 2C 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 
+The outcome of battle 9 is p2
+Battle Number: 10
+Player Number: p1
+Player Hand: JH 2D 4H 8D 5H 8S 9D QC 8C 3S KH 6D QD 6C 5D 5S 2S 9H 10H KS JD 9S 7S 
+Battle Number: 10
+Player Number: p2
+Player Hand: 5C AC 4C AS 7H 2C 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 6H 10S 9C 4D QH AD 
+The outcome of battle 10 is p2
+Battle Number: 11
+Player Number: p1
+Player Hand: 8D 5H 8S 9D QC 8C 3S KH 6D QD 6C 5D 5S 2S 9H 10H KS JD 9S 7S 
+Battle Number: 11
+Player Number: p2
+Player Hand: AS 7H 2C 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 6H 10S 9C 4D QH AD JH 2D 4H 5C AC 4C 
+The outcome of battle 11 is p2
+Battle Number: 12
+Player Number: p1
+Player Hand: 9D QC 8C 3S KH 6D QD 6C 5D 5S 2S 9H 10H KS JD 9S 7S 
+Battle Number: 12
+Player Number: p2
+Player Hand: 3C KC 6S 4S AH JC 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 6H 10S 9C 4D QH AD JH 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 
+The outcome of battle 12 is p2
+Battle Number: 13
+Player Number: p1
+Player Hand: 3S KH 6D QD 6C 5D 5S 2S 9H 10H KS JD 9S 7S 
+Battle Number: 13
+Player Number: p2
+Player Hand: 4S AH JC 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 6H 10S 9C 4D QH AD JH 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 
+The outcome of battle 13 is p2
+Battle Number: 14
+Player Number: p1
+Player Hand: QD 6C 5D 5S 2S 9H 10H KS JD 9S 7S 
+Battle Number: 14
+Player Number: p2
+Player Hand: 10D 7C 10C JS 7D 2H 3H 3D 8H QS KD 6H 10S 9C 4D QH AD JH 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC 
+The outcome of battle 14 is p2
+Battle Number: 15
+Player Number: p1
+Player Hand: 5S 2S 9H 10H KS JD 9S 7S 
+Battle Number: 15
+Player Number: p2
+Player Hand: JS 7D 2H 3H 3D 8H QS KD 6H 10S 9C 4D QH AD JH 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 
+The outcome of battle 15 is p2
+Battle Number: 16
+Player Number: p1
+Player Hand: 10H KS JD 9S 7S 
+Battle Number: 16
+Player Number: p2
+Player Hand: 3H 3D 8H QS KD 6H 10S 9C 4D QH AD JH 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 
+The outcome of battle 16 is p1
+Battle Number: 17
+Player Number: p1
+Player Hand: 9S 7S 10H KS JD 3H 3D 8H 
+Battle Number: 17
+Player Number: p2
+Player Hand: QS KD 6H 10S 9C 4D QH AD JH 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 
+The outcome of battle 17 is p2
+Battle Number: 18
+Player Number: p1
+Player Hand: KS JD 3H 3D 8H 
+Battle Number: 18
+Player Number: p2
+Player Hand: 10S 9C 4D QH AD JH 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 
+The outcome of battle 18 is p1
+Battle Number: 19
+Player Number: p1
+Player Hand: 3D 8H KS JD 3H 10S 9C 4D 
+Battle Number: 19
+Player Number: p2
+Player Hand: QH AD JH 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 
+The outcome of battle 19 is p2
+Battle Number: 20
+Player Number: p1
+Player Hand: JD 3H 10S 9C 4D 
+Battle Number: 20
+Player Number: p2
+Player Hand: 2D 4H 5C AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH 
+The outcome of battle 20 is p2
+Battle Number: 21
+Player Number: p1
+Player Hand: 9C 4D 
+Battle Number: 21
+Player Number: p2
+Player Hand: AC 4C 8D 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 
+The outcome of battle 21 is p1
+Battle Number: 22
+Player Number: p1
+Player Hand: 9C 4D AC 4C 8D 
+Battle Number: 22
+Player Number: p2
+Player Hand: 5H 8S AS 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 
+The outcome of battle 22 is p2
+Battle Number: 23
+Player Number: p1
+Player Hand: 4C 8D 
+Battle Number: 23
+Player Number: p2
+Player Hand: 7H 2C 9D QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 
+The outcome of battle 23 is p1
+Battle Number: 24
+Player Number: p1
+Player Hand: 4C 8D 7H 2C 9D 
+Battle Number: 24
+Player Number: p2
+Player Hand: QC 8C 3C KC 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 
+The outcome of war 1 is p2
+Battle Number: 25
+Player Number: p1
+Player Hand: 9D 
+Battle Number: 25
+Player Number: p2
+Player Hand: 6S 3S KH 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 2C KC 4C 8D 7H QC 8C 3C 
+The outcome of battle 25 is p1
+Battle Number: 26
+Player Number: p1
+Player Hand: 9D 6S 3S KH 
+Battle Number: 26
+Player Number: p2
+Player Hand: 6D 4S AH JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 2C KC 4C 8D 7H QC 8C 3C 
+The outcome of battle 26 is p1
+Battle Number: 27
+Player Number: p1
+Player Hand: KH 9D 6S 3S 6D 4S AH 
+Battle Number: 27
+Player Number: p2
+Player Hand: JC QD 6C 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 2C KC 4C 8D 7H QC 8C 3C 
+The outcome of battle 27 is p2
+Battle Number: 28
+Player Number: p1
+Player Hand: 3S 6D 4S AH 
+Battle Number: 28
+Player Number: p2
+Player Hand: 5D 10D 7C 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 2C KC 4C 8D 7H QC 8C 3C KH 9D 6S JC QD 6C 
+The outcome of battle 28 is p2
+Battle Number: 29
+Player Number: p1
+Player Hand: AH 
+Battle Number: 29
+Player Number: p2
+Player Hand: 10C 5S 2S 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 2C KC 4C 8D 7H QC 8C 3C KH 9D 6S JC QD 6C 3S 6D 4S 5D 10D 7C 
+The outcome of battle 29 is p1
+Battle Number: 30
+Player Number: p1
+Player Hand: AH 10C 5S 2S 
+Battle Number: 30
+Player Number: p2
+Player Hand: 9H JS 7D 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 2C KC 4C 8D 7H QC 8C 3C KH 9D 6S JC QD 6C 3S 6D 4S 5D 10D 7C 
+The outcome of battle 30 is p2
+Battle Number: 31
+Player Number: p1
+Player Hand: 2S 
+Battle Number: 31
+Player Number: p2
+Player Hand: 2H 9S 7S 10H QS KD 6H 3D 8H KS QH AD JH JD 3H 10S 2D 4H 5C 9C 4D AC 5H 8S AS 2C KC 4C 8D 7H QC 8C 3C KH 9D 6S JC QD 6C 3S 6D 4S 5D 10D 7C AH 10C 5S 9H JS 7D 
+The outcome of battle 31 is p2
+The winner of game 3 is p2
