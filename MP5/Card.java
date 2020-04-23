@@ -9,7 +9,6 @@
 * @version 1.0
 */
 
-
 public class Card{
 
   /**Value of the card*/
