@@ -1,36 +1,68 @@
-
+/** Card.java
+*
+* This is a Card class
+* @author Krishna Narayan
+* @author Student ID: 2327205
+* @author narayan@chapman.edu
+* CPSC 231-02 - Dr. Stevens
+* Mastery Project 5: Modern War(fare)
+* @version 1.0
+*/
 
 
 public class Card{
+
+  /**Value of the card*/
   private String value;
+  /**Suit of the card*/
   private String suit;
 
+  /**Default constructor - sets value and size to "X"*/
   public Card(){
     value = "X";
     suit = "X";
   }
 
+  /**Overloaded constructor - creates card of given value and suit
+  * @param value Value of the card
+  * @param suit Suit of the card
+	*/
   public Card(String value, String suit){
     this.value = value;
     this.suit = suit;
   }
 
+  /**Sets the value of the card to value given
+  * @param value Value to set card to
+  */
   public void setValue(String value){
     this.value = value;
   }
 
+  /**Returns the value of the card
+  * @return A string representing the value of the card
+  */
   public String getValue(){
     return value;
   }
 
+  /**Sets the suit of the card to suit given
+  * @param suit Suit to set card to
+  */
   public void setSuit(String suit){
     this.suit = suit;
   }
 
+  /**Returns the suit of the card
+  * @return A string representing the suit of the card
+  */
   public String getSuit(){
     return suit;
   }
 
+  /**Returns the numerical worth of the card depending on value
+  * @return An int representing the cards worth
+  */
   public int getWorth(){
     if(value.equals("2")){
       return 2;
@@ -61,14 +93,9 @@ public class Card{
     }
   }
 
-  public boolean equals(Card card){
-    if((this.value).equals(card.getValue()) && (this.suit).equals(card.getSuit())){
-      return true;
-    }else{
-      return false;
-    }
-  }
-
+  /**Returns the value and suit as a string
+  * @return A string representing the value and suit of the card
+  */
   public String toString(){
     return value + suit;
   }

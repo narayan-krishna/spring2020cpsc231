@@ -1,21 +1,45 @@
+/** Simulation.java
+*
+* This is a Simulation class
+* @author Krishna Narayan
+* @author Student ID: 2327205
+* @author narayan@chapman.edu
+* CPSC 231-02 - Dr. Stevens
+* Mastery Project 5: Modern War(fare)
+* @version 1.0
+*/
 
 public class Simulation{
 
+  /***/
   private int numGames;
 
+  /***/
   private Double totalBattles;
+  /***/
   private Double totalWars;
+  /***/
   private Double totalDoubleWars;
 
+  /***/
   private Double avgBattles;
+  /***/
   private Double avgWars;
+  /***/
   private Double avgDoubleWars;
 
+  /***/
   private int maxNumBattles;
+  /***/
   private int minNumBattles;
+  /***/
   private int maxNumWars;
+  /***/
   private int minNumWars;
 
+  /**
+  *
+	*/
   public Simulation(int numGames){
     this.numGames = numGames;
     totalBattles = 0.0;
