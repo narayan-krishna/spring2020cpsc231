@@ -16,7 +16,7 @@ public class Undead extends Monster{
     super();
   }
 
-  public undead(String name, String origin, int year){
+  public Undead(String name, String origin, int year){
     super(name, origin);
     yearHeartStopped = year;
   }

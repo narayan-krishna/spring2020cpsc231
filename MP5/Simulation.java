@@ -115,9 +115,9 @@ public class Simulation{
     }
   }
 
-  /**The main method. Exercises the functionality of the Pizza and
-  * the Simulation class. Games are simulated, statistics are calculated and
-  * reported. War logger is released
+  /**The main method. Exercises the functionality of the  and Simulation class.
+  * Games are simulated, statistics are calculated and reported. War logger is
+  * released
   * @param args Number of games to be played
   */
   public static void main(String[]args){
