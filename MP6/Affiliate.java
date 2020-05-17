@@ -117,14 +117,23 @@ public abstract class Affiliate implements Comparable<Affiliate>, Printable{
     this.yearToChapman = yearToChapman;
   }
 
+  /**Returns ID
+  * @return An int representing ID
+  */
   public int getID(){
     return -1;
   }
 
+  /**Returns class type
+  * @return a string representing class type
+  */
   public String getClassType(){
     return "-1";
   }
 
+  /**Returns an int depending on which of two affiliates is bigger
+  * @return An int representing if one affiliates is bigger or another
+  */
   public int compareTo(Affiliate c){
     if(this.yearToChapman >= c.yearToChapman){
       return 1;
@@ -133,6 +142,9 @@ public abstract class Affiliate implements Comparable<Affiliate>, Printable{
     }
   }
 
+  /**Returns a string printing all relevant data
+  * @return A string representing all relevant data
+  */
   public String print(){
     return name + ", " + age + ", " + address
     + ", " + phoneNumber + ", " + yearToChapman;

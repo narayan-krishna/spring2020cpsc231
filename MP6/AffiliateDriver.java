@@ -1,15 +1,29 @@
+/** AffiliateDriver.java
+*
+* This is an AffiliateDriver class
+* @author Krishna Narayan
+* @author Student ID: 2327205
+* @author narayan@chapman.edu
+* CPSC 231-02 - Dr. Stevens
+* Mastery Project 6:Inheritance, Interfaces, & Abstract Classes
+* @version 1.0
+*/
+
 import java.io.*;
 import java.util.*;
 
 
 public class AffiliateDriver{
 
+  /**Database which holds affiliates*/
   private HashMap<Affiliate, Integer> database;
 
+  /**Default constructor*/
   public AffiliateDriver(){
     database = new HashMap<Affiliate, Integer>();
   }
 
+  /**Prints user options*/
   public void printOptions(){
     System.out.println("1) Create an affiliate record\n" +
     "2) Print information for an Affiliate given the id\n" +
@@ -19,10 +33,16 @@ public class AffiliateDriver{
     "6) Restore your database from a file\n" + "7) Exit\n");
   }
 
+  /**Creates an affiliate record in the database given affiliates
+  * @param a Affiliate to put in database
+  */
   public void create(Affiliate a){
     database.put(a, a.getID());
   }
 
+  /**Print attributes of affiliate given id
+  * @param id id of affiliate to print
+  */
   public void printAffiliate(int id){
     for(Affiliate a : database.keySet()){
       if(id == database.get(a)){
@@ -31,6 +51,9 @@ public class AffiliateDriver{
     }
   }
 
+  /**Delete affiliate given id
+  * @param id id of affiliate to print
+  */
   public void deleteAffiliate(int id){
     for(Affiliate a : database.keySet()){
       if(id == database.get(a)){
@@ -40,12 +63,14 @@ public class AffiliateDriver{
     }
   }
 
+  /**Prints database to console*/
   public void printDatabase(){
     for(Affiliate a : database.keySet()){
         System.out.println(a.print() + "\n");
     }
   }
 
+  /**Sort database by seniority, and print*/
   public void senioritySort(){
     ArrayList<Affiliate> sorter = new ArrayList<Affiliate>();
     int added = 0;
@@ -85,6 +110,9 @@ public class AffiliateDriver{
     }
   }
 
+  /**Save current database to file of given name
+  * @param fileName name of file to create
+  */
   public void saveToFile(String fileName){
     // FileOutputStream fileStream = null;
     PrintWriter outFS = null;
@@ -100,6 +128,9 @@ public class AffiliateDriver{
     }
   }
 
+  /**Read affiliates from given file and add to database
+  * @param fileName name of file to read from
+  */
   public void readToDatabase(String fileName){
     BufferedReader read;
     try{
@@ -159,182 +190,164 @@ public class AffiliateDriver{
     }
   }
 
+  /**The main method. Exercises the functionality of the AffiliateDriver class.
+  * Provides user with a series of options, uses scanner input to procede.
+  * @param args Not used
+  */
   public static void main(String []args){
-    AffiliateDriver d = new AffiliateDriver();
-    Scanner sc = new Scanner(System.in);
-    String option = "";
+    try{
+        AffiliateDriver d = new AffiliateDriver();
+        Scanner sc = new Scanner(System.in);
+        String option = "";
 
-    while(!(option.equals("7"))){
-      System.out.println();
-      d.printOptions();
-      option = sc.nextLine();
-      if(option.equals("1")){
-        System.out.println("enter the type of affiliate you'd like to create: ");
-        String type = sc.nextLine().toLowerCase();
-        System.out.println("enter name");
-        String name = sc.nextLine();
-        System.out.println("enter age");
-        int age = Integer.parseInt(sc.nextLine());
-        System.out.println("enter address");
-        String address = sc.nextLine();
-        System.out.println("enter phone number (no area code)");
-        int phoneNumber = Integer.parseInt(sc.nextLine());
-        System.out.println("enter year affiliate came to chapman");
-        int yearToChapman = Integer.parseInt(sc.nextLine());
-        if(type.equals("full professor")){
-          System.out.println("enter faculty id");
-          int facultyID = Integer.parseInt(sc.nextLine());
-          System.out.println("enter department");
-          String department = sc.nextLine();
-          System.out.println("enter yearly salaray");
-          int yearlySalary = Integer.parseInt(sc.nextLine());
-          System.out.println("enter number of papers published");
-          int numPapers = Integer.parseInt(sc.nextLine());
-          System.out.println("enter years until retirement");
-          int yearsUntilRetirement = Integer.parseInt(sc.nextLine());
-          FullProfessor a = new FullProfessor(name, age, address, phoneNumber,
-          yearToChapman, facultyID, department, yearlySalary, numPapers,
-          yearsUntilRetirement);
-          d.create(a);
-        }else if(type.equals("assistant professor")){
-          System.out.println("enter faculty id");
-          int facultyID = Integer.parseInt(sc.nextLine());
-          System.out.println("enter department");
-          String department = sc.nextLine();
-          System.out.println("enter yearly salaray");
-          int yearlySalary = Integer.parseInt(sc.nextLine());
-          System.out.println("enter number of papers published");
-          int numPapers = Integer.parseInt(sc.nextLine());
-          System.out.println("enter years until tenure");
-          int yearsUntilTenure = Integer.parseInt(sc.nextLine());
-          AssistantProfessor a = new AssistantProfessor(name, age, address, phoneNumber,
-          yearToChapman, facultyID, department, yearlySalary, numPapers,
-          yearsUntilTenure);
-          d.create(a);
-        }else if(type.equals("associate professor")){
-          System.out.println("enter faculty id");
-          int facultyID = Integer.parseInt(sc.nextLine());
-          System.out.println("enter department");
-          String department = sc.nextLine();
-          System.out.println("enter yearly salaray");
-          int yearlySalary = Integer.parseInt(sc.nextLine());
-          System.out.println("enter number of papers published");
-          int numPapers = Integer.parseInt(sc.nextLine());
-          System.out.println("enter years since tenure");
-          int yearsSinceTenure = Integer.parseInt(sc.nextLine());
-          AssociateProfessor a = new AssociateProfessor(name, age, address, phoneNumber,
-          yearToChapman, facultyID, department, yearlySalary, numPapers,
-          yearsSinceTenure);
-          d.create(a);
-        }else if(type.equals("full time staff")){
-          System.out.println("enter staff id");
-          int staffID = Integer.parseInt(sc.nextLine());
-          System.out.println("enter title");
-          String title = sc.nextLine();
-          System.out.println("enter building");
-          String building = sc.nextLine();
-          System.out.println("enter yearly salary");
-          int yearlySalary = Integer.parseInt(sc.nextLine());
-          FullTimeStaff a = new FullTimeStaff(name, age, address, phoneNumber,
-          yearToChapman, staffID, title, building, yearlySalary);
-          d.create(a);
-        }else if(type.equals("part time staff")){
-          System.out.println("enter staff id");
-          int staffID = Integer.parseInt(sc.nextLine());
-          System.out.println("enter title");
-          String title = sc.nextLine();
-          System.out.println("enter building");
-          String building = sc.nextLine();
-          System.out.println("enter hourly salary");
-          int hourlySalary = Integer.parseInt(sc.nextLine());
-          PartTimeStaff a = new PartTimeStaff(name, age, address, phoneNumber,
-          yearToChapman, staffID, title, building, hourlySalary);
-          d.create(a);
-        }else if(type.equals("grad student")){
-          System.out.println("enter student id");
-          int studentID = Integer.parseInt(sc.nextLine());
-          System.out.println("enter major");
-          String major = sc.nextLine();
-          System.out.println("enter minor");
-          String minor = sc.nextLine();
-          System.out.println("enter class standing");
-          int classStanding = Integer.parseInt(sc.nextLine());
-          System.out.println("enter papers published");
-          int papersPublished = Integer.parseInt(sc.nextLine());
-          System.out.println("enter thesis advisor");
-          String thesisAdvisor = sc.nextLine();
-          GraduateStudent a = new GraduateStudent(name, age, address,
-          phoneNumber, yearToChapman, studentID, major, minor, classStanding,
-          papersPublished, thesisAdvisor);
-          d.create(a);
-        }else if(type.equals("undergrad student")){
-          System.out.println("enter student id");
-          int studentID = Integer.parseInt(sc.nextLine());
-          System.out.println("enter major");
-          String major = sc.nextLine();
-          System.out.println("enter minor");
-          String minor = sc.nextLine();
-          System.out.println("enter class standing");
-          int classStanding = Integer.parseInt(sc.nextLine());
-          System.out.println("enter courses taken");
-          int coursesTaken = Integer.parseInt(sc.nextLine());
-          System.out.println("enter scholarship amount");
-          int scholarshipAmount = Integer.parseInt(sc.nextLine());
-          UndergraduateStudent a = new UndergraduateStudent(name, age, address,
-          phoneNumber, yearToChapman, studentID, major, minor, classStanding,
-          coursesTaken, scholarshipAmount);
-          d.create(a);
+        while(!(option.equals("7"))){
+          System.out.println();
+          d.printOptions();
+          option = sc.nextLine();
+          if(option.equals("1")){
+            System.out.println("enter the type of affiliate you'd like to create: ");
+            String type = sc.nextLine().toLowerCase();
+            System.out.println("enter name");
+            String name = sc.nextLine();
+            System.out.println("enter age");
+            int age = Integer.parseInt(sc.nextLine());
+            System.out.println("enter address");
+            String address = sc.nextLine();
+            System.out.println("enter phone number (no area code)");
+            int phoneNumber = Integer.parseInt(sc.nextLine());
+            System.out.println("enter year affiliate came to chapman");
+            int yearToChapman = Integer.parseInt(sc.nextLine());
+            if(type.equals("full professor")){
+              System.out.println("enter faculty id");
+              int facultyID = Integer.parseInt(sc.nextLine());
+              System.out.println("enter department");
+              String department = sc.nextLine();
+              System.out.println("enter yearly salaray");
+              int yearlySalary = Integer.parseInt(sc.nextLine());
+              System.out.println("enter number of papers published");
+              int numPapers = Integer.parseInt(sc.nextLine());
+              System.out.println("enter years until retirement");
+              int yearsUntilRetirement = Integer.parseInt(sc.nextLine());
+              FullProfessor a = new FullProfessor(name, age, address, phoneNumber,
+              yearToChapman, facultyID, department, yearlySalary, numPapers,
+              yearsUntilRetirement);
+              d.create(a);
+            }else if(type.equals("assistant professor")){
+              System.out.println("enter faculty id");
+              int facultyID = Integer.parseInt(sc.nextLine());
+              System.out.println("enter department");
+              String department = sc.nextLine();
+              System.out.println("enter yearly salaray");
+              int yearlySalary = Integer.parseInt(sc.nextLine());
+              System.out.println("enter number of papers published");
+              int numPapers = Integer.parseInt(sc.nextLine());
+              System.out.println("enter years until tenure");
+              int yearsUntilTenure = Integer.parseInt(sc.nextLine());
+              AssistantProfessor a = new AssistantProfessor(name, age, address, phoneNumber,
+              yearToChapman, facultyID, department, yearlySalary, numPapers,
+              yearsUntilTenure);
+              d.create(a);
+            }else if(type.equals("associate professor")){
+              System.out.println("enter faculty id");
+              int facultyID = Integer.parseInt(sc.nextLine());
+              System.out.println("enter department");
+              String department = sc.nextLine();
+              System.out.println("enter yearly salaray");
+              int yearlySalary = Integer.parseInt(sc.nextLine());
+              System.out.println("enter number of papers published");
+              int numPapers = Integer.parseInt(sc.nextLine());
+              System.out.println("enter years since tenure");
+              int yearsSinceTenure = Integer.parseInt(sc.nextLine());
+              AssociateProfessor a = new AssociateProfessor(name, age, address, phoneNumber,
+              yearToChapman, facultyID, department, yearlySalary, numPapers,
+              yearsSinceTenure);
+              d.create(a);
+            }else if(type.equals("full time staff")){
+              System.out.println("enter staff id");
+              int staffID = Integer.parseInt(sc.nextLine());
+              System.out.println("enter title");
+              String title = sc.nextLine();
+              System.out.println("enter building");
+              String building = sc.nextLine();
+              System.out.println("enter yearly salary");
+              int yearlySalary = Integer.parseInt(sc.nextLine());
+              FullTimeStaff a = new FullTimeStaff(name, age, address, phoneNumber,
+              yearToChapman, staffID, title, building, yearlySalary);
+              d.create(a);
+            }else if(type.equals("part time staff")){
+              System.out.println("enter staff id");
+              int staffID = Integer.parseInt(sc.nextLine());
+              System.out.println("enter title");
+              String title = sc.nextLine();
+              System.out.println("enter building");
+              String building = sc.nextLine();
+              System.out.println("enter hourly salary");
+              int hourlySalary = Integer.parseInt(sc.nextLine());
+              PartTimeStaff a = new PartTimeStaff(name, age, address, phoneNumber,
+              yearToChapman, staffID, title, building, hourlySalary);
+              d.create(a);
+            }else if(type.equals("grad student")){
+              System.out.println("enter student id");
+              int studentID = Integer.parseInt(sc.nextLine());
+              System.out.println("enter major");
+              String major = sc.nextLine();
+              System.out.println("enter minor");
+              String minor = sc.nextLine();
+              System.out.println("enter class standing");
+              int classStanding = Integer.parseInt(sc.nextLine());
+              System.out.println("enter papers published");
+              int papersPublished = Integer.parseInt(sc.nextLine());
+              System.out.println("enter thesis advisor");
+              String thesisAdvisor = sc.nextLine();
+              GraduateStudent a = new GraduateStudent(name, age, address,
+              phoneNumber, yearToChapman, studentID, major, minor, classStanding,
+              papersPublished, thesisAdvisor);
+              d.create(a);
+            }else if(type.equals("undergrad student")){
+              System.out.println("enter student id");
+              int studentID = Integer.parseInt(sc.nextLine());
+              System.out.println("enter major");
+              String major = sc.nextLine();
+              System.out.println("enter minor");
+              String minor = sc.nextLine();
+              System.out.println("enter class standing");
+              int classStanding = Integer.parseInt(sc.nextLine());
+              System.out.println("enter courses taken");
+              int coursesTaken = Integer.parseInt(sc.nextLine());
+              System.out.println("enter scholarship amount");
+              int scholarshipAmount = Integer.parseInt(sc.nextLine());
+              UndergraduateStudent a = new UndergraduateStudent(name, age, address,
+              phoneNumber, yearToChapman, studentID, major, minor, classStanding,
+              coursesTaken, scholarshipAmount);
+              d.create(a);
+            }
+            else{
+              System.out.println("error");
+            }
+          }else if(option.equals("2")){
+            System.out.println("enter id");
+            int id = Integer.parseInt(sc.nextLine());
+            d.printAffiliate(id);
+          }else if(option.equals("3")){
+            d.senioritySort();
+          }else if(option.equals("4")){
+            System.out.println("enter id");
+            int id = Integer.parseInt(sc.nextLine());
+            d.deleteAffiliate(id);
+          }else if(option.equals("5")){
+            System.out.println("enter name of file: ");
+            String fileName = sc.nextLine();
+            d.saveToFile(fileName);
+          }else if(option.equals("6")){
+            System.out.println("enter name of file: ");
+            String fileName = sc.nextLine();
+            d.readToDatabase(fileName);
+          }
         }
-        else{
-          System.out.println("error");
-        }
-      }else if(option.equals("2")){
-        System.out.println("enter id");
-        int id = Integer.parseInt(sc.nextLine());
-        d.printAffiliate(id);
-      }else if(option.equals("3")){
-        d.senioritySort();
-      }else if(option.equals("4")){
-        System.out.println("enter id");
-        int id = Integer.parseInt(sc.nextLine());
-        d.deleteAffiliate(id);
-      }else if(option.equals("5")){
-        System.out.println("enter name of file: ");
-        String fileName = sc.nextLine();
-        d.saveToFile(fileName);
-      }else if(option.equals("6")){
-        System.out.println("enter name of file: ");
-        String fileName = sc.nextLine();
-        d.readToDatabase(fileName);
-      }
+        System.out.println();
+    }catch(Exception e){
+      System.out.println("Warning. System failure. Try again.");
     }
-    System.out.println();
   }
 
-  // public static void main(String []args){
-  //   AffiliateDriver d = new AffiliateDriver();
-  //   d.printInstructions();
-  //   GraduateStudent assistant = new GraduateStudent();
-  //   assistant.setYearToChapman(121);
-  //   assistant.setStudentID(32);
-  //   assistant.setName("brrr");
-  //   AssistantProfessor assistant2 = new AssistantProfessor();
-  //   assistant2.setYearToChapman(124);
-  //   assistant2.setName("arr");
-  //   PartTimeStaff assistant3 = new PartTimeStaff();
-  //   assistant3.setYearToChapman(123);
-  //   assistant3.setName("eee");
-  //   d.create(assistant);
-  //   d.create(assistant2);
-  //   d.create(assistant3);
-  //   //d.senioritySort();
-  //   System.out.println("-----------------------------------------------------");
-  //   // d.deleteAffiliate(32);
-  //   //d.senioritySort();
-  //   System.out.println("-----------------------------------------------------");
-  //   d.saveToFile("data.txt");
-  //   d.readToDatabase("data.txt");
-  //   d.printDatabase();
-  //   // UndergraduateStudent s = new UndergraduateStudent();
-  // }
 }

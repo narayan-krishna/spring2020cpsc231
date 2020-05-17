@@ -90,18 +90,30 @@ public abstract class Faculty extends Affiliate implements Printable{
     this.yearlySalary = yearlySalary;
   }
 
+  /**Returns number of papers published
+  * @return An int representing number of papers
+  */
   public int getNumPapers(){
     return numPapers;
   }
 
+  /**Sets num papers to given int
+  * @param numPapers number of papers
+  */
   public void setNumPapers(int numPapers){
     this.numPapers = numPapers;
   }
 
+  /**Returns class type
+  * @return a string representing class type
+  */
   public String getClassType(){
     return "-1";
   }
 
+  /**Returns a string printing all relevant data
+  * @return A string representing all relevant data
+  */
   public String print(){
     return super.print() + ", " + facultyID + ", "
     + department + ", " + yearlySalary + ", " + numPapers;
